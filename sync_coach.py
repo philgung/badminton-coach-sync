@@ -68,7 +68,6 @@ def query_database_rows(database_id):
     has_more = True
     start_cursor = None
 
-    # Récupérer l'ID de la data_source (nouvelle architecture API Notion)
     data_source_id = None
     try:
         db_info = notion.databases.retrieve(database_id=database_id)
@@ -124,7 +123,6 @@ def database_to_markdown(database_id, depth=0):
         values = [extract_property_value(props.get(col, {})).replace("\n", " ") for col in headers]
         md_lines.append("| " + " | ".join(values) + " |")
 
-        # Lire aussi le contenu détaillé à l'intérieur de chaque page de la base de données
         row_title = values[0] if values else "Fiche"
         row_content = fetch_blocks_recursive(row["id"], depth=depth + 1)
         if row_content.strip():
@@ -206,7 +204,11 @@ def fetch_blocks_recursive(block_id, depth=0, indent=0):
                 print(f"🗄️ Base de données trouvée : {title}")
                 heading_level = "#" * min(depth + 2, 6)
                 markdown_output += f"\n{heading_level} {title}\n"
-                markdown_output += database_to_markdown(block["id"], depth=depth)
+                try:
+                    markdown_output += database_to_markdown(block["id"], depth=depth)
+                except Exception as e:
+                    print(f"⚠️ Impossible de lire la base '{title}' (probablement une vue liée) : {e}")
+                    markdown_output += f"*Base de données liée ({title}) non exportable directement.*\n"
 
             elif b_type == "link_to_page":
                 link_info = block.get("link_to_page", {})
@@ -234,30 +236,38 @@ def fetch_blocks_recursive(block_id, depth=0, indent=0):
 
 def extract_any_target(target_id, depth=0):
     """Détecte automatiquement si l'ID est une Page ou une Base de Données."""
+    is_page = False
+    title = "Page Notion"
+
     try:
         page = notion.pages.retrieve(page_id=target_id)
+        is_page = True
         props = page.get("properties", {})
-        title = "Page Notion"
         for prop in props.values():
             if prop.get("type") == "title":
                 title = extract_rich_text(prop.get("title", [])) or title
+    except APIResponseError as e:
+        if "is a database" not in str(e).lower():
+            raise
+
+    if is_page:
         print(f"✅ Cible identifiée comme PAGE : '{title}'")
         content = fetch_blocks_recursive(target_id, depth=depth)
         return f"\n## {title}\n{content}"
-    except APIResponseError:
-        try:
-            db = notion.databases.retrieve(database_id=target_id)
-            title = extract_rich_text(db.get("title", [])) or "Base de données"
-            print(f"✅ Cible identifiée comme BASE DE DONNÉES : '{title}'")
-            return f"\n## {title}\n" + database_to_markdown(target_id, depth=depth)
-        except APIResponseError as e:
-            raise ValueError(f"Impossible d'accéder à l'ID {target_id}. Détail : {e}")
+
+    db = notion.databases.retrieve(database_id=target_id)
+    title = extract_rich_text(db.get("title", [])) or "Base de données"
+    print(f"✅ Cible identifiée comme BASE DE DONNÉES : '{title}'")
+    return f"\n## {title}\n" + database_to_markdown(target_id, depth=depth)
 
 
 def generate_skill_file():
     print(f"🔄 Synchronisation depuis Notion (ID : {ROOT_ID})...")
     knowledge_base = extract_any_target(ROOT_ID)
     last_updated = datetime.now().strftime("%Y-%m-%d %H:%M")
+
+    if not knowledge_base.strip():
+        print("⚠️ ATTENTION : Aucun contenu extrait. Vérifiez les logs ci-dessus.")
 
     skill_header = f"""---
 name: badminton-super-coach
