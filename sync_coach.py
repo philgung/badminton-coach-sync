@@ -7,11 +7,12 @@ from dotenv import load_dotenv
 load_dotenv()
 
 NOTION_TOKEN = os.getenv("NOTION_TOKEN", "").strip()
-ROOT_ID = os.getenv("NOTION_PAGE_ID", "").replace("-", "").strip()
+PAGE_IDS = os.getenv("NOTION_PAGE_IDS", "").strip() or os.getenv("NOTION_PAGE_ID", "").strip()
+ROOT_IDS = [page_id.replace("-", "").strip() for page_id in PAGE_IDS.split(",") if page_id.strip()]
 OUTPUT_FILE = os.path.join("output", "skills.md")
 
-if not NOTION_TOKEN or not ROOT_ID:
-    raise ValueError("Erreur : NOTION_TOKEN et NOTION_PAGE_ID doivent être définis.")
+if not NOTION_TOKEN or not ROOT_IDS:
+    raise ValueError("Erreur : NOTION_TOKEN et NOTION_PAGE_IDS doivent être définis.")
 
 notion = Client(auth=NOTION_TOKEN)
 visited_ids = set()
@@ -262,8 +263,8 @@ def extract_any_target(target_id, depth=0):
 
 
 def generate_skill_file():
-    print(f"🔄 Synchronisation depuis Notion (ID : {ROOT_ID})...")
-    knowledge_base = extract_any_target(ROOT_ID)
+    print(f"🔄 Synchronisation depuis Notion (IDs : {', '.join(ROOT_IDS)})...")
+    knowledge_base = "\n".join(extract_any_target(root_id) for root_id in ROOT_IDS)
     last_updated = datetime.now().strftime("%Y-%m-%d %H:%M")
 
     if not knowledge_base.strip():

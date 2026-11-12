@@ -24,7 +24,7 @@ badminton-coach-sync/
 1. Créez une intégration sur [notion.so/my-integrations](https://www.notion.so/my-integrations) avec les droits de lecture (*Read content*).
 2. Récupérez le **Secret Token** (`ntn_...`).
 3. Sur votre page Notion principale "Badminton", cliquez sur `•••` > **Connexions** > ajoutez votre intégration.
-4. Récupérez l'**ID de la page** dans son URL (les 32 caractères à la fin de l'URL).
+4. Récupérez l'**ID de chaque page ou base de données** à synchroniser dans son URL (les 32 caractères à la fin de l'URL).
 
 ### 2. Utilisation en local
 ```bash
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 # Configurer les secrets
 cp .env.example .env
-# -> Éditez .env avec votre NOTION_TOKEN et NOTION_PAGE_ID
+# -> Éditez .env avec votre NOTION_TOKEN et NOTION_PAGE_IDS (IDs séparés par des virgules)
 
 # Lancer la génération à la demande
 python sync_coach.py
@@ -48,7 +48,7 @@ python sync_coach.py
 ### 3. Mise à jour à la demande directement depuis GitHub (Sans terminal)
 Grâce au fichier `.github/workflows/sync-coach.yml` inclus :
 1. Sur votre dépôt GitHub, allez dans **Settings > Secrets and variables > Actions**.
-2. Ajoutez deux secrets : `NOTION_TOKEN` et `NOTION_PAGE_ID`.
+2. Ajoutez les secrets `NOTION_TOKEN` et `NOTION_PAGE_IDS`. Renseignez les IDs des pages ou bases de données à synchroniser dans `NOTION_PAGE_IDS`, séparés par des virgules.
 3. Dès que vous modifiez vos notes dans Notion, allez dans l'onglet **Actions** de GitHub > **Update Badminton Coach Skill** > cliquez sur **Run workflow**.
 4. Votre fichier `output/skills.md` est automatiquement mis à jour dans le dépôt !
 

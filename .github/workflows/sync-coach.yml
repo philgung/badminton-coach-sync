@@ -27,7 +27,7 @@ jobs:
       - name: Générer output/skills.md depuis Notion
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
-          NOTION_PAGE_ID: ${{ secrets.NOTION_PAGE_ID }}
+          NOTION_PAGE_IDS: ${{ secrets.NOTION_PAGE_IDS || secrets.NOTION_PAGE_ID }}
         run: python sync_coach.py
 
       - name: Committer et pousser le fichier mis à jour
