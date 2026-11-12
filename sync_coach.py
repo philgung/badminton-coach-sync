@@ -75,10 +75,8 @@ def database_to_markdown(database_id):
         start_cursor = response.get("next_cursor")
 
     if not rows:
-        return "*Base de données vide.*
-"
+        return "*Base de données vide.*\\n"
 
-    # Récupérer les colonnes depuis la première ligne (en mettant le titre en premier)
     sample_props = rows[0].get("properties", {})
     title_cols = [k for k, v in sample_props.items() if v.get("type") == "title"]
     other_cols = [k for k, v in sample_props.items() if v.get("type") != "title"]
@@ -91,15 +89,10 @@ def database_to_markdown(database_id):
 
     for row in rows:
         props = row.get("properties", {})
-        values = [extract_property_value(props.get(col, {})).replace("
-", " ") for col in headers]
+        values = [extract_property_value(props.get(col, {})).replace("\\n", " ") for col in headers]
         md_lines.append("| " + " | ".join(values) + " |")
 
-    return "
-" + "
-".join(md_lines) + "
-
-"
+    return "\\n" + "\\n".join(md_lines) + "\\n\\n"
 
 
 def block_to_markdown(block, indent=0):
@@ -110,53 +103,33 @@ def block_to_markdown(block, indent=0):
     if b_type in ["paragraph", "heading_1", "heading_2", "heading_3", "bulleted_list_item", "numbered_list_item", "to_do", "quote", "callout"]:
         text = extract_rich_text(block[b_type].get("rich_text", []))
         if not text and b_type == "paragraph":
-            return "
-"
+            return "\\n"
         if b_type == "heading_1":
-            return f"
-# {text}
-"
+            return f"\\n# {text}\\n"
         elif b_type == "heading_2":
-            return f"
-## {text}
-"
+            return f"\\n## {text}\\n"
         elif b_type == "heading_3":
-            return f"
-### {text}
-"
+            return f"\\n### {text}\\n"
         elif b_type == "bulleted_list_item":
-            return f"{prefix}- {text}
-"
+            return f"{prefix}- {text}\\n"
         elif b_type == "numbered_list_item":
-            return f"{prefix}1. {text}
-"
+            return f"{prefix}1. {text}\\n"
         elif b_type == "to_do":
             checked = "x" if block[b_type].get("checked") else " "
-            return f"{prefix}- [{checked}] {text}
-"
+            return f"{prefix}- [{checked}] {text}\\n"
         elif b_type == "quote":
-            return f"{prefix}> {text}
-"
+            return f"{prefix}> {text}\\n"
         elif b_type == "callout":
             icon = block[b_type].get("icon", {}).get("emoji", "💡")
-            return f"
-> {icon} **{text}**
-"
+            return f"\\n> {icon} **{text}**\\n"
         else:
-            return f"{prefix}{text}
-"
+            return f"{prefix}{text}\\n"
     elif b_type == "divider":
-        return "
----
-"
+        return "\\n---\\n"
     elif b_type == "code":
         lang = block["code"].get("language", "")
         code_text = extract_rich_text(block["code"].get("rich_text", []))
-        return f"
-```{lang}
-{code_text}
-```
-"
+        return f"\\n```{lang}\\n{code_text}\\n```\\n"
 
     return ""
 
@@ -180,17 +153,13 @@ def fetch_blocks_recursive(block_id, depth=0, indent=0):
             if b_type == "child_page":
                 title = block["child_page"].get("title", "Sans titre")
                 heading_level = "#" * min(depth + 2, 6)
-                markdown_output += f"
-{heading_level} {title}
-"
+                markdown_output += f"\\n{heading_level} {title}\\n"
                 markdown_output += fetch_blocks_recursive(block["id"], depth=depth + 1, indent=0)
 
             elif b_type == "child_database":
                 title = block["child_database"].get("title", "Base de données")
                 heading_level = "#" * min(depth + 2, 6)
-                markdown_output += f"
-{heading_level} {title}
-"
+                markdown_output += f"\\n{heading_level} {title}\\n"
                 markdown_output += database_to_markdown(block["id"])
 
             else:
