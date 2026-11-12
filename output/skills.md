@@ -1,7 +1,7 @@
 ---
 name: badminton-super-coach
 description: Coach expert en badminton (technique, tactique, physique et mental) s'appuyant sur la base de connaissances Notion de l'utilisateur.
-last_synced: "2026-11-12 15:12"
+last_synced: "2026-11-12 16:02"
 ---
 
 # Rôle et Posture du Coach
@@ -15,6 +15,530 @@ Tu es un entraîneur de badminton de haut niveau. Tu analyses les demandes du jo
 ---
 
 # Base de Connaissances Badminton (Source : Notion)
+
+## Tactiques
+Smash → rush au filet
+Slice → push
+Dégagement offensif →kill 
+Demi smash →interception sur le contre 
+
+Push → contre amorti (spin) puis attaque 
+Push → lob puis attaque
+Provoquer lob naturelle (provoqué par push avec variation de vitesse et de poids)
+- centre du demi terrain sur coup droit pour provoquer lob croisé coté coup droit pour un droitier
+- centre du demi terrain sur revers pour provoquer lob croisé coté revers pour un droitier
+- push excentré sur coup droit pour provoquer un lob droit coté revers
+- push excentré sur revers pour provoquer un lob droit coté coup droit
+Consistance : Jouer sur le centre ou centre de demi terrain. Provoquer les coups naturelles (croisés)
+Exercice de consistance (PMA) : 10 x 45 sec de poste fixe (push / lob) en zone 2 + 15 sec de repos
+
+Essayer de mettre plus de vitesse sur amorti, jeu au fil, défense, frappe de neutralisation, lob
+
+
+Objectif : mettre l’adversaire en crise de temps
+- Entrée (4 premières frappes), Construction (recentrer le jeu), Finition
+- 80 / 20
+- Frappes Paires (Smash/Slice/Dégagement, Amorti/Dégagement, Contre-amorti/Lob)
+
+- Centre du jeu
+- Zone Favorable / Défavorable / Neutre
+- Notion d’incertitude
+- Transition entre défense et attaque
+- Anticipation (position adverse, orientation des appuis, main haute ou main basse, prise raquette)
+
+Sur service, observer la prise adverse et les réponses proposés.
+En réception, utile de prendre des options de prise de raquette pour être plus impactant.
+selon la prise de raquette, le coup “naturelle”/mécanique à s’attendre à 80%
+Entrer dans la tête de l’adversaire
+
+tête de raquette basse en défense
+
+
+
+
+## Activation / Déverrouillage articulaire
+C'est un excellent réflexe. Au badminton, le bas du corps est ton moteur : si tes appuis sont "lents" ou tes articulations "froides", tu subis le jeu au lieu de le dicter.
+Voici une routine spécifique **"Bas du Corps & Explosivité"** de 12 minutes, conçue pour préparer tes chevilles, tes genoux et tes hanches aux changements de direction brutaux.
+
+---
+
+## 1. Mobilité Articulaire Spécifique (3 min)
+L'idée est de lubrifier les articulations qui vont subir de fortes pressions (notamment sur les fentes profondes).
+- **Rotations de chevilles "en charge" :** En appui sur la pointe des pieds, fais des cercles amples. La cheville est l'articulation la plus sollicitée en badminton.
+- **Cercles de hanches "Ouverture de hanche" :** Debout, lève le genou devant toi, ouvre-le sur le côté et repose le pied. Imagine que tu dois enjamber une haie imaginaire. (10 répétitions par jambe).
+- **Squats profonds (lent) :** Descends le plus bas possible en gardant les talons au sol pour étirer activement les tendons d'Achille et les fessiers. (10 répétitions).
+
+---
+
+## 2. Gammes de Déplacement "Bad" (5 min)
+Au lieu de courir bêtement, on utilise les pas spécifiques du terrain.
+- **Le "Chassé-Fente" :** Fais deux pas chassés latéraux puis une fente profonde côté raquette (comme pour prendre un volant au filet). Repousse fort sur ta jambe pour revenir à la position initiale.
+  - *Focus :* Ton genou ne doit pas dépasser tes orteils.
+- **Pas de ciseaux (Scissor Kick) :** Simule un saut au fond du court en changeant tes appuis en l'air.
+  - *Focus :* Réception souple sur l'avant-pied.
+- **Le "V-Run" :** Pars du centre, sprinte vers un coin avant, reviens en pas chassés, puis repars vers l'autre coin avant.
+
+---
+
+## 3. Activation Nerveuse & Plyométrie (4 min)
+C'est ici que tu actives tes fibres rapides pour être capable de bondir au démarrage.
+
+---
+
+## 4. Le "Check-up" de la cheville (Important)
+> **Le test de stabilité :** Tiens-toi sur une jambe (celle de ta raquette) et ferme les yeux pendant 20 secondes. Cela réveille les **propriocepteurs** (tes capteurs d'équilibre). Si tu vacilles, c'est que ton cerveau n'est pas encore totalement connecté à tes chevilles. Recommence jusqu'à être stable.
+
+---
+
+### Pourquoi privilégier le "poussé-revenu" ?
+Au badminton, le plus dur n'est pas d'aller vers le volant, c'est d'avoir la force dans les jambes pour **s'en extraire** et revenir au centre. Cette routine insiste sur la poussée excentrique (le freinage) et concentrique (le redémarrage).
+
+
+
+## Footwork
+La reprise d’appui doit avoir lieu au moment de l’impact du volant. Le saut d’allègement doit se produire à l’armé du joueur adverse.
+Armé quand l’adversaire arme (plutôt à l’amorce de la frappe adverse)
+Commencer le saut d’allègement à l’amorce de la frappe adverse (épaule, coude vers l’avant)
+Sur une frappe adverse main basse, l’armé doit être main haute, et inversement sur une frappe adverse main haute, l’armé doit être main basse.
+Garder le coude haut sur les frappes main haute, pour bien diriger le volant
+Pied raquette avancé pour gérer l’avant et le fond du court.
+4 types d’armé
+- bras à 90°
+- Coude bas
+- Tête de raquette derrière le dos (tel un sabre)
+- coude fixé derrière
+Reprise d’appuis
+- en marchant
+- en levant juste les talons
+- léger saut
+  - NB : Ne pas trop écarté les appuis, sinon je n’arrive pas à repartir
+Sur le replacement, utilisé un replacement adapté à l’intention tactique / Prendre des options sur le replacement
+- un replacement lent ou un pas chassé vers l’avant si je veux être fort au fond de court
+- un pas chassé arrière si je veux être fort au filet
+Sur la reprise d’appuis, pour être dans le bon timing, il est nécessaire d’adapter aussi la vitesse de déplacement (ralentir ou accélérer)
+Sur les frappes coups droit privilégier les sauts chinois
+Sur les frappes revers privilégier les sauts ciseaux
+Il vaut mieux être arrêter qu’en mouvement lors de la frappe adverse, ou bien un replacement lent
+
+## Neutre
+Utilisé des pushs plutôt que des contre amortis juste derrière le filet
+
+
+## Attaque
+
+Pas de smash à 100% sauf si opportunité
+Slice droit
+- mouvement de raquette de gauche vers la droite
+- frotter le volant
+Pour faire un slice, ne pas pivoter avec le corps. Masquer slice, dégagement et smash droit
+Reverse slice
+- mouvement de raquette de droite vers la gauche
+- accompagner le volant et non le frotter
+- pivoter les hanches pour avoir le pied raquette vers l’avant comme pour une frappe droite
+Pour un reverse slice, penser à accompagner le volants. Pour aider, on peut raccourcir la prise au niveau du manche.
+Sur des kills, utiliser le pied frappe pour reculer du filet et permettre une interception
+
+## Défense
+3 types de défense :
+- défense haute : avancer le coude et la main (poignet) + relaché serré
+- défense bloc : avancer le coude lentement + relaché serré
+- défense mi-court : avancer le coude et la main (poignet) + relaché serré. Tamis orienté vers le bas
+
+En défense il faut reprendre l’attaque en variant les défense
+En défense le pied raquette et légèrement reculé afin d’avoir plus d’espace pour manoeuvrer. Utiliser juste le relaché serré avec des gestes avec peu d’amplitude
+En drive offensif, le pied raquette est légèrement devant.
+Sur des défenses tendus ou block, avancer en transition d’attaque
+Sur des défenses courtes croisées, suivre au filet. Si on lève, défendre droit.
+
+Privilégier prise revers en défense de smash, et prise coup droit en attaque au filet.
+
+## Fixation / Déception
+Armée précoce pour fixation
+Faire une fixation après un coup du fond de court suivi. Le body langage donne l’indication d’une frappe potentiel puissante, alors que la frappe ne l’est pas.
+Effectuer un armé lors de la 
+
+## Schéma Tactique
+
+- Sur smash droit côté coup droit
+  - défense courte croisé + appuis orienté vers l’avant pour contre attaquer
+  - lob droit pour se donner du temps
+  - reverse slice 
+    - en poussant fort sur les jambes pour être en avance
+    - Le reverse slice se fait si on a du temps, sinon on ne cherche pas à agrandir le terrain
+    - replacement en pas chassé vers l’avant, un seul pas chassé
+  - contre amorti droit
+  - Lob droit
+    - replacement lent au centre du jeu
+- Sur smash droit
+  - défense courte
+  - attaque suivi par un kill
+- Sur dégagement croisé côté coup droit après des dégagements droits côté revers
+  - anticiper appuis vers l’arrière pour attaquer
+  - Smash droit ou slice croisé
+  - se positionner sur le centre de jeu pour défendre
+    - appuis avec pied raquette un peu reculé et le pied non raquette orienté vers la trajectoire du slice
+    - importance de la reprise d’appuis
+- Sur service long au centre
+  - effectuer un dégagement droit
+  - Le serveur doit avoir ses appuis dirigé (pied raquette avancé)
+- Sur service long croisé
+  - effectuer un slice/reverse slice
+  - effectuer un dégagement droit
+  - Le serveur doit avoir ses appuis dirigé
+
+## Dashboard Coups
+
+
+### Coups
+
+| Nom du Coup | Coups masqués | Prises | Coups réponses probables | Risque | Points de correction | Gestuelle | Schéma de trajectoire | Type | Zone | Statut | Footwork |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Défense croisé revers |  | Universelle, Bevel |  |  | posé le pied avant de faire la frappe / prise universelle ou prise bevel, utilisé les doigts pour orienter la tête de raquette / fente latérale / position proche de la ligne centrale, mais du coté du demi terrain revers |  |  | Offensif | Mi-court | Initié |  |
+| Slice Revers croisé |  | Bevel |  |  | impact à niveau d’épaule, pas de transition avant de pivoter |  |  |  |  | Initié |  |
+| Amorti revers croisé  |  | Bevel | Contre-amorti droit | 60 | • mouvement orienté sur le côté • cibler le centre du demi terrain croisé pour neutraliser le retard • effectuer un pas de transition avant de pivoter pour plus de puissance • ne pas trop décomposer le mouvement, il faut que ce soit fluide • prise bewel sur la raquette |  |  | Offensif, Neutre | Fond | Initié |  |
+| Reprise d’appuis orientée |  |  |  |  |  |  |  |  |  | Initié |  |
+| Replacement |  |  |  |  | Se replacer en face de l’adversaire / Se replacer selon le rythme adverse, parfois privilégier un replacement lent / Replacement lent et nonchalent |  |  |  |  | Confirmé en match |  |
+| Reprise d’appuis |  |  |  |  | Timing de frappe |  |  |  |  | Confirmé en match |  |
+| Stick Smash |  | Universelle |  | 60 |  |  |  | Offensif | Mi-court | En apprentissage en jeux libres |  |
+| Amorti neutre |  | Universelle | Push droit | 80 | Coups sous pression, accompagné la frappe avec la raquette, limité le temps de contact avec la raquette, le volant doit arriver au mi court et non derrière le filet. |  |  | Neutre | Fond | Initié | Déplacement en retard |
+| Lob | Contre amorti | Revers, Universelle | Stick Smash | 60 | Fixation Contre amorti lob • armé pour le contre amorti et le lob (descendre légèrement la tête de raquette) |  |  | Offensif | Filet | Initié | Fente avant |
+| Dégagement de revers fond de court |  | Bevel |  | 80 | • mouvement orienté vers le haut • ne pas trop décomposer le mouvement, il faut que ce soit fluide • effectuer un pas de transition avant de pivoter pour plus de puissance • prise bewel sur la raquette • relâché serré (levé les trois doigts et resserré la prise au moment de l’impact) |  |  | Défensif | Fond | Initié | Déplacement en retard |
+| Service Flick |  | Revers | Dégagement droit, Stick Smash | 60 |  |  |  | Offensif | Service | A travailler |  |
+| Défense haute |  | Revers, Universelle | Smash droit, Amorti droit | 60 |  |  |  | Défensif | Mi-court | En apprentissage en jeux libres | Pied raquette reculé |
+| Défense tendue |  | Revers, Universelle |  | 60 | Orientation tamis perpendiculaire au filet. Intention de contre attaqué, pression à mettre à l’avant du court |  |  | Neutre | Mi-court | Initié | Pied raquette reculé |
+| Défense block |  | Revers, Universelle | Contre-amorti droit | 60 | Intention de contre attaque, anticipé l’attaque au filet |  |  | Neutre | Mi-court | Initié | Pied raquette reculé |
+| Brush |  | Revers, Bevel |  | 60 |  |  |  | Offensif | Filet | A travailler |  |
+| Contre-amorti croisé |  | Revers, Universelle | Lob droit | 60 | Armé précoce, mouvement du poignet, prise relâché, bras non raquette maintenu pour l’équilibre, coude descend et le tami aussi |  |  | Neutre | Filet | En apprentissage en jeux libres | Fente avant |
+| Smash croisé |  | Universelle | Défense block droit | 60 |  |  |  | Offensif | Fond | En apprentissage en jeux libres |  |
+| Amorti de fond de court croisé |  | Universelle | Contre-amorti droit | 60 |  |  |  | Offensif | Fond | Confirmé en match |  |
+| Spin out |  |  | Lift | 60 | • si adversaire est en attaque • coude, poignet fixe     ◦ seule le bras bouge de bas en haut     ◦ seule avec les doigts, la raquette bouge de bas en haut • effectuer une fente avec la tête de raquette en bas au départ |  |  | Offensif | Filet | Initié |  |
+| Spin in |  |  | Lift | 60 | • si adversaire est en défense • coude, poignet fixe     ◦ seule le bras bouge de haut en bas     ◦ seule avec les doigts, la raquette bouge de bas en bas • avoir l’armé pour faire un kill |  |  | Offensif | Filet | Initié |  |
+| Reverse slice droit | Dégagement, Smash | Universelle |  | 60 | Slice de gauche à droite en prise universelle |  |  | Offensif | Fond | Initié |  |
+| Reverse slice croisé | Dégagement, Smash |  |  | 60 |  |  |  | Offensif | Fond | En apprentissage en jeux libres |  |
+| Slice droit | Dégagement, Smash | Universelle | Contre-amorti croisé | 60 |  |  |  | Offensif | Fond | Initié |  |
+| Kill |  | Revers, Bevel |  | 80 |  |  |  | Offensif | Filet | A travailler |  |
+| Service long |  | Universelle | Dégagement droit, Amorti croisé | 60 |  |  |  | Neutre | Service | Maitrisé |  |
+| Push |  | Revers, Bevel | Lob croisé | 60 |  |  |  | Neutre | Filet | En apprentissage en jeux libres |  |
+| Slice croisé | Dégagement, Smash | Universelle | Contre-amorti droit | 80 |  |  |  | Offensif | Fond | Confirmé en match | Saut Chinois |
+| Dégagement offensif |  | Universelle | Dégagement droit, Stick Smash | 60 |  |  |  | Offensif | Fond | Maitrisé |  |
+| Service court |  | Revers | Contre-amorti droit, Lob droit | 60 |  |  |  | Neutre | Service | Maitrisé |  |
+| Dégagement défensif |  | Universelle |  | 60 |  |  |  | Défensif | Fond | Maitrisé |  |
+| Lift |  | Revers | Smash droit | 60 | bras tendu / relâché serré |  |  | Défensif | Filet | En apprentissage en jeux libres |  |
+| Contre-amorti |  | Revers, Universelle | Lob croisé | 60 | Fixation Contre amorti lob • armé pour le contre amorti et le lob (descendre légèrement la tête de raquette) |  |  | Neutre | Filet | Maitrisé | Fente avant |
+| Drive |  | Revers, Bevel |  | 60 |  |  |  | Neutre | Mi-court | Maitrisé |  |
+| Smash |  | Universelle | Défense block croisée | 60 |  |  |  | Offensif | Fond | Confirmé en match |  |
+| Amorti de fond de court |  | Universelle | Contre-amorti droit | 60 |  |  |  | Offensif | Fond | Confirmé en match | Saut Chinois, Saut Ciseaux |
+
+#### Détails : Replacement
+Se replacer sur le centre du jeu, à la fois latéralement et devant/derrière
+- si la trajectoire est courte, je dois avancer
+- si la trajectoire est longue, je dois reculer
+
+
+#### Détails : Amorti neutre
+[https://www.mobilesport.ch/badminton-fr/badminton-schlagtechnik-drop-vorhand-gezogen/](https://www.mobilesport.ch/badminton-fr/badminton-schlagtechnik-drop-vorhand-gezogen/)
+[https://www.youtube.com/watch?v=PTUCvHlGo3U](https://www.youtube.com/watch?v=PTUCvHlGo3U)
+
+
+[https://www.mobilesport.ch/badminton-fr/badminton-lauf-und-schlagtechnik-2/](https://www.mobilesport.ch/badminton-fr/badminton-lauf-und-schlagtechnik-2/)
+
+
+## Simple
+- Neutre : chercher à déplacer l’adversaire pour exploiter toutes espaces créés. La patience est importante. Utiliser les coins du terrain pour obliger l’adversaire à se déplacer
+- Défensive : 
+  - dans le fond de court
+    - chercher des dégagements avec une bonne longueur (droit ou croisé)
+    - si le volant est derrière le joueur, un amorti peut le ramener dans l’échange - réduit la capacité de l’adversaire à attaquer
+  - dans le mi court
+    - effectuer une défense plus profonde pour éviter l’adversaire à jouer près du filet
+    - Défense courte croisée pour un smash droit
+    - Défense courte droite pour un smash croisé
+  - dans la zone avant
+    - lift avec une bonne longueur et hauteur
+    - plus facile de faire des lifts droit que croisé
+- Attaque : 
+Le centre de jeu en simple, est 
+- soit au centre du terrain
+- soit un pied sur la ligne central et sur le côté où se trouve l’adversaire
+
+6 concepts clés
+- Prendre le volant tôt
+- Etre patient
+- Feinté l’adversaire (créer du déséquilibre)
+- La position de base
+- Créer de l’espace
+- Changer de rythme
+
+> penser au coup d’après
+> Suivre son attaque
+> De manière générale les trajectoires droites permettent de rester davantage en contrôle car le replacement est plus proche de la frappe
+> Contre des joueurs qui ne se déplacent pas bien, pensez à utiliser de longue distance ou des diagonales sur le terrain. Attention, cela implique des trajectoires croisés, prévoyez de pouvoir suivre la réponse
+> Amenez le joueur à changer de direction, peut être une bonne tactique pour le déséquilibrer
+> Déplacer l’adversaire loin du zone de faiblesse puis attaquez celui-ci peut être une tactique utile
+> Plus l’adversaire est sous pression plus il faut avancer sa base
+
+
+Service long en simple
+- force l’adversaire à reculer
+- donne du temps pour se replacer
+- orienté vers le centre du terrain pour réduire les angles d’attaque
+- après service long se positionner légèrement du côté ou on a servi
+Retour service long
+- dégagement d’attaque plat
+- si service long un peu court, les smashs sont envisageable
+  - smash droit plus facile à suivre que smash croisé
+- amorti croisée, mais plus de distance à parcourir pour le suivre
+
+Service court en simple
+- dirigé vers le centre du terrain pour éviter les angles d’attaque
+Retour service court en simple
+- contre amorti spinné - retour pour obtenir un lift en retour
+- lob tendu derrière joueur en visant les coins du fond de court
+
+Service tendu en simple
+- utilisé comme variante (déséquilibré l’adversaire)
+- sur service tendu sur le côté, anticiper un smash droit
+Retour de service tendu en simple
+- si déséquilibre chercher une attaque avec un bonne angle et bonne précision, pas nécessaire trop fort pour laisser le temps de se replacer
+- dégagement droit en se concentrant sur la longueur
+- attention au retour croisée, surtout en déséquilibre - difficile de suivre le coup d’après
+
+
+## Double
+En double, si je prends l’avant en revers, je reste côté revers et je change ma prise en coup droit. Je me préoccupe alors que de la trajectoire droite
+En double je joue droit ou au centre 80% du temps
+En double, en attaque ou en défense on se déplace en bloc (déplacement sans volant)
+En double, la priorité est donné au joueur avancé
+Si placé à l’avant en double et si on fait un block, reculer sur le mi court pour intercepter
+- un devant un derrière pour l’attaque
+- de chaque coté pour la défense
+> En double homme peu de dégagement, plus d’explosivité. Importance dans le service et les premiers coups
+> En double dame, plus d’échange en patience pour casser la défense adverse
+
+Service en double dame
+- Le serveur sert prêt du T. Les services court sont généralement dirigé sur le centre ou sur le receveur
+- de manière occasionnelle, un service court peut être envoyé croisé, mais on s’expose à un retour droit dans l’espace libre
+- pour un service court, le serveur doit chercher à couvrir tous les retours au filet
+- Le serveur doit choisir un côté à couvrir pour couvrir le mi court et fond de court
+- la partenaire est responsable des retours mi court et fond de court
+Retour en double dame
+- Le receveur doit tenter de dominer le filet lors d’un service court en effectuant des attaques
+- les retours de service dirigé vers le mi court doivent être suivi d’une tentative d’interception de tout retour droit
+- Les retours droit en fond de court doivent être suivi d’une interception de tout retour droit
+- Les retours sur le corps du serveur ou sur le partenaire implique une couverture des deux côtés
+- Les retours incorrects obligent le receveur à se mettre en position de défense
+Sur un service tendu :
+- sur un service tendu croisée, une attaque droite est prévisible, elle doit être couverte par la partenaire de la serveuse
+- sur une service tendu qui a clairement déséquilibré, la serveuse peut décider de rester à l’avant
+retour de service tendu
+- si croisé
+  - smash droit
+  - smash entre les deux joueuses
+  - amorti droit
+- si droit
+  - si la receveuse est équilibré, smash sur serveuse qui recule
+  - si la receveuse est équilibré, smash entre les deux joueuses
+- si déséquilibré
+  - stick smash droit
+  - amorti droit
+  - dégagement droit
+
+Echanges
+- La joueuse en fond de court a pour rôle de couvrir la zone mi court et fond de court. Elle doit être patiente et attendre les bonnes occasions d’attaque
+  - amorti piqué
+  - coup entre les deux joueuses
+  - smash sur la joueuse en face
+  - objectif créer des opportunités d’attaque pour la joueuse au filet
+  - les joueuses changent de position quand une occasion se présente pour la joueuse arrière de suivre son attaque
+- la joueuse en avant a pour rôle de couvrir le mi court et l’avant du terrain. Elle va chercher à prendre le volant tôt. Elle va essayer d’intercepter les drives et les coups poussés. 
+  - Après un lift vers le fond de court, la joueuse avant doit prendre une position dans le mi court du même coté que le volant
+  - lorsque la joueuse arrière effectue des amortis, la joueuse avant doit avancer sa base pour intimider
+- La défense en double dame
+  - faite le bien long et sur les côtés
+  - si l’attaquante est sous pression, les deux joueuses peuvent se rapprocher du filet. La joueuse sur le croisé, peut s’avancer davantage pour anticiper une amorti
+  - la joueuse qui défend ou fait le drive doit suivre au filet
+
+Service en double homme
+- Le serveur sert prêt du T. Les services court sont généralement dirigé sur le centre ou sur le receveur
+- Les services tendus peuvent être une variante, mais attention au smash droit
+- Le serveur doit choisir un côté à couvrir pour couvrir le mi court et fond de court
+- Le service tendu sur le côté oblige le partenaire du serveur à couvrir un smash droit
+
+Retour de service
+- Le receveur doit tenter de dominer le filet lors d’un service court en effectuant des attaques
+- les retours de service dirigé vers le mi court doivent être suivi d’une tentative d’interception de tout retour droit
+- Les retours droit en fond de court doivent être suivi d’une interception de tout retour droit
+- Les retours sur le corps du serveur ou sur le partenaire implique une couverture des deux côtés
+- Les retours incorrects obligent le receveur à se mettre en position de défense
+
+
+Echanges
+- le joueur en fond de court :
+  - amorti rapide
+  - frappe au centre pour couper les angles de retour
+  - smash sur le joueur en face ou sur le joueur au centre
+  - si possibilité d’attaque sur le mi court, le joueur arrière peut prendre le volant et échanger sa position avec le joueur avancer
+- le joueur avant :
+  - cherche à maintenir l’attaque en prenant le volant tôt
+  - après un lift du fond de court, le joueur avant doit prendre une position dans le mi court du même côté que le volant
+  - lorsque le partenaire joue des amortis, le joueur avant doit avancer pour intimider
+  - lorsque le joueur arrière a la possibilité de suivre son attaque le joueur avant se décale sur la ligne médiane du court ou l’autre moitié du terrain
+- Pour défendre : bien long et sur les côtés
+- le joueur qui défend ou effectue un drive, doit suivre au filet
+
+
+Double mixte
+Service court de la femme : centre ou sur le receveur
+Service court de l’homme : 
+Après un service tendu, reculé en défense
+Lorsque l’homme effectue un service tendu, la partenaire doit se positionner pour recevoir des coups croisés (lui laissant plus de temps)
+Retour de service de la femme : 
+- si retour court, elle doit dominer le filet
+- si retour mi court ou long, elle doit anticiper les retours droits
+Retour de service de l’homme :
+- jouera sur mi court ou fond de court (retour droit)
+- cherchera a faire des retours qui permettront à la femme d’avancer
+
+Echanges :
+En attaque :
+En défense :
+- hommes font généralement des lifts droit
+- femmes font des lifts croisés
+
+## Mobilité / Etirement
+C'est une excellente initiative. Pratiquer une séance de mobilité **2 heures après le match** (ou le soir à tête reposée) est le moment idéal : tes muscles ne sont plus sous l'adrénaline du match, mais ils sont encore malléables.
+À ce stade, on ne cherche plus l'explosivité, mais la **décompression articulaire** et le relâchement des tissus profonds qui ont été "impactés" par les chocs du badminton.
+Voici ton protocole de récupération et d'assouplissement axé sur le bas du corps :
+
+---
+
+## 1. Libération de la Hanche et du Psoas (Le "Cœur" du mouvement)
+Le psoas est constamment contracté lors des démarrages et des fentes. S'il reste court, il tire sur tes lombaires.
+- **Le Pigeon (Postures de Yoga) :**
+  - Plie ta jambe avant à 90° au sol, étends la jambe arrière loin derrière.
+  - Garde le bassin bien droit (ne tombe pas sur le côté).
+  - **Durée :** 1 minute 30 par côté. Respire profondément par le nez pour signaler à ton système nerveux de se relâcher.
+
+- **Étirement du Psoas profond :**
+  - Un genou à terre, avance le bassin au maximum en contractant le fessier de la jambe arrière.
+  - **Option ++ :** Attrape ton pied arrière pour étirer aussi le quadriceps (souvent tétanisé par les freinages).
+
+
+## 2. Décompression des Chevilles et des Mollets
+Le badminton est traumatisant pour le tendon d'Achille à cause des sauts répétés.
+- **Étirement du Soléaire (Mollet bas) :**
+  - Face à un mur, en position de fente, plie le genou arrière en gardant le talon bien ancré au sol.
+  - *Note :* Contrairement au mollet classique, le genou plié cible les tissus profonds et la cheville.
+  - **Durée :** 1 minute par jambe.
+
+## 3. Ouverture de la Chaîne Latérale (Fessiers & TFL)
+C'est ce qui gère tes changements de direction latéraux.
+- **La Torsion au sol (Breitzel) :**
+  - Allongé sur le dos, ramène un genou sur ta poitrine et bascule-le du côté opposé pour toucher le sol.
+  - Garde les deux épaules au sol.
+  - **Bénéfice :** Étire le moyen fessier et libère les tensions accumulées dans le bas du dos à cause des rotations de smash.
+
+## 4. Travail de l'Adducteur (La zone de la fente)
+Les adducteurs travaillent énormément de manière excentrique (en freinage) au badminton.
+- **Le Frog Stretch (La Grenouille) :**
+  - À quatre pattes, écarte les genoux au maximum vers l'extérieur. Les pieds sont alignés avec les genoux.
+  - Pose les avant-bras au sol et pousse tes fesses doucement vers l'arrière.
+  - **Durée :** 2 minutes. C'est l'étirement "roi" pour retrouver de l'amplitude de fente.
+
+
+---
+
+## Récapitulatif du Protocole Post-Match
+
+---
+
+### 💡 Le conseil "récupération"
+> **Le drainage passif :** Pour finir, allonge-toi sur le dos et pose tes jambes à la verticale contre un mur pendant 5 minutes. Cela favorise le retour veineux et permet de "vider" les jambes de la sensation de lourdeur après l'effort intense du match.
+
+
+## Renforcement bas du corps (2x sem)
+Pour le badminton, le renforcement du bas du corps ne doit pas viser la "gonflette", mais la **stabilité articulaire** (pour protéger tes genoux/chevilles) et la **force explosive** (pour tes démarrages).
+Voici un protocole structuré en trois piliers : **Force**, **Stabilité** et **Plio-Réactivité**.
+
+---
+
+## 1. Force Fondamentale (La Base)
+L'objectif est de construire des muscles capables de supporter les impacts des fentes.
+- **Squat Bulgare (Pied arrière surélevé) :** * C'est l'exercice roi pour le badminton. Pose un pied derrière toi sur une chaise/banc et descends en fente sur la jambe avant.
+  - *Pourquoi :* Il travaille l'équilibre et renforce les fessiers de manière isolée, comme lors d'une fente au filet.
+  - *Format :* 3 séries de 10 répétitions par jambe.
+
+- **Soulevé de terre jambes tendues (ou une seule jambe) :**
+  - Descends le buste droit en poussant les fesses en arrière.
+  - *Pourquoi :* Renforce les ischios-jambiers, essentiels pour "freiner" tes mouvements et protéger tes ligaments croisés.
+  - *Format :* 3 séries de 12 répétitions.
+
+---
+
+## 2. Stabilité & Proprioception (Le bouclier)
+Le badminton est une succession de déséquilibres. Tes articulations doivent être solides.
+- **L'Horloge (Équilibre unipodal) :**
+  - Tiens-toi sur une jambe, genou légèrement fléchi. Avec l'autre pied, va chercher le point le plus loin possible devant, sur le côté, et derrière, sans poser le pied au sol.
+  - *Format :* 3 tours complets par jambe.
+- **Montée sur pointe de pied (Mollets) :**
+  - Lentement à la montée, très lent à la descente.
+  - *Pourquoi :* Un mollet fort protège le tendon d'Achille des ruptures lors des reprises d'appuis brusques.
+  - *Format :* 3 séries de 15 répétitions.
+
+---
+
+## 3. Explosivité & Plyométrie (Le moteur)
+C'est ici qu'on transforme la force en vitesse de déplacement sur le terrain.
+- **Sauts de fente alternés (Jump Lunges) :**
+  - En position de fente, saute le plus haut possible et change de jambe en l'air pour atterrir en fente opposée.
+  - *Focus :* Réception la plus silencieuse possible (contrôle).
+  - *Format :* 3 séries de 10 sauts totaux.
+- **Box Jumps ou Sauts horizontaux :**
+  - Depuis une position de squat, explose vers l'avant ou sur une plateforme.
+  - *Format :* 3 séries de 6 répétitions (qualité maximale, pas de quantité).
+
+---
+
+## Synthèse du Programme (2 fois par semaine)
+
+---
+
+### 💡 Le conseil "Performance"
+> **Le travail excentrique :** Au badminton, la majorité des blessures arrivent lors du freinage. Dans tes exercices de musculation, essaie toujours de descendre lentement (3 secondes) et de remonter de manière explosive (1 seconde). C'est ce qu'on appelle le travail excentrique, et c'est ce qui rend tes jambes "incassables" sur le court.
+
+
+## Warm Up 8 minute
+Activation + Mobility
+- footing
+- Mobility Genoux x 3
+- Activation mollet
+- Activation hanche
+Movement Preparation
+- mouvement proprioception
+- squat profond + hanche
+- Fente étoile X 2
+- Gainage dynamique
+Heart Starters
+- footing x2
+- montée de genoux x2
+- talon fesse x2
+- pas chassés croisés x2
+Explosive movements
+- saut pogo
+- saut en fente
+- saut latéral
+- tipping latéral
+- tipping avec appuis orienté
+
+
+
+
+
+## Adversaires
+Sajith
+- Difficulté sur les frappes dans le retard et les fixations au filet
+- Difficulté sur des amortis
+
 
 ## Entraînement
 
