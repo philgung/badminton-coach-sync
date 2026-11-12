@@ -1,7 +1,7 @@
 ---
 name: badminton-super-coach
 description: Coach expert en badminton (technique, tactique, physique et mental) s'appuyant sur la base de connaissances Notion de l'utilisateur.
-last_synced: "2026-11-12 13:15"
+last_synced: "2026-11-12 15:12"
 ---
 
 # Rôle et Posture du Coach
@@ -16,1494 +16,29 @@ Tu es un entraîneur de badminton de haut niveau. Tu analyses les demandes du jo
 
 # Base de Connaissances Badminton (Source : Notion)
 
-## Badminton
-
-## Archives
-
-
-### Cobad 93 - Commission jeunes
-
-#### Tâches
-
-| Name | Responsable | Deadline | Status | Evénement |
-| --- | --- | --- | --- | --- |
-| Envoi mail pour trouver un gymnase pour le Départemental Jeunes | Valentin | 2025-06-07 | Done | Départemental Jeunes |
-| TNT 3 |  |  | Done | TNT 3 |
-| Coaching Interco | Ashwyn |  | Not started | Interco |
-| Regroupement Interco | Ashwyn | 2025-06-15 | Not started | Interco |
-| Fête mininad |  | 2025-06-14 | Not started | Fête Minibad |
-| Open Bad | Valentin | 2025-05-31 | Not started | Open Bad |
-| Challenge poussin |  | 2025-05-17 | Not started | Challenge Poussin |
-| Confection tableaux TNT 4 | Philippe | 2025-03-16 | Done | TNT 4 |
-| Confection tableaux TNT 5 |  | 2025-04-26 | Done | TNT 5 |
-| Lancement Inscription TNT 5 |  | 2025-03-24 | Done | TNT 5 |
-| Faire la demande Eco Responsable pour le TNT 4 | Aurélien | 2025-03-22 | In progress | TNT 4 |
-| Envoi mail pour trouver un gymnase pour le TNT 5 | Valentin | 2025-03-24 | Done | TNT 5 |
-| Encadrement Stage Sélection | Ashwyn | 2025-04-23 | Done | Stage Sélection |
-| Gestion Stage Selection | Valentin | 2025-04-23 | Done | Stage Sélection |
-| Gestion Stage Open | Valentin | 2025-04-21 | Done | Stage Open |
-| Envoi mail aux clubs pour valoriser Tournoi Labellisé |  | 2025-04-12 | Not started | Tournoi Labellisé |
-| Coaching CRJ | Ashwyn |  | Not started | CRJ 29/30 mars 2025 |
-| Encadrer le PAD 4 | Ashwyn | 2025-03-22 | Done | PAD 4 |
-| Régionales Jeunes | Ashwyn | 2025-03-09 | Done | Régionale Jeunes |
-| Présence sur TNT / Solliciter gymnase pour TNT 5 et Dep | Jean Paul, Philippe, Aurélien | 2025-03-22 | Done | TNT 4 |
-| Gestion forfait | Aurélien | 2025-03-22 | Done | TNT 4 |
-| Trouver un JA pour le Départemental Jeunes | Khalid | 2025-06-07 | Done | Départemental Jeunes |
-| Trouver un JA pour le TNT 5 | Khalid | 2025-03-24 | Done | TNT 5 |
-
-Organisation des prochaines compétitions (Jeunes)
-Responsable jeunes
-Déclaration des heures bénévoles
-
-
-
-
-#### Rapport Commission Jeunes
-
-Saison 2023-24 : 924 adhérents
-Saison 2024-25 (à date du 17/03/25) : 974 adhérents (+ 50 adhérents jeunes)
-
-
-
-
-
-2024-25 : 5 compétitions
-54,02 % de compétiteurs uniques
-2 PAD avec 57 compétiteurs
-3 TNT avec 565 compétiteurs
-
-
-
-##### Evaluation actions Com Jeunes
-
-| Actions | Réalisé | Critères d'évaluation | Public cible | Objectifs |
-| --- | --- | --- | --- | --- |
-| DAD | Oui | Nombre de participants / Nombre de sélectionnés pour un DAR / DAN | Loisirs, Compétiteurs | détection des jeunes dans le dispositif fédérale |
-| Projet Scolaire | Oui | Nombre de nouveaux licenciés dans les communes où le projet scolaire a eu lieu | Non Licencié | à attirer plus de jeunes dans les clubs du département |
-| Circuit Jeunes | Oui |  | Compétiteurs | faire gagner davantage de points aux jeunes |
-| Compétitions Eco responsable | Oui |  | Compétiteurs |  |
-| Inter comité | Oui |  | Compétiteurs, Elite |  |
-| PassBad | Oui | Nombre de participant / Nombre de plumes d’une année sur l’autre | Loisirs, Compétiteurs | valider des niveaux de compétences |
-| Championnat Départemental | Oui |  | Compétiteurs |  |
-| Stage Sélection | Oui |  | Compétiteurs | renforcement des compétences sportives |
-| TNT | Oui | Nombre de jeunes détectés pour intégrer le collectif Comité | Compétiteurs | observer les jeunes à des fins de détection |
-| PAD | Oui | Nombre de jeunes continuant à faire de la compétition au delà de 4 saisons | Compétiteurs | permettre une découverte ludique et en douceur de la compétition avec des terrains et règles adaptées suivant 3 niveaux : Premiers pas, J’évolue et En avant |
-| Stage Open | Oui |  | Compétiteurs |  |
-| Fête Minibad | Oui | Nombre de participant / Nombre de participant à d’autres évènements du comité | Loisirs | C’est un moment festif où se réunissent toutes les jeunes pousses du département autour de matchs et animations diverses |
-| Challenge Poussin | Oui |  |  |  |
-| Open Bad | Oui | Nombre de participant / Nombre de participant à d’autres évènements du comité / Nombre de nouveaux licenciés | Non Licencié, Loisirs | permettent de s’amuser au travers de matchs amicaux mais aussi d’exercices proposés par un encadrement professionnel |
-| Pôles Départementaux | Oui |  | Compétiteurs | étoffer le volume horaire encadré des jeunes dans une perspective d’apprentissage et de performance |
-| Le P’tit Badiste | Oui |  | Compétiteurs | 1. Qu’ils trouvent un espace d’expression adapté à leurs morphologies pour maximiser leur plaisir de jouer, les préparer du mieux possible aux exigences d’une pratique sur terrain normal. 2. De respecter les Orientations Techniques Nationales (OTN) en termes de maîtrise du volant et des techniques de base, déplacement, tactique. 3. De développer les échanges entre les jeunes, le CTD, l’ETD et les parents. |
-| Les 3 filières | Non | Nombre de participant / Nombre de GEO, arbitre, encadrant et/ou dirigeant actifs | Compétiteurs, Loisirs | - d’accompagner les jeunes licenciés vers une découverte active du bénévolat, - de leur donner un premier socle de compétences indispensables pour mieux appréhender leurs missions. |
-
-
-
-
-
-
-
-
-##### Suivis actions
-
-| Name | catégorie | Evaluation actions Com Jeunes |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  | Minibad |  |
-|  | Minibad, Poussin |  |
-
-
-
-S’essayer : Fête minibad → PAD “découverte” → Open Bad → TNT
-Détecter : PAD “Premier Pas”, PAD “J’évolue”, PAD “En avant”, PassBad, Dispositif Avenir Départemental
-Développer : PAD “J’évolue”, Champ Départemental Jeunes, TNT, Stage Open
-Performer : Stage Sélection Départementale, Pôles départementaux
-
-#### TNT Villemomble 22 & 23 mars
-JA : Violette Allary
-- [x] Demande poona
-- [x] Gestion des inscriptions
-  - [x] Lancement des inscriptions
-  - [x] Tirage au sort & confection des tableaux
-- [ ] Gestion des médailles (déjà commandé. Vincent doit les récupérer)
-- [x] Communication auprès des clubs
-- [ ] Matériels à fournir au club (Stéphanie et Robin)
-- [x] Présence sur le week-end du TNT
-
-5 terrain pendant le pad
-7h à 21h le samedi : 12h = 180 matchs
-7h à 19h le dimanche : 11h = 170 matchs
-27 min moyenne de match
-
-
-##### Dimensionnement TNT 4
-
-| Name | Horaires | Moyenne de match en min | Nombre d'heure | Nb Terrains | Nb matchs |
-| --- | --- | --- | --- | --- | --- |
-| Samedi | 8h à 19h30 | 27 | 11.5 | 7 |  |
-| DImanche | 8h à 18h30 | 27 | 10.5 | 7 |  |
-
-
-##### Dimensionnement TNT 5
-
-| Name | Horaires | Moyenne de match en min | Nombre d'heure | Nb Terrains | Nb matchs |
-| --- | --- | --- | --- | --- | --- |
-| DImanche | 8h à 18h30 | 28 | 10.5 | 5 |  |
-| Samedi | 8h à 19h30 | 28 | 11.5 | 5 |  |
-
-
-
-
-- [ ] Chen maxime dispo que le dimanche
-- [ ] Zheng Éric et ilangovane Rocchane dispo que le samedi
-- [x] si tu peux mettre gabriel houzet en sh poussin top A
-- [x] a inscrire en liste d’attente : lina chantavong à inscrire en minime et de giorgio notargiacomo en poussin
-
-Surclassement OK
-
-
-##### Structure tableau TNT 4
-
-| Name | Poule de 4 | Poule de 3 | Inscrits | Huitième | Sortant | Quart | Nb Matchs | Poule de 5 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Jun SD B | 1 | 1 | 7 |  | 2 |  |  |  |
-| Jun SD A |  | 4 | 12 |  | 1 |  |  |  |
-| Jun SH C | 1 | 3 | 13 |  | 2 | 4 |  |  |
-| Jun SH B |  | 3 | 9 |  | 2 | 2 |  |  |
-| Jun SH A | 2 | 2 | 14 |  | 1 | 2 |  |  |
-| Cad SD |  | 2 | 6 |  | 2 |  |  |  |
-| Cad SH C |  | 5 | 15 |  | 1 | 1 |  |  |
-| Cad SH B |  | 5 | 15 |  | 1 | 1 |  |  |
-| Cad SH A | 2 | 2 | 14 |  | 1 | 2 |  |  |
-| Min SD |  | 3 | 9 |  | 2 | 2 |  |  |
-| Min SH C |  | 5 | 15 |  | 1 | 1 |  |  |
-| Min SH B | 2 | 2 | 14 |  | 1 | 2 |  |  |
-| Min SH A | 1 | 2 | 10 |  | 1 |  |  |  |
-| Ben SD |  | 2 | 6 |  | 2 |  |  |  |
-| Ben SH C |  | 2 | 6 |  | 2 |  |  |  |
-| Ben SH B | 1 | 2 | 10 |  | 2 | 2 |  |  |
-| Ben SH A |  | 3 | 9 |  | 2 | 2 |  |  |
-| Pou SD |  | 3 | 9 |  | 2 | 2 |  |  |
-| Pou SH C | 2 |  | 8 |  | 2 |  |  |  |
-| Pou SH B | 2 |  | 8 |  | 2 |  |  |  |
-| Pou SH A |  | 4 | 12 |  | 1 |  |  |  |
-
-
-
-Pou A : 
-- TDS1 : NAERHUYSEN Tim
-- TDS2 : WAKSMAN Ruben
-- TDS3/4 : TALMON Corentin / ZHANG Raphael
-
-Samedi 21h
-
-Violette : tirage au sort + Echéancier
-
-Convocation : Phrase sur la Tenue + phrase pour les transports en commun + parking tout le week-end
-
-
-Joueurs de Pavillons
-en prio 1) car son pere m’avait relancé : Couturier Quitterie (SD Cad)
-Berger Axel (ben - NC)
-Fournier Grégoire (Min B)
-en prio 2) car c’est mon fils et je vais me faire gronder sévère : Bernard Leyhan (Min D9 A)
-Berger Ethan (Minime B)
-Fournier Charline (SD Junior) 2.65
-Soler Minazzoli Irène (SD Junior) 3.00
-Bouinoune Zine-Eddine (Junior)
-Prevot Azur (Junior)
-Castelli Louis (junior)
-
----
-
-J'ai déjà donner le matos pour le championnat de simple en revanche il me reste 1 caisse ou 2 que je ramènerais au tnt mais je récupérerai pas après.
-Pour le PAD hier on en parler avec Ashwyn pour moi c'est de l'amont donc à la commission de faire la comm nécessaire (changer sur badnet et les convocations + message WhatsApp rapide au responsable jeunes).
-
-Forfait de Neuilly : 
-BOUNOUARA Juqurtha Min NBC (0.14)
-COULIBALY-LAHAYE Tidiane Min NBC (0.14)
-
-Remplacé par : [SAHOTA Hartaj singh](https://badnet.fr/tournoi/tableau?drawid=690174&eventid=29509#) (1.27) et Fournier Grégoire (Min 5.29)
-Arnaud Couturier Ben D9 8.21
-
-
-
-#### Salarié Ashwyn
-Point avec Ashwyn
-- veux avoir une vision dans l’avenir
-- fait plus d’heure qu’il y a dans son contrat de travail
-- Ashwyn est a mi temps
-- qu’est ce qu’on fait la saison prochaine ?
-  - il fait uniquement de la perf
-
-il faut que j’ai une équipe investi
-répartition des label EFB
-combien de Club avenir
-taux de renouvellement / taux de participation
-
-
-
-
-#### Réunion commission jeunes
-
-Moyen de communication : ??
-
-Ashwyn : 
-- attachement au département, souhaite faire progresser le département. Projet jeunes réalisés la saison dernière. 
-- on n’avait pas de missions précises, j’avais des missions très large
-- trop d’horaire la saison passée
-
-Robin : 
-- je me suis engagé corps et âme
-- incompréhension avec Jean Paul sur le contrat
-- je devais préparer la saison
-- JP a essayé de m’éjecter
-- je n’ai pas d’autre heures dispo pour le COBAD (uniquement pour le DE)
-  - j’ai signé un contrat qui ne convenait pas
-  - j’ai accepté de faire tout le travail de manière bénévole
-  - j’ai redirigé mon projet DE pour préparer le parabad
-
-
-## Qui fait quoi ?
-Missions dans le contrat d’Ashwyn
-- Projet Jeunes
-- Accompagnant espoirs
-- Formation encadrant
-
-**▸ Heures d’Ashwyn**
-
-##### Heures d’Ashwyn 2024-25
-
-| Name | Public | Nombre d'heure | Nom du projet |
-| --- | --- | --- | --- |
-| IFB Jeunes | Pour la performance sportive | 20 | Accompagnement espoirs |
-| WESTFIELDS | Pour les clubs & les encadrants | 15 | L'aide à la structuration des clubs |
-| Le p’tit badiste | Pour tous | 10 | Le p'tit badiste |
-| Echange avec Carl |  | 20 |  |
-| Projet Scolaire | Pour tous | 15 | Le projet scolaire |
-| Imputation analytique + ce fichier |  | 18 |  |
-| Rédaction de projet Dispositif Jeunes |  | 30 |  |
-| Participation du cobad pour des joueurs exceptionnels | Pour la performance sportive | 50 | Accompagnement espoirs |
-| Réservation OC |  | 20 |  |
-| Championnat régional Jeunes | Pour la performance sportive | 31 | Accompagnement espoirs |
-| Stage minibad LIFB | Pour la performance sportive | 15 | Accompagnement espoirs |
-| ETR | Pour la performance sportive | 70 | Les poles départementaux |
-| ETD | Pour les clubs & les encadrants | 620 | Formation Encadrant |
-| Pole départemental | Pour la performance sportive | 51 | Les poles départementaux |
-| DAD | Pour la performance sportive | 14 | La sélection départementale |
-| DAR | Pour la performance sportive | 35 | La sélection départementale |
-| Fête minibad | Pour tous | 17 | Le p'tit badiste |
-| PAD | Pour la performance sportive | 50 | La sélection départementale |
-| CRJ | Pour la performance sportive | 100 | Accompagnement espoirs |
-| TNT | Pour la performance sportive | 35 | La sélection départementale |
-| Stage sélection | Pour la performance sportive | 180 | La sélection départementale |
-| Passage des plumes | Pour les clubs & les encadrants | 20 | L'aide à la structuration des clubs |
-| Section sportives | Pour les clubs & les encadrants | 51 | L'aide à la structuration des clubs |
-
-Objectif : diminuer son volume horaire
-
-Missions de Robin
-
-
-## Vis à vis du projet jeunes. Quels actions ont été un succès, quels actions ont été un échec ? Et pourquoi ?
-- Le p’tit badiste : dispositif pour le PAD
-  - amélioration de la perf
-  - former un joueur pour arriver en régionale
-- Pôles départementaux (20 et 30 joueurs par cycle de 6 semaines) : aulnay, bondy, rosny, bobigny
-  - bien fonctionné
-  - on devait dédommager les clubs accueillants → du coup pas renouvellé, les clubs ont refusés
-- Sections sportives
-  - une intervention dans chaque section (Bondy et noisy) : 3 à noisy et 4 à bondy
-    - Ashwyn : je ne vois pas ce que j’apporte en plus
-    - ce serait plus intéressant d’être présent en tant que conseiller
-- 3 filières : jamais mis en place (on a reçu des subventions mais jamais mis en place)
-- Projet Scolaire (Carl)
-
-
-## Prochaines échéances
-- Régionales Jeunes (OK)
-- TNT 4 et PAD 4 : 
-  - gérer le PAD (Ashwyn & Robin)
-    - Ashwyn : encadrement
-    - Robin : 
-      - tout ce qui concerne la préparation
-      - encadrement (à rémunérer ?)
-  - inscription & communication par mail (transmis à Carl)
-    - envoyer par mail ou par whatsapp
-      - entraineur ou responsable jeunes ou président
-- CRJ : coaching
-- Tournoi Labelisé : pas de coaching 
-  - mail aux clubs à valoriser
-- stage open avril (21 au 22 Avril 2025) : (Valentin)
-  - quel encadrant : Alexandre ? faire tourner ?
-  - quel gymnase : omar cherif
-  - demander à carl de faire la com
-  - faire la demande sur hello asso
-  - faire la demande poona
-  - trop d’objectif
-    - développement
-    - licencié ?
-  - facturation
-- stages sélection avril (23 au 25 Avril 2025) (ashwyn &  Valentin)
-  - communication
-  - logistique
-  - gymnase : Omar Chérif
-- TNT 5 (10 et 11 Mai 2025) 
-  - maintient par équipe ? TNT de simple
-  - **pas de JA (mail)**
-  - **pas de gymnase (mail)**
-  - circuit jeunes - comptage des points ? (juste administratif sur poona & badnet)
-    - récompenses prévus pour les clubs ou joueurs avec le meilleur classement
-- 17 & 18 mai : challenge poussin
-  - CRJ poussin
-  - compétitions pour poussin par équipe dans des poules
-  - avoir qqn de l’ETD
-- Open Bad : 31 mai (Valentin)
-  - omar chérif
-  - encadrant à trouver
-- Championnat départemental simples & doubles (7,8 et 9 juin 2025)
-  - trouver un gymnase (bobigny ? ou bondy ?)
-  - trouver JA
-  - récompenses spéciales (Vincent)
-  - Labellisation éco responsable (300€ de subvention)
-    - cadeau de bienvenue éthique
-    - vaisselle eco
-    - Point de tri
-    - Signalétique
-    - Sensabilisation à faire
-    - demande à faire eco responsable auprès du site ffbad (Aurélien)
-    - recyclage des volants utilisés dans la compétition
-- 14 juin : fête minibad (open bad) : s’essayer
-  - que les licenciés
-  - Omar chérif
-  - Toute la journée
-  - Communication
-- 15 juin : regroupement Interco
-  - Omar Chérif
-  - communication
-- Inter comité
-  - Coaching ETD ou ashwyn
-
-Matériels :
-- Voir sur drive
-- Imprimante
-- tablette
-
-JA : Patrick Lemery, Dany, Violette
-Open Bad : évènement convivial : atelier & jeux libres & gouter (payant avec Hello asso) (Poussin → Junior)
-Open MiniBad : open bad pour minibad
-
-
-**▸ Archive**
-
-#### TNT Rosny - 15 & 16 fév
-JA : Dany Mesureur
-Inscriptions : 
-- déjà lancés
-- relance à faire
-- fin des inscriptions : 1 février
-- fin des inscriptions pour le PAD peut potentiellement être prolonger 
-Lieu : Rosny (Yecine)
-- OK pour la buvette
-- éco cup et vaisselles à fournir par le COBAD
-Médailles (Vincent)
-
-```sql
-Pour les médailles : la saison dernière on avait commandé des médailles éco responsables en bois (boîte à part il me semble) pour la saison entière sauf pour le dernier tnt par équipe on avait repris des coupes et des médailles en métal à cmc trophée de Pantin. 
-
-Cette saison pour les tnt 1 et 2 j'ai fait la commande a cmc trophée et j'ai été les chercher. 
-Pour le tnt 3 : il faut aussi faire une commande là bas mais il faut savoir combien de tableaux on a donc attendre la fin des inscriptions plus rajouter les médailles du PAD et des simples poussins. 
-
-Cmc trophée nous ont proposé un partenariat avec des remises pour nos achats selon nos commandes mais aussi pour que chaque club du département affilié puisse avoir un pourcentage de remise grâce à ce partenariat. Ils font également des medaillles en bois.
-Si on choisit de faire ce partenariat : il faut prendre en compte le nombre de médailles utilisées par le comité sur le reste de la saison en se rapprochant également de la commissions compétition  adultes pour le codep simple et le codep double
-Je commandais le mercredi j'allais chercher le vendredi la veille du tnt. Ils ont du stocks pour des des médailles or argent et bronze
-
-```
-- nombres de médailles (or, argent et bronze) / en bois ? ou en métal ?
-- passer commandes (CMC)
-- aller récupérer les médailles
-Volants plumes :
-- le club hôte fournit les volants
-- refacturer au cobad
-- à vérifier aupres du club hote (volumes de boites à prévoir : 25 boites sur compétitions de simples - 17 boites le dimanche + 8 boites) OK POUR ROSNY
-- 1 boite pour PAD
-Tirage au sort
-- à voir avec Robin si présence d’élu (Jean Paul)
-- contacter le JA
-- effectuer le tirage au sort (week end de fin d’inscriptions)
-- échéancier à faire
-- gestion des forfaits
-Table de marque
-- le COBAD reverse une rétribution si le club fournit un GEO (500€ à vérifier)
-- Tablette ? mot de passe (à demander à Robin)
-- PC ? mot de passe ? (à demander à Robin - le comité n’a pas PC)
-
-
-PAD : minibad (samedi matin : avant le TNT) : Promobad
-- terrain réduit (sur terrain poussin - hauteur de filet poussin)
-- cadeau de bienvenue (porte clé ou sticker)
-  - commandés auprès de Roderick (ashwyn)
-- échauffement
-- explication compétition
-- matchs
-- récompenses 1er, 2ème et les 2 3ème
-- bénévoles auprès des bénévoles de Rosny
-
-TNT : 
-récompenses : 1er et 2ème
-pas de petit finale
-Poussins : simples, à voir avec JA pour petit finale (3ème si petit finale)
-club hote pour la remise des récompenses (Yecine)
-DH : samedi
-DD : samedi
-DM : dimanche
-
-
-TNT sont sur un circuit avec un système de point
-- circuit TNT
-- circuit éco responsable
-  - prendre en photo la temp du gymnase
-  - buvette 
-  - lien de co voiturage
-  - …
-
-Ashwyn : doit être présent pour détecter les plus jeunes (PAD)
-
-
-Ashwyn : 
-- accompagner Vincent pour la commande des médailles chez CMC
-- Commande pour les cadeaux de bienvenue pour le PAD (porte clé ou sticker auprès de Roderick)
-- Matériels à déposer au gymnase : 
-  - vaisselles
-  - eco cup
-  - cadeau de bienvenue
-  - Imprimante (tableau à afficher et réglèment)
-  - tablette
-  - signalétique eco responsable
-  - matériels pour remise des récompenses (kakémono, drapeau et nappes)
-- fournir à la commission jeunes
-  - Système de circuit RDJ/TNT
-  - Process pour le circuit éco responsable
-
-Yecine (GEO) :
-- GEO OK
-- Buvette OK
-- Volants OK
-- ordinateur pour la table de marque OK
-- Sono OK
-
-Aurélien :
-- Accéder à la boite mail jeunes
-- relance sur les inscriptions TNT/PAD par mail ou whats app
-- prolongement des inscriptions pour le PAD, d’une semaine supplémentaire (8 février) ?
-
-Vincent (avec l’aide d’ashwyn) : 
-- passer commandes des médailles (CMC)
-- aller récupérer les médailles
-
-
----
-Samedi : 10h → 20h : 11h - 13h ? / 16h (17h) → 19h
-Dimanche : 10h30 → 14h30 (11h → 14h)
-
-
-
-Objectifs : 
-- Faire pratiquer et éduquer
-- Animer le territoire
-- Fédérer
-- Former les élites de demain
-
-Responsable jeunes
-- +33613066356 (Arnaud - coubron)
-- 0680372914 (Walter - Noisy le grand)
-- +33664781919 (Sébastien- Pavillons)
-- +33 6 61 19 29 40 (Albert - Rosny)
-- +33 6 14 26 84 88 (Claudia- Bondy)
-- +33783924869 (Joseph - Bondy)
-- 0661231067 (Camillus- Neuilly sur Marne
-- +33685429271 (Christophe- Neuilly plaisance)
-- +33677382510 (Florian - Villemonble)
-- 0610134235 (Fred lecalvez - Romainville et Pre St gervais)
-- +33698968983 (Gael - Auber)
-- +33671976293 (Tiphaine - St ouen )
-
-[BARDU Célia (P12/P11/P12)](https://badnet.fr/tournoi/fiche-joueur?eventid=30601&regiid=4257691)A contacter Bondy, pour lui proposer ZHENG Eric en mixte
-A Contacter Pavillons pour cette joueuse : BOUZIANE Thitirat (P11/P11/P11)
-
-
-
-
-Départemental jeunes Gymnase
-- Noisy le Grand (demande a la mairie)
-- Aubervilliers (demande à la mairie)
-- Romainville
-- Coubron (gymnase 4 terrains - demande à la mairie)
-- Montreuil (5 terrains - intéressé)
-- Neuilly sur marne (demande à la mairie)
-- Gagny (3 terrains valide sur 7 - travaux prévu cet été, à suivre)
-- Bondy (joseph va demandé au président)
-
-
-
-Badnet -> TNT 2 / PAD 2 -> Extras -> Finance -> Recalculer les frais d'inscriptions selon les matchs joués -> Impression Xls
-Pour le pad, il me faudra un tableau recap après le dernier pad de la saison. (Maroussia)
-
-[www.ovhcloud.com/fr/mail/](http://www.ovhcloud.com/fr/mail/)
-Id : [jeunes@badminton93.org](mailto:jeunes@badminton93.org)
-mdp : CoBad93Jeunes!
-
-Départemental JA : Philippe Gomes (Pgomes Bad [pgomes.bad@gmail.com](mailto:pgomes.bad@gmail.com))
-
-
-#### Départemental Jeunes
-de 7h30 à 21h pour le samedi et de 7h30 à 19h30 concernant le dimanche
-8h - 20h00 : 12h
-8h - 18h30 : 10h30
-
-20h30 : 307.5 matchs
-
-[https://www.brother.fr/services-et-supports/hll2310d/downloads](https://www.brother.fr/services-et-supports/hll2310d/downloads)
-
-[Tableau forfait](https://docs.google.com/spreadsheets/d/1KpvjiEr-gyr1vL_c2IxQd-_ZxyexLTVg7NJOs1R6lsg/edit?usp=sharing)
-
-- [x] Sono
-- [x] Imprimante (Chez Laure)
-- [x] Installation la veille
-- [x] Dépot matériel (mercredi ou jeudi soir)
-- [ ] badge du gymnase (Valentin dépose à Chloé)
-- [x] Arche
-- [x] tablette (pour score - chez Laure) + cable alimentation
-- [x] Récompenses (Vincent)
-- [x] bouteilles d’eau (Valentin)
-- [x] impression 
-  - [x] tableaux
-  - [x] échéancier
-  - [x] RP
-  - [x] QR code pointage
-  - [x] Numéro de terrain
-- [ ] scotch
-- [x] Trousse de soin
-- [x] ciseaux, stylos
-- [x] chaises de coach
-- [x] multi prise
-- [x] Volants
-- [ ] enrouleur ??
-
-Présence sur week end
-
-
-##### Structure tableau Départementaux
-
-| Name | Poule de 4 | Poule de 3 | P. Unique | Inscrits | Huitième | Sortant | Quart | Nb Matchs | Poule de 5 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Min SH Exc |  |  | Oui | 5 |  |  |  |  | 1 |
-| Ben DM |  |  | Oui | 1 |  |  |  |  |  |
-| Ben DD |  |  | Oui | 0 |  |  |  |  |  |
-| Ben DH |  |  | Oui | 5 |  |  |  |  | 1 |
-| Ben SD |  |  | Oui | 3 |  |  |  |  |  |
-| Pou DM |  |  | Oui | 2 |  |  |  |  |  |
-| Pou DD |  |  | Oui | 1 |  |  |  |  |  |
-| Pou DH |  |  | Oui | 2 |  |  |  |  |  |
-| Pou SD |  |  | Oui | 5 |  |  |  |  | 1 |
-| Cad SH | 2 | 4 | Non | 20 |  | 1 | 4 |  |  |
-| Jun SH | 1 | 5 | Non | 19 |  |  | 3 |  |  |
-| Cad DH | 1 | 2 | Non | 10 |  | 1 |  |  |  |
-| Ben SH Exc | 1 | 1 | Non | 7 |  | 2 |  |  |  |
-| Jun SD | 2 |  | Non | 8 |  | 2 |  |  |  |
-| Cad DM |  |  | Oui | 5 |  |  |  |  | 1 |
-| Ben SH |  | 4 | Non | 12 |  | 1 |  |  |  |
-| Jun DH |  | 3 | Non | 9 |  | 2 | 2 |  |  |
-| Jun DM |  |  | Oui | 3 |  |  |  |  |  |
-| Min SH | 2 | 3 | Non | 17 |  | 1 | 3 |  |  |
-| Cad DD |  |  | Oui | 1 |  |  |  |  |  |
-| Min SD | 2 |  | Non | 8 |  | 2 |  |  |  |
-| Min DM | 1 |  | Oui | 4 |  |  |  |  |  |
-| Min DD |  |  | Oui | 1 |  |  |  |  |  |
-| Cad SH Exc |  | 2 | Non | 6 |  | 2 |  |  |  |
-| Min DH |  | 2 | Non | 6 |  | 2 |  |  |  |
-| Jun DD |  |  | Oui | 3 |  |  |  |  |  |
-| Cad SD |  | 2 | Non | 6 |  | 2 |  |  |  |
-| Pou SH |  | 6 | Non | 18 |  | 1 | 2 |  |  |
-
-
-
-
-
-
-### Entraînement minibad
-
-Zebulon
-Marelle
-
-Toupie
-Araignée
-
-Cible coup droit
-Cible coup revers
-
-
-Séance minibad :
-- Atelier corde à sauter
-- Atelier service
-- Atelier coopération tube de volants
-- Atelier jongle
-- Atelier échelle
-- Atelier motricité
-
-## Objectif D8
-
-Routine d’échauffement (15 min)
-- Mobilité articulaire
-  - bas du corps
-    - cheville
-    - hanche
-    - hanche + tronc
-  - haut du corps (essayer de se grandir)
-- Renforcement musculaire
-  - proprioception
-  - élastique haut du corps (pronation/supination)
-  - planche & planche dynamique
-- Echauffement du corps
-  - corde à sauter (100)
-- Echauffement raquette
-  - drive offensif / défensif
-  - dégagement
-  - amorti lob
-  - smash défense
-  - jeu au filet
-[https://licenceshift.fr/video/intervenir-echauffement-niveau1/](https://licenceshift.fr/video/intervenir-echauffement-niveau1/)
-
-- Raquette va sur le volant
-- Focus et timing (Reprise d’appuis)
-- Neutraliser ! (Consistence)
-- swing compact
-
-
-### Programme Elliptique
-
-### **Séance 1 : Interval Training "Spécifique Badminton"**
-- **Objectif :** Reproduire le rythme d'un échange au badminton (effort intense court, repos court).
-- **Durée totale :** 30 à 35 min.
-- **Échauffement (8 min) :** Pédalage fluide à résistance très faible, rythme modéré (60-70 RPM).
-- **Corps de séance (15 à 20 min) :**
-  - 15 à 20 cycles de :
-    - **12 secondes d'effort intense** (accélération et augmentation de la résistance, comme lors d'un volant disputé).
-    - **36 secondes de récupération active** (pédalage lent, faible résistance).
-- **Retour au calme (5 min) :** Pédalage très doux, résistance minimale.
-
-### **Séance 2 : Endurance de Fond & Force Endurance**
-- **Objectif :** Développer la caisse physique pour tenir les matchs en 3 sets et renforcer le haut des cuisses (quadriceps/ischios) pour protéger les genoux.
-- **Durée totale :** 40 à 45 min.
-- **Échauffement (8 min) :** Pédalage progressif.
-- **Corps de séance (25 à 30 min) :**
-  - **Bloc 1 (12 min) :** Pédalage continu à rythme régulier (70-75 RPM), résistance moyenne (vous devez pouvoir parler sans être trop essoufflé).
-  - *Récupération 2 min (pédalage très léger).*
-  - **Bloc 2 (12 min) :** Pédalage en **marche arrière** à résistance modérée (travail ciblé des ischios et des fessiers, crucial pour la stabilité du genou et le recul sur le terrain).
-- **Retour au calme (5 min) :** Pédalage doux.
-
-### **Séance 3 (Optionnelle) : HIIT Pyramidal**
-- **Objectif :** Travailler la capacité à enchaîner les points longs et fatigants en fin de set.
-- **Durée totale :** 35 min.
-- **Échauffement (8 min) :** Pédalage progressif.
-- **Corps de séance (20 min) :**
-  - Réalisez **2 séries** de la pyramide suivante (pause de 3 min entre les 2 séries) :
-    - 15s effort / 15s récup
-    - 30s effort / 30s récup
-    - 45s effort / 45s récup
-    - 30s effort / 30s récup
-    - 15s effort / 15s récup
-- **Retour au calme (5 min) :** Pédalage doux.
-
-### **Conseils pour préserver vos genoux (40+ ans)**
-- **Posture sur l'elliptique :** Gardez les pieds bien à plat sur les pédales (ne décollez pas exagérément les talons) et gardez les genoux légèrement fléchis sans jamais les verrouiller en extension complète.
-- **Renforcement complémentaire :** Complétez vos séances par du gainage abdominal et du travail d'équilibre (proprioception sur une leg) pendant 5 à 10 minutes après l'entraînement. Des quadriceps et fessiers forts soulagent directement la rotule.
-- **Hydratation & Récupération :** Laissez toujours au moins 24 heures de repos entre deux séances d'elliptique ou entre une séance d'elliptique et votre entraînement/match de badminton.
-
-Axe d’amélioration
-- [ ] Améliorer ma défense
-  - [ ] suivre la trajectoire du volant avec mon oeil et ma raquette
-    - [ ] améliorer son déplacement (déplacement rapide vers le volant)
-  - [ ] mixer les trajectoires de défense
-    - [ ] déplacer son adversaire
-    - [ ] utiliser la défense comme contre attaque
-  - [ ] swing court
-  - [ ] ne pas trop reculer, et arrêter de reculer quand le smash est frappé
-  - [ ] ne pas se pencher en arrière au moment de la défense
-- [ ] Ajouter le slice dans mes attaques et améliorer mon smash
-- [ ] Améliorer ma reprise d’appuis
-  - [x] me sentir rapide et léger
-  - [ ] ancrer dans le corps
-- [ ] Améliorer ma tactique
-  - [ ] Que faire face à un joueur défenseur ou un joueur de double homme ?
-- [ ] Améliorer mon physique (faire un peu de tout - générale puis vers spécifique si proche de échéance)
-  - [ ] Haut du corps & tronc 1 fois par semaine (pour protéger les blessures)
-    - [ ] pompes 3 x 10
-    - [ ] gainage
-  - [ ] Bas du corps 1 fois par semaine
-    - [ ] routine de squat
-    - [ ] fentes
-    - [ ] explosivité
-  - [ ] endurance/cardio 1 fois par semaine : 
-
-### Cardio Bad
-C'est une excellente nouvelle. Le vélo elliptique est un outil formidable pour le badminton car il sollicite **les bras et les jambes** (comme lors d'une frappe avec déplacement) tout en **épargnant vos articulations** (les genoux et chevilles souffrent déjà assez sur le terrain).
-Cependant, pour que ce soit utile au badminton, il ne faut surtout pas en faire à un rythme "pépère" devant la télé. Il faut simuler l'intensité d'un match.
-Voici un programme spécifique **"Badminton & Elliptique"** basé sur le fractionné (HIIT).
-
----
-
-### Les Règles d'Or sur l'Elliptique pour le Badminton
-1. **Utilisez les bras :** Ne tenez pas les poignées fixes au centre. Utilisez les grands bras mobiles. Poussez et tirez activement. En badminton, la puissance vient de la coordination bras/jambes.
-1. **Variez le sens :** Si votre machine le permet, pédalez en arrière lors des phases de récupération. Cela travaille les ischio-jambiers et la coordination (utile pour le recul fond de court).
-1. **Résistance vs Vitesse :**
-  - *Vitesse (RPM élevé)* = Simulation de la rapidité des pieds.
-  - *Résistance élevée* = Simulation des fentes et des sauts (puissance musculaire).
-
----
-
-### Programme : "Le Simulateur de Match" (35 Minutes)
-Ce programme imite la structure d'un match : des échanges intenses (sprints) suivis de temps morts (récupération), avec une fatigue qui s'accumule.
-**Fréquence :** 1 à 2 fois par semaine.
-
-### 🔎 Zoom sur la phase 3 : "Le Cœur du Match" (15 min)
-C'est ici que vous progressez. Vous allez alterner effort et repos, comme entre les points. Choisissez votre niveau :
-- **Niveau Débutant (15 reps) :**
-  - **20 secondes à FOND** (Sprint total, résistance moyenne).
-  - **40 secondes cool** (Récupération active, pédalage lent).
-- **Niveau Intermédiaire (15 reps) :**
-  - **30 secondes à FOND**.
-  - **30 secondes cool**.
-- **Niveau Confirmé (Simulation "Rallye Long") :**
-  - **45 secondes à FOND**.
-  - **15 secondes cool** (Juste le temps de respirer, comme en match).
-  - *Attention, c'est très dur, faites des séries de 5 minutes avec 2 minutes de repos entre chaque bloc.*
-
----
-
-### Variante : Le Programme "Jambes de Feu" (Puissance)
-Si vous sentez que vous manquez de force pour remonter de vos fentes ou pour sauter au fond du court, faites cette séance.
-- **Principe :** On ne cherche pas la vitesse, mais la difficulté.
-- **Durée :** 20 minutes (hors échauffement).
-- **Réglage :** Mettez la résistance au maximum que vous pouvez tenir.
-- **Action :** Vous devez avoir l'impression de monter une côte raide. Concentrez-vous sur la poussée des talons.
-- **Structure :** 2 minutes d'effort intense en résistance / 1 minute de récupération résistance faible. Répétez 6 à 8 fois.
-
----
-
-### 💡 Le petit "Plus" mental
-Pendant vos phases d'accélération sur l'elliptique, **visualisez** un échange de badminton.
-- Exemple : Imaginez : "Service court, je monte au filet, je recule fond de court, smash, je reviens au centre..."
-  Cela aide le cerveau à connecter l'effort physique à la situation de jeu.
-**Voulez-vous que je vous explique comment calculer votre fréquence cardiaque cible pour vérifier que vous êtes dans la bonne zone d'intensité ?**
-- [ ] Améliorer ma mobilité
-- [ ] Etre plus régulier
-  - [ ] jouer avec de la marge
-  - [ ] Rendre plus régulier mon amorti (mes frappes)
-    - [x] armé précoce
-    - [ ] armé précoce systématique
-
-
-### Rencontres
-
-| Name | Score | Résultat | Adversaire | Date | Notes | Forces et Faiblesses |
-| --- | --- | --- | --- | --- | --- | --- |
-| Sajith | 21-7 21-10 | Victoire | Sajith |  |  | Manque de consistance |
-| Titouan | 15-6 15-13 | Victoire | Titouan |  |  | Manque de consistance |
-| Nicolas Patricio | 21-11 13-21 21-13 | Défaite | Nicolas Patricio |  |  | Plus consistant je suis obligé d'être plus agressif, Mes amortis croisés passent, Fait beaucoup de choses complexes |
-|  | 24-22 | Défaite | Bastien Charret |  | Timing de frappe ok à lire, smash pas si rapique que cela | Pas de fixation, Beaucoup de faute en slice |
-| Yanis Combes | 21-14 21-14 | Victoire | Yanis Combes |  |  | N'aime pas quand on agrandit le terrain |
-| Florian  | 12-21 13-21 | Défaite | Florian |  | Ma reprise d'appuis était trop précoce | Fixation, Vitesse des trajectoires |
-| Sébastien | 21 - 18 11 - 8 | Victoire | Sébastien Roca |  |  | Peut être pris a contre pied |
-| Akira | 20-22 21-16 21-19 | Victoire | Akira |  | Utiliser d'avantage de l'avant bras pour avoir des trajectoires descendantes  | Longueur de dégagement, Jeu de doubles |
-|  | 04-21 11-21 | Défaite | Vincent Tran |  | Pris sur les fixations. Pas les jambes pour suivre son jeu précis | Reprise d'appui à contre temps |
-|  | 22-20 14-21 16-21 | Défaite | Anis Ammour |  | Je n’ai pas réussi à faire mal à mon adversaire en fin de match, j’ai été moins aggressif et lui ai laissé le jeu | Je lui ai laissé le jeu (mentalement) |
-|  | 12-21 14-21 | Défaite | Frédéric Le Calvez |  | bouffé tactiquement, je n’ai pas réussi à m’adapter à la vitesse du volant. J’ai été constamment dans le retard. | En dette de temps tactiquement |
-|  | 20-22 21-16 19-21 | Défaite | Joris DAVI |  | manque de lucidité avec cardio défaillant vers la fin du match | Manque de cardio |
-|  | 11-21 15-21 | Défaite | Mattéo |  |  | Très rapide dans ses déplacements |
-|  | 21-10 21-15 | Victoire | Antoine Compeyron |  | Bonne sensation sur mon déplacement | Raide dans ses déplacement, Bonne longueur de dégagement, Avoir un jeu patient contre lui |
-
-
-Programme Cardio :
-Voici un programme d'entraînement de 30 minutes que vous pouvez suivre :
-1. **Échauffement (5 minutes)** :
-  - Résistance faible, vitesse modérée.
-  - Objectif : Augmenter progressivement votre rythme cardiaque.
-1. **Intervalle de Haute Intensité (20 minutes)** :
-  - **2 minutes** à résistance modérée, vitesse élevée.
-  - **1 minute** à résistance élevée, vitesse modérée.
-  - Répétez ce cycle 6 fois.
-  - Objectif : Améliorer votre capacité cardiovasculaire et votre endurance.
-1. **Retour au Calme (5 minutes)** :
-  - Résistance faible, vitesse lente.
-  - Objectif : Ramener progressivement votre rythme cardiaque à la normale.
-
-Warm up
-- exercice de proprioception - renfo genou, mollet
-- gainage
-- rouleau ?
-- améliorer agilité - stretching
-
-Renforcement Mollet Genou
-[https://www.youtube.com/watch?v=1vljCaAyD08](https://www.youtube.com/watch?v=1vljCaAyD08)
-[https://www.youtube.com/watch?v=chLsCF1XlE0](https://www.youtube.com/watch?v=chLsCF1XlE0)
-[https://www.youtube.com/watch?v=LCYbQxHy5HQ](https://www.youtube.com/watch?v=LCYbQxHy5HQ)
-[https://www.youtube.com/watch?v=m3wtRsKs1ss](https://www.youtube.com/watch?v=m3wtRsKs1ss)
-[https://www.youtube.com/watch?v=nq2FLsV7qMk](https://www.youtube.com/watch?v=nq2FLsV7qMk)
-[https://www.youtube.com/watch?v=V1cbMeZE4wg](https://www.youtube.com/watch?v=V1cbMeZE4wg)
-
-
----
-Renforcement haut du corps
-[https://www.youtube.com/watch?v=krfVvr14tx4](https://www.youtube.com/watch?v=krfVvr14tx4)
-[https://www.youtube.com/watch?v=FuTBveSqaZE](https://www.youtube.com/watch?v=FuTBveSqaZE)
-
-Stretching
-[https://youtu.be/DdqOCCsht1w](https://youtu.be/DdqOCCsht1w)
-[https://www.youtube.com/watch?v=aGwhHjMvoLY&list=PLDzJROaFvMccCODJjoTuiiwAqgNOpa48w&index=2](https://www.youtube.com/watch?v=aGwhHjMvoLY&list=PLDzJROaFvMccCODJjoTuiiwAqgNOpa48w&index=2)
-[https://www.youtube.com/watch?v=-gDWPcyCk6U&list=PLDzJROaFvMccCODJjoTuiiwAqgNOpa48w&index=4](https://www.youtube.com/watch?v=-gDWPcyCk6U&list=PLDzJROaFvMccCODJjoTuiiwAqgNOpa48w&index=4)
-
-**▸ [https://youtu.be/h0csWVuBrUY](https://youtu.be/h0csWVuBrUY)**
-  - Dos
-    - position statique 10 sec
-  - Hanche et fessiers - 2 niveaux
-    - jambes pliés
-    - position du pigeon
-  - Quad, Genoux
-    - sur le ventre (avec ou sans serviette)
-  - Ischio jambiers
-  - Mollet
-    - Chien couché
-  - Epaule
-    - Part 1 : Lat (10 s)
-    - Part 2 : Bicep /  Peck (10 s)
-    - Part 3 : Dos de l’épaule
-
-
-
-[https://www.youtube.com/watch?v=1aNpTMfNH_g](https://www.youtube.com/watch?v=1aNpTMfNH_g)
-[https://www.youtube.com/watch?v=KXLLJjhFTHE](https://www.youtube.com/watch?v=KXLLJjhFTHE)
-
-
-
-
-
-Complément alimentaire :
-- Collagène marin (juillet)
-
-Muscle sollicités (renforcement)
-- Quadri & fessier
-  - squat
-  - fente bulgare (genou également)
-- mollet (saut)
-  - monter de pointe
-- soléaire
-- muscle voute plantaire
-- abdo & gainage
-- couaffe (épaule) & rotateur interne et externe
-  - rotation d’épaule ou bras à 90° (rotation interne et externe avec élastique)
-- Explosivité cardio
-  - burpees
-- cervicale 
-
-Souplesse (capacité passive) vs Mobilité (capacité active)
-
-
-
-
-Avec un **style polyvalent**, une **attaque modérée** et une **endurance limitée**, tu peux construire un plan de jeu intelligent et économe en énergie contre un joueur de double. Voici une **stratégie personnalisée** :
-
----
-
-# **🎯 Objectif principal : Faire bouger sans s'épuiser**
-
----
-
-### **🧩 1. Jeu de variation et de placement**
-Tu n’as pas besoin de frapper fort, mais de **placer intelligemment** :
-- **Amortis croisés** pour le faire courir vers l’avant.
-- **Dégagements hauts et profonds** pour le repousser.
-- **Drives tendus** pour casser son rythme sans trop d’effort.
-> 🧠 Astuce : vise les zones vides plutôt que la puissance.
-
----
-
-### **🧘 2. Gestion de l’énergie**
-- **Ralentis le jeu** quand tu sens la fatigue : clears hauts, jeu au filet.
-- **Évite les longs échanges** si possible : cherche à provoquer la faute par variation.
-- **Utilise le temps entre les points** pour récupérer (essuie-toi, respire profondément).
-
----
-
-### **🕵️ 3. Exploiter ses automatismes de double**
-- Il risque de **rester trop au centre** : joue sur les lignes.
-- Il peut **attaquer trop vite** : piège-le avec des feintes ou des lifts défensifs bien placés.
-
----
-
-### **🧠 4. Plan de match type**
-
-
-
-## Tactiques
-Smash → rush au filet
-Slice → push
-Dégagement offensif →kill 
-Demi smash →interception sur le contre 
-
-Push → contre amorti (spin) puis attaque 
-Push → lob puis attaque
-Provoquer lob naturelle (provoqué par push avec variation de vitesse et de poids)
-- centre du demi terrain sur coup droit pour provoquer lob croisé coté coup droit pour un droitier
-- centre du demi terrain sur revers pour provoquer lob croisé coté revers pour un droitier
-- push excentré sur coup droit pour provoquer un lob droit coté revers
-- push excentré sur revers pour provoquer un lob droit coté coup droit
-Consistance : Jouer sur le centre ou centre de demi terrain. Provoquer les coups naturelles (croisés)
-Exercice de consistance (PMA) : 10 x 45 sec de poste fixe (push / lob) en zone 2 + 15 sec de repos
-
-Essayer de mettre plus de vitesse sur amorti, jeu au fil, défense, frappe de neutralisation, lob
-
-
-Objectif : mettre l’adversaire en crise de temps
-- Entrée (4 premières frappes), Construction (recentrer le jeu), Finition
-- 80 / 20
-- Frappes Paires (Smash/Slice/Dégagement, Amorti/Dégagement, Contre-amorti/Lob)
-
-- Centre du jeu
-- Zone Favorable / Défavorable / Neutre
-- Notion d’incertitude
-- Transition entre défense et attaque
-- Anticipation (position adverse, orientation des appuis, main haute ou main basse, prise raquette)
-
-Sur service, observer la prise adverse et les réponses proposés.
-En réception, utile de prendre des options de prise de raquette pour être plus impactant.
-selon la prise de raquette, le coup “naturelle”/mécanique à s’attendre à 80%
-Entrer dans la tête de l’adversaire
-
-tête de raquette basse en défense
-
-
-
-
-### Activation / Déverrouillage articulaire
-C'est un excellent réflexe. Au badminton, le bas du corps est ton moteur : si tes appuis sont "lents" ou tes articulations "froides", tu subis le jeu au lieu de le dicter.
-Voici une routine spécifique **"Bas du Corps & Explosivité"** de 12 minutes, conçue pour préparer tes chevilles, tes genoux et tes hanches aux changements de direction brutaux.
-
----
-
-## 1. Mobilité Articulaire Spécifique (3 min)
-L'idée est de lubrifier les articulations qui vont subir de fortes pressions (notamment sur les fentes profondes).
-- **Rotations de chevilles "en charge" :** En appui sur la pointe des pieds, fais des cercles amples. La cheville est l'articulation la plus sollicitée en badminton.
-- **Cercles de hanches "Ouverture de hanche" :** Debout, lève le genou devant toi, ouvre-le sur le côté et repose le pied. Imagine que tu dois enjamber une haie imaginaire. (10 répétitions par jambe).
-- **Squats profonds (lent) :** Descends le plus bas possible en gardant les talons au sol pour étirer activement les tendons d'Achille et les fessiers. (10 répétitions).
-
----
-
-## 2. Gammes de Déplacement "Bad" (5 min)
-Au lieu de courir bêtement, on utilise les pas spécifiques du terrain.
-- **Le "Chassé-Fente" :** Fais deux pas chassés latéraux puis une fente profonde côté raquette (comme pour prendre un volant au filet). Repousse fort sur ta jambe pour revenir à la position initiale.
-  - *Focus :* Ton genou ne doit pas dépasser tes orteils.
-- **Pas de ciseaux (Scissor Kick) :** Simule un saut au fond du court en changeant tes appuis en l'air.
-  - *Focus :* Réception souple sur l'avant-pied.
-- **Le "V-Run" :** Pars du centre, sprinte vers un coin avant, reviens en pas chassés, puis repars vers l'autre coin avant.
-
----
-
-## 3. Activation Nerveuse & Plyométrie (4 min)
-C'est ici que tu actives tes fibres rapides pour être capable de bondir au démarrage.
-
----
-
-## 4. Le "Check-up" de la cheville (Important)
-> **Le test de stabilité :** Tiens-toi sur une jambe (celle de ta raquette) et ferme les yeux pendant 20 secondes. Cela réveille les **propriocepteurs** (tes capteurs d'équilibre). Si tu vacilles, c'est que ton cerveau n'est pas encore totalement connecté à tes chevilles. Recommence jusqu'à être stable.
-
----
-
-### Pourquoi privilégier le "poussé-revenu" ?
-Au badminton, le plus dur n'est pas d'aller vers le volant, c'est d'avoir la force dans les jambes pour **s'en extraire** et revenir au centre. Cette routine insiste sur la poussée excentrique (le freinage) et concentrique (le redémarrage).
-
-
-
-### Footwork
-La reprise d’appui doit avoir lieu au moment de l’impact du volant. Le saut d’allègement doit se produire à l’armé du joueur adverse.
-Armé quand l’adversaire arme (plutôt à l’amorce de la frappe adverse)
-Commencer le saut d’allègement à l’amorce de la frappe adverse (épaule, coude vers l’avant)
-Sur une frappe adverse main basse, l’armé doit être main haute, et inversement sur une frappe adverse main haute, l’armé doit être main basse.
-Garder le coude haut sur les frappes main haute, pour bien diriger le volant
-Pied raquette avancé pour gérer l’avant et le fond du court.
-4 types d’armé
-- bras à 90°
-- Coude bas
-- Tête de raquette derrière le dos (tel un sabre)
-- coude fixé derrière
-Reprise d’appuis
-- en marchant
-- en levant juste les talons
-- léger saut
-  - NB : Ne pas trop écarté les appuis, sinon je n’arrive pas à repartir
-Sur le replacement, utilisé un replacement adapté à l’intention tactique / Prendre des options sur le replacement
-- un replacement lent ou un pas chassé vers l’avant si je veux être fort au fond de court
-- un pas chassé arrière si je veux être fort au filet
-Sur la reprise d’appuis, pour être dans le bon timing, il est nécessaire d’adapter aussi la vitesse de déplacement (ralentir ou accélérer)
-Sur les frappes coups droit privilégier les sauts chinois
-Sur les frappes revers privilégier les sauts ciseaux
-Il vaut mieux être arrêter qu’en mouvement lors de la frappe adverse, ou bien un replacement lent
-
-### Neutre
-Utilisé des pushs plutôt que des contre amortis juste derrière le filet
-
-
-### Attaque
-
-Pas de smash à 100% sauf si opportunité
-Slice droit
-- mouvement de raquette de gauche vers la droite
-- frotter le volant
-Pour faire un slice, ne pas pivoter avec le corps. Masquer slice, dégagement et smash droit
-Reverse slice
-- mouvement de raquette de droite vers la gauche
-- accompagner le volant et non le frotter
-- pivoter les hanches pour avoir le pied raquette vers l’avant comme pour une frappe droite
-Pour un reverse slice, penser à accompagner le volants. Pour aider, on peut raccourcir la prise au niveau du manche.
-Sur des kills, utiliser le pied frappe pour reculer du filet et permettre une interception
-
-### Défense
-3 types de défense :
-- défense haute : avancer le coude et la main (poignet) + relaché serré
-- défense bloc : avancer le coude lentement + relaché serré
-- défense mi-court : avancer le coude et la main (poignet) + relaché serré. Tamis orienté vers le bas
-
-En défense il faut reprendre l’attaque en variant les défense
-En défense le pied raquette et légèrement reculé afin d’avoir plus d’espace pour manoeuvrer. Utiliser juste le relaché serré avec des gestes avec peu d’amplitude
-En drive offensif, le pied raquette est légèrement devant.
-Sur des défenses tendus ou block, avancer en transition d’attaque
-Sur des défenses courtes croisées, suivre au filet. Si on lève, défendre droit.
-
-Privilégier prise revers en défense de smash, et prise coup droit en attaque au filet.
-
-### Fixation / Déception
-Armée précoce pour fixation
-Faire une fixation après un coup du fond de court suivi. Le body langage donne l’indication d’une frappe potentiel puissante, alors que la frappe ne l’est pas.
-Effectuer un armé lors de la 
-
-### Schéma Tactique
-
-- Sur smash droit côté coup droit
-  - défense courte croisé + appuis orienté vers l’avant pour contre attaquer
-  - lob droit pour se donner du temps
-  - reverse slice 
-    - en poussant fort sur les jambes pour être en avance
-    - Le reverse slice se fait si on a du temps, sinon on ne cherche pas à agrandir le terrain
-    - replacement en pas chassé vers l’avant, un seul pas chassé
-  - contre amorti droit
-  - Lob droit
-    - replacement lent au centre du jeu
-- Sur smash droit
-  - défense courte
-  - attaque suivi par un kill
-- Sur dégagement croisé côté coup droit après des dégagements droits côté revers
-  - anticiper appuis vers l’arrière pour attaquer
-  - Smash droit ou slice croisé
-  - se positionner sur le centre de jeu pour défendre
-    - appuis avec pied raquette un peu reculé et le pied non raquette orienté vers la trajectoire du slice
-    - importance de la reprise d’appuis
-- Sur service long au centre
-  - effectuer un dégagement droit
-  - Le serveur doit avoir ses appuis dirigé (pied raquette avancé)
-- Sur service long croisé
-  - effectuer un slice/reverse slice
-  - effectuer un dégagement droit
-  - Le serveur doit avoir ses appuis dirigé
-
-### Dashboard Coups
-
-
-#### Coups
-
-| Nom du Coup | Coups masqués | Prises | Coups réponses probables | Risque | Points de correction | Gestuelle | Schéma de trajectoire | Type | Zone | Statut | Footwork |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Défense croisé revers |  | Universelle, Bevel |  |  | posé le pied avant de faire la frappe / prise universelle ou prise bevel, utilisé les doigts pour orienter la tête de raquette / fente latérale / position proche de la ligne centrale, mais du coté du demi terrain revers |  |  | Offensif | Mi-court | Initié |  |
-| Slice Revers croisé |  | Bevel |  |  | impact à niveau d’épaule, pas de transition avant de pivoter |  |  |  |  | Initié |  |
-| Amorti revers croisé  |  | Bevel | Contre-amorti droit | 60 | • mouvement orienté sur le côté • cibler le centre du demi terrain croisé pour neutraliser le retard • effectuer un pas de transition avant de pivoter pour plus de puissance • ne pas trop décomposer le mouvement, il faut que ce soit fluide • prise bewel sur la raquette |  |  | Offensif, Neutre | Fond | Initié |  |
-| Reprise d’appuis orientée |  |  |  |  |  |  |  |  |  | Initié |  |
-| Replacement |  |  |  |  | Se replacer en face de l’adversaire / Se replacer selon le rythme adverse, parfois privilégier un replacement lent / Replacement lent et nonchalent |  |  |  |  | Confirmé en match |  |
-| Reprise d’appuis |  |  |  |  | Timing de frappe |  |  |  |  | Confirmé en match |  |
-| Stick Smash |  | Universelle |  | 60 |  |  |  | Offensif | Mi-court | En apprentissage en jeux libres |  |
-| Amorti neutre |  | Universelle | Push droit | 80 | Coups sous pression, accompagné la frappe avec la raquette, limité le temps de contact avec la raquette, le volant doit arriver au mi court et non derrière le filet. |  |  | Neutre | Fond | Initié | Déplacement en retard |
-| Lob | Contre amorti | Revers, Universelle | Stick Smash | 60 | Fixation Contre amorti lob • armé pour le contre amorti et le lob (descendre légèrement la tête de raquette) |  |  | Offensif | Filet | Initié | Fente avant |
-| Dégagement de revers fond de court |  | Bevel |  | 80 | • mouvement orienté vers le haut • ne pas trop décomposer le mouvement, il faut que ce soit fluide • effectuer un pas de transition avant de pivoter pour plus de puissance • prise bewel sur la raquette • relâché serré (levé les trois doigts et resserré la prise au moment de l’impact) |  |  | Défensif | Fond | Initié | Déplacement en retard |
-| Service Flick |  | Revers | Dégagement droit, Stick Smash | 60 |  |  |  | Offensif | Service | A travailler |  |
-| Défense haute |  | Revers, Universelle | Smash droit, Amorti droit | 60 |  |  |  | Défensif | Mi-court | En apprentissage en jeux libres | Pied raquette reculé |
-| Défense tendue |  | Revers, Universelle |  | 60 | Orientation tamis perpendiculaire au filet. Intention de contre attaqué, pression à mettre à l’avant du court |  |  | Neutre | Mi-court | Initié | Pied raquette reculé |
-| Défense block |  | Revers, Universelle | Contre-amorti droit | 60 | Intention de contre attaque, anticipé l’attaque au filet |  |  | Neutre | Mi-court | Initié | Pied raquette reculé |
-| Brush |  | Revers, Bevel |  | 60 |  |  |  | Offensif | Filet | A travailler |  |
-| Contre-amorti croisé |  | Revers, Universelle | Lob droit | 60 | Armé précoce, mouvement du poignet, prise relâché, bras non raquette maintenu pour l’équilibre, coude descend et le tami aussi |  |  | Neutre | Filet | En apprentissage en jeux libres | Fente avant |
-| Smash croisé |  | Universelle | Défense block droit | 60 |  |  |  | Offensif | Fond | En apprentissage en jeux libres |  |
-| Amorti de fond de court croisé |  | Universelle | Contre-amorti droit | 60 |  |  |  | Offensif | Fond | Confirmé en match |  |
-| Spin out |  |  | Lift | 60 | • si adversaire est en attaque • coude, poignet fixe     ◦ seule le bras bouge de bas en haut     ◦ seule avec les doigts, la raquette bouge de bas en haut • effectuer une fente avec la tête de raquette en bas au départ |  |  | Offensif | Filet | Initié |  |
-| Spin in |  |  | Lift | 60 | • si adversaire est en défense • coude, poignet fixe     ◦ seule le bras bouge de haut en bas     ◦ seule avec les doigts, la raquette bouge de bas en bas • avoir l’armé pour faire un kill |  |  | Offensif | Filet | Initié |  |
-| Reverse slice droit | Dégagement, Smash | Universelle |  | 60 | Slice de gauche à droite en prise universelle |  |  | Offensif | Fond | Initié |  |
-| Reverse slice croisé | Dégagement, Smash |  |  | 60 |  |  |  | Offensif | Fond | En apprentissage en jeux libres |  |
-| Slice droit | Dégagement, Smash | Universelle | Contre-amorti croisé | 60 |  |  |  | Offensif | Fond | Initié |  |
-| Kill |  | Revers, Bevel |  | 80 |  |  |  | Offensif | Filet | A travailler |  |
-| Service long |  | Universelle | Dégagement droit, Amorti croisé | 60 |  |  |  | Neutre | Service | Maitrisé |  |
-| Push |  | Revers, Bevel | Lob croisé | 60 |  |  |  | Neutre | Filet | En apprentissage en jeux libres |  |
-| Slice croisé | Dégagement, Smash | Universelle | Contre-amorti droit | 80 |  |  |  | Offensif | Fond | Confirmé en match | Saut Chinois |
-| Dégagement offensif |  | Universelle | Dégagement droit, Stick Smash | 60 |  |  |  | Offensif | Fond | Maitrisé |  |
-| Service court |  | Revers | Contre-amorti droit, Lob droit | 60 |  |  |  | Neutre | Service | Maitrisé |  |
-| Dégagement défensif |  | Universelle |  | 60 |  |  |  | Défensif | Fond | Maitrisé |  |
-| Lift |  | Revers | Smash droit | 60 | bras tendu / relâché serré |  |  | Défensif | Filet | En apprentissage en jeux libres |  |
-| Contre-amorti |  | Revers, Universelle | Lob croisé | 60 | Fixation Contre amorti lob • armé pour le contre amorti et le lob (descendre légèrement la tête de raquette) |  |  | Neutre | Filet | Maitrisé | Fente avant |
-| Drive |  | Revers, Bevel |  | 60 |  |  |  | Neutre | Mi-court | Maitrisé |  |
-| Smash |  | Universelle | Défense block croisée | 60 |  |  |  | Offensif | Fond | Confirmé en match |  |
-| Amorti de fond de court |  | Universelle | Contre-amorti droit | 60 |  |  |  | Offensif | Fond | Confirmé en match | Saut Chinois, Saut Ciseaux |
-
-##### Détails : Replacement
-Se replacer sur le centre du jeu, à la fois latéralement et devant/derrière
-- si la trajectoire est courte, je dois avancer
-- si la trajectoire est longue, je dois reculer
-
-
-##### Détails : Amorti neutre
-[https://www.mobilesport.ch/badminton-fr/badminton-schlagtechnik-drop-vorhand-gezogen/](https://www.mobilesport.ch/badminton-fr/badminton-schlagtechnik-drop-vorhand-gezogen/)
-[https://www.youtube.com/watch?v=PTUCvHlGo3U](https://www.youtube.com/watch?v=PTUCvHlGo3U)
-
-
-[https://www.mobilesport.ch/badminton-fr/badminton-lauf-und-schlagtechnik-2/](https://www.mobilesport.ch/badminton-fr/badminton-lauf-und-schlagtechnik-2/)
-
-
-### Simple
-- Neutre : chercher à déplacer l’adversaire pour exploiter toutes espaces créés. La patience est importante. Utiliser les coins du terrain pour obliger l’adversaire à se déplacer
-- Défensive : 
-  - dans le fond de court
-    - chercher des dégagements avec une bonne longueur (droit ou croisé)
-    - si le volant est derrière le joueur, un amorti peut le ramener dans l’échange - réduit la capacité de l’adversaire à attaquer
-  - dans le mi court
-    - effectuer une défense plus profonde pour éviter l’adversaire à jouer près du filet
-    - Défense courte croisée pour un smash droit
-    - Défense courte droite pour un smash croisé
-  - dans la zone avant
-    - lift avec une bonne longueur et hauteur
-    - plus facile de faire des lifts droit que croisé
-- Attaque : 
-Le centre de jeu en simple, est 
-- soit au centre du terrain
-- soit un pied sur la ligne central et sur le côté où se trouve l’adversaire
-
-6 concepts clés
-- Prendre le volant tôt
-- Etre patient
-- Feinté l’adversaire (créer du déséquilibre)
-- La position de base
-- Créer de l’espace
-- Changer de rythme
-
-> penser au coup d’après
-> Suivre son attaque
-> De manière générale les trajectoires droites permettent de rester davantage en contrôle car le replacement est plus proche de la frappe
-> Contre des joueurs qui ne se déplacent pas bien, pensez à utiliser de longue distance ou des diagonales sur le terrain. Attention, cela implique des trajectoires croisés, prévoyez de pouvoir suivre la réponse
-> Amenez le joueur à changer de direction, peut être une bonne tactique pour le déséquilibrer
-> Déplacer l’adversaire loin du zone de faiblesse puis attaquez celui-ci peut être une tactique utile
-> Plus l’adversaire est sous pression plus il faut avancer sa base
-
-
-Service long en simple
-- force l’adversaire à reculer
-- donne du temps pour se replacer
-- orienté vers le centre du terrain pour réduire les angles d’attaque
-- après service long se positionner légèrement du côté ou on a servi
-Retour service long
-- dégagement d’attaque plat
-- si service long un peu court, les smashs sont envisageable
-  - smash droit plus facile à suivre que smash croisé
-- amorti croisée, mais plus de distance à parcourir pour le suivre
-
-Service court en simple
-- dirigé vers le centre du terrain pour éviter les angles d’attaque
-Retour service court en simple
-- contre amorti spinné - retour pour obtenir un lift en retour
-- lob tendu derrière joueur en visant les coins du fond de court
-
-Service tendu en simple
-- utilisé comme variante (déséquilibré l’adversaire)
-- sur service tendu sur le côté, anticiper un smash droit
-Retour de service tendu en simple
-- si déséquilibre chercher une attaque avec un bonne angle et bonne précision, pas nécessaire trop fort pour laisser le temps de se replacer
-- dégagement droit en se concentrant sur la longueur
-- attention au retour croisée, surtout en déséquilibre - difficile de suivre le coup d’après
-
-
-### Double
-En double, si je prends l’avant en revers, je reste côté revers et je change ma prise en coup droit. Je me préoccupe alors que de la trajectoire droite
-En double je joue droit ou au centre 80% du temps
-En double, en attaque ou en défense on se déplace en bloc (déplacement sans volant)
-En double, la priorité est donné au joueur avancé
-Si placé à l’avant en double et si on fait un block, reculer sur le mi court pour intercepter
-- un devant un derrière pour l’attaque
-- de chaque coté pour la défense
-> En double homme peu de dégagement, plus d’explosivité. Importance dans le service et les premiers coups
-> En double dame, plus d’échange en patience pour casser la défense adverse
-
-Service en double dame
-- Le serveur sert prêt du T. Les services court sont généralement dirigé sur le centre ou sur le receveur
-- de manière occasionnelle, un service court peut être envoyé croisé, mais on s’expose à un retour droit dans l’espace libre
-- pour un service court, le serveur doit chercher à couvrir tous les retours au filet
-- Le serveur doit choisir un côté à couvrir pour couvrir le mi court et fond de court
-- la partenaire est responsable des retours mi court et fond de court
-Retour en double dame
-- Le receveur doit tenter de dominer le filet lors d’un service court en effectuant des attaques
-- les retours de service dirigé vers le mi court doivent être suivi d’une tentative d’interception de tout retour droit
-- Les retours droit en fond de court doivent être suivi d’une interception de tout retour droit
-- Les retours sur le corps du serveur ou sur le partenaire implique une couverture des deux côtés
-- Les retours incorrects obligent le receveur à se mettre en position de défense
-Sur un service tendu :
-- sur un service tendu croisée, une attaque droite est prévisible, elle doit être couverte par la partenaire de la serveuse
-- sur une service tendu qui a clairement déséquilibré, la serveuse peut décider de rester à l’avant
-retour de service tendu
-- si croisé
-  - smash droit
-  - smash entre les deux joueuses
-  - amorti droit
-- si droit
-  - si la receveuse est équilibré, smash sur serveuse qui recule
-  - si la receveuse est équilibré, smash entre les deux joueuses
-- si déséquilibré
-  - stick smash droit
-  - amorti droit
-  - dégagement droit
-
-Echanges
-- La joueuse en fond de court a pour rôle de couvrir la zone mi court et fond de court. Elle doit être patiente et attendre les bonnes occasions d’attaque
-  - amorti piqué
-  - coup entre les deux joueuses
-  - smash sur la joueuse en face
-  - objectif créer des opportunités d’attaque pour la joueuse au filet
-  - les joueuses changent de position quand une occasion se présente pour la joueuse arrière de suivre son attaque
-- la joueuse en avant a pour rôle de couvrir le mi court et l’avant du terrain. Elle va chercher à prendre le volant tôt. Elle va essayer d’intercepter les drives et les coups poussés. 
-  - Après un lift vers le fond de court, la joueuse avant doit prendre une position dans le mi court du même coté que le volant
-  - lorsque la joueuse arrière effectue des amortis, la joueuse avant doit avancer sa base pour intimider
-- La défense en double dame
-  - faite le bien long et sur les côtés
-  - si l’attaquante est sous pression, les deux joueuses peuvent se rapprocher du filet. La joueuse sur le croisé, peut s’avancer davantage pour anticiper une amorti
-  - la joueuse qui défend ou fait le drive doit suivre au filet
-
-Service en double homme
-- Le serveur sert prêt du T. Les services court sont généralement dirigé sur le centre ou sur le receveur
-- Les services tendus peuvent être une variante, mais attention au smash droit
-- Le serveur doit choisir un côté à couvrir pour couvrir le mi court et fond de court
-- Le service tendu sur le côté oblige le partenaire du serveur à couvrir un smash droit
-
-Retour de service
-- Le receveur doit tenter de dominer le filet lors d’un service court en effectuant des attaques
-- les retours de service dirigé vers le mi court doivent être suivi d’une tentative d’interception de tout retour droit
-- Les retours droit en fond de court doivent être suivi d’une interception de tout retour droit
-- Les retours sur le corps du serveur ou sur le partenaire implique une couverture des deux côtés
-- Les retours incorrects obligent le receveur à se mettre en position de défense
-
-
-Echanges
-- le joueur en fond de court :
-  - amorti rapide
-  - frappe au centre pour couper les angles de retour
-  - smash sur le joueur en face ou sur le joueur au centre
-  - si possibilité d’attaque sur le mi court, le joueur arrière peut prendre le volant et échanger sa position avec le joueur avancer
-- le joueur avant :
-  - cherche à maintenir l’attaque en prenant le volant tôt
-  - après un lift du fond de court, le joueur avant doit prendre une position dans le mi court du même côté que le volant
-  - lorsque le partenaire joue des amortis, le joueur avant doit avancer pour intimider
-  - lorsque le joueur arrière a la possibilité de suivre son attaque le joueur avant se décale sur la ligne médiane du court ou l’autre moitié du terrain
-- Pour défendre : bien long et sur les côtés
-- le joueur qui défend ou effectue un drive, doit suivre au filet
-
-
-Double mixte
-Service court de la femme : centre ou sur le receveur
-Service court de l’homme : 
-Après un service tendu, reculé en défense
-Lorsque l’homme effectue un service tendu, la partenaire doit se positionner pour recevoir des coups croisés (lui laissant plus de temps)
-Retour de service de la femme : 
-- si retour court, elle doit dominer le filet
-- si retour mi court ou long, elle doit anticiper les retours droits
-Retour de service de l’homme :
-- jouera sur mi court ou fond de court (retour droit)
-- cherchera a faire des retours qui permettront à la femme d’avancer
-
-Echanges :
-En attaque :
-En défense :
-- hommes font généralement des lifts droit
-- femmes font des lifts croisés
-
-### Mobilité / Etirement
-C'est une excellente initiative. Pratiquer une séance de mobilité **2 heures après le match** (ou le soir à tête reposée) est le moment idéal : tes muscles ne sont plus sous l'adrénaline du match, mais ils sont encore malléables.
-À ce stade, on ne cherche plus l'explosivité, mais la **décompression articulaire** et le relâchement des tissus profonds qui ont été "impactés" par les chocs du badminton.
-Voici ton protocole de récupération et d'assouplissement axé sur le bas du corps :
-
----
-
-## 1. Libération de la Hanche et du Psoas (Le "Cœur" du mouvement)
-Le psoas est constamment contracté lors des démarrages et des fentes. S'il reste court, il tire sur tes lombaires.
-- **Le Pigeon (Postures de Yoga) :**
-  - Plie ta jambe avant à 90° au sol, étends la jambe arrière loin derrière.
-  - Garde le bassin bien droit (ne tombe pas sur le côté).
-  - **Durée :** 1 minute 30 par côté. Respire profondément par le nez pour signaler à ton système nerveux de se relâcher.
-
-- **Étirement du Psoas profond :**
-  - Un genou à terre, avance le bassin au maximum en contractant le fessier de la jambe arrière.
-  - **Option ++ :** Attrape ton pied arrière pour étirer aussi le quadriceps (souvent tétanisé par les freinages).
-
-
-## 2. Décompression des Chevilles et des Mollets
-Le badminton est traumatisant pour le tendon d'Achille à cause des sauts répétés.
-- **Étirement du Soléaire (Mollet bas) :**
-  - Face à un mur, en position de fente, plie le genou arrière en gardant le talon bien ancré au sol.
-  - *Note :* Contrairement au mollet classique, le genou plié cible les tissus profonds et la cheville.
-  - **Durée :** 1 minute par jambe.
-
-## 3. Ouverture de la Chaîne Latérale (Fessiers & TFL)
-C'est ce qui gère tes changements de direction latéraux.
-- **La Torsion au sol (Breitzel) :**
-  - Allongé sur le dos, ramène un genou sur ta poitrine et bascule-le du côté opposé pour toucher le sol.
-  - Garde les deux épaules au sol.
-  - **Bénéfice :** Étire le moyen fessier et libère les tensions accumulées dans le bas du dos à cause des rotations de smash.
-
-## 4. Travail de l'Adducteur (La zone de la fente)
-Les adducteurs travaillent énormément de manière excentrique (en freinage) au badminton.
-- **Le Frog Stretch (La Grenouille) :**
-  - À quatre pattes, écarte les genoux au maximum vers l'extérieur. Les pieds sont alignés avec les genoux.
-  - Pose les avant-bras au sol et pousse tes fesses doucement vers l'arrière.
-  - **Durée :** 2 minutes. C'est l'étirement "roi" pour retrouver de l'amplitude de fente.
-
-
----
-
-## Récapitulatif du Protocole Post-Match
-
----
-
-### 💡 Le conseil "récupération"
-> **Le drainage passif :** Pour finir, allonge-toi sur le dos et pose tes jambes à la verticale contre un mur pendant 5 minutes. Cela favorise le retour veineux et permet de "vider" les jambes de la sensation de lourdeur après l'effort intense du match.
-
-
-### Renforcement bas du corps (2x sem)
-Pour le badminton, le renforcement du bas du corps ne doit pas viser la "gonflette", mais la **stabilité articulaire** (pour protéger tes genoux/chevilles) et la **force explosive** (pour tes démarrages).
-Voici un protocole structuré en trois piliers : **Force**, **Stabilité** et **Plio-Réactivité**.
-
----
-
-## 1. Force Fondamentale (La Base)
-L'objectif est de construire des muscles capables de supporter les impacts des fentes.
-- **Squat Bulgare (Pied arrière surélevé) :** * C'est l'exercice roi pour le badminton. Pose un pied derrière toi sur une chaise/banc et descends en fente sur la jambe avant.
-  - *Pourquoi :* Il travaille l'équilibre et renforce les fessiers de manière isolée, comme lors d'une fente au filet.
-  - *Format :* 3 séries de 10 répétitions par jambe.
-
-- **Soulevé de terre jambes tendues (ou une seule jambe) :**
-  - Descends le buste droit en poussant les fesses en arrière.
-  - *Pourquoi :* Renforce les ischios-jambiers, essentiels pour "freiner" tes mouvements et protéger tes ligaments croisés.
-  - *Format :* 3 séries de 12 répétitions.
-
----
-
-## 2. Stabilité & Proprioception (Le bouclier)
-Le badminton est une succession de déséquilibres. Tes articulations doivent être solides.
-- **L'Horloge (Équilibre unipodal) :**
-  - Tiens-toi sur une jambe, genou légèrement fléchi. Avec l'autre pied, va chercher le point le plus loin possible devant, sur le côté, et derrière, sans poser le pied au sol.
-  - *Format :* 3 tours complets par jambe.
-- **Montée sur pointe de pied (Mollets) :**
-  - Lentement à la montée, très lent à la descente.
-  - *Pourquoi :* Un mollet fort protège le tendon d'Achille des ruptures lors des reprises d'appuis brusques.
-  - *Format :* 3 séries de 15 répétitions.
-
----
-
-## 3. Explosivité & Plyométrie (Le moteur)
-C'est ici qu'on transforme la force en vitesse de déplacement sur le terrain.
-- **Sauts de fente alternés (Jump Lunges) :**
-  - En position de fente, saute le plus haut possible et change de jambe en l'air pour atterrir en fente opposée.
-  - *Focus :* Réception la plus silencieuse possible (contrôle).
-  - *Format :* 3 séries de 10 sauts totaux.
-- **Box Jumps ou Sauts horizontaux :**
-  - Depuis une position de squat, explose vers l'avant ou sur une plateforme.
-  - *Format :* 3 séries de 6 répétitions (qualité maximale, pas de quantité).
-
----
-
-## Synthèse du Programme (2 fois par semaine)
-
----
-
-### 💡 Le conseil "Performance"
-> **Le travail excentrique :** Au badminton, la majorité des blessures arrivent lors du freinage. Dans tes exercices de musculation, essaie toujours de descendre lentement (3 secondes) et de remonter de manière explosive (1 seconde). C'est ce qu'on appelle le travail excentrique, et c'est ce qui rend tes jambes "incassables" sur le court.
-
-
-### Warm Up 8 minute
-Activation + Mobility
-- footing
-- Mobility Genoux x 3
-- Activation mollet
-- Activation hanche
-Movement Preparation
-- mouvement proprioception
-- squat profond + hanche
-- Fente étoile X 2
-- Gainage dynamique
-Heart Starters
-- footing x2
-- montée de genoux x2
-- talon fesse x2
-- pas chassés croisés x2
-Explosive movements
-- saut pogo
-- saut en fente
-- saut latéral
-- tipping latéral
-- tipping avec appuis orienté
-
-
-
-
-
-### Adversaires
-Sajith
-- Difficulté sur les frappes dans le retard et les fixations au filet
-- Difficulté sur des amortis
-
 ## Entraînement
 
 # Prochaine Séance
 
-### Untitled
+## Untitled
 *Base de données liée (Untitled) non exportable directement.*
 
 
-### Untitled
+## Untitled
 *Base de données liée (Untitled) non exportable directement.*
 
 
 **▸ Toutes les séances**
 
-### Untitled
+## Untitled
 *Base de données liée (Untitled) non exportable directement.*
 
 
-### Validation d’acquis
+## Validation d’acquis
 
 
 
-#### Validation acquis
+### Validation acquis
 
 | Nom | Relache serré (main haute) | Coude et bras fixe (mi-court) | Raquette/Pieds (main haute) | Reprise d'appuis (main haute) | Impact tête (main haute) | Relache - tamis orienté vers le bas(filet) | Ce sont les jambes qui se déplacent en pas chassés (filet) | Rotation hanches (main haute) | Bras tendu - coude libre (filet) | Relache serré (mi-court) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1556,7 +91,7 @@ Sajith
 - Distribution
 - Maniabilité
 
-### Saison prochaine idées
+## Saison prochaine idées
 
 Points à Acquérir
 
@@ -1669,21 +204,21 @@ Travail sur grand terrain
 
 Couverture du terrain - déplacement sur grand terrain
 
-### La règle des "3 Pas" (Le déplacement en étoile)
+## La règle des "3 Pas" (Le déplacement en étoile)
 Pour un débutant, le terrain semble immense. Apprenez-leur que quasiment chaque zone est accessible en **maximum 2 ou 3 pas** depuis le centre :
 1. **Vers l'avant :** Un petit pas de placement + une grande fente (jambe droite devant pour les droitiers).
 1. **Vers l'arrière :** Des pas chassés (on ne court pas en arrière, on glisse de profil).
 1. **Latéral :** Un grand pas chassé suffit souvent.
 
 
-### L'exercice du "Fantôme" (Shadow sans volant)
+## L'exercice du "Fantôme" (Shadow sans volant)
 C'est le meilleur moyen d'apprendre sans la pression du score.
 - Vous montrez un coin du terrain avec votre raquette.
 - Le joueur doit y aller, faire le geste de frappe, et **revenir toucher le centre** avec son pied avant que vous ne montriez une autre direction.
 - *Conseil :* Commencez très doucement pour privilégier la qualité du pas plutôt que la vitesse.
 
 
-### Le Multi-volants (Le "Cadran Solaire")
+## Le Multi-volants (Le "Cadran Solaire")
 - **Mise en place :** Le coach (ou un partenaire) est au filet avec un panier de volants.
 - **Action :** Envoyez des volants aux 4 coins du terrain de manière prévisible d'abord, puis aléatoire.
 - **Objectif :** Forcer le joueur à revenir au centre entre chaque frappe.
@@ -1691,42 +226,42 @@ C'est le meilleur moyen d'apprendre sans la pression du score.
 
 Couverture du terrain - Reprise d’appuis
 
-### Le "Split-Step" simplifié
+## Le "Split-Step" simplifié
 C'est le déclic le plus important. Expliquez-leur que c'est comme le **"ressort"** :
 - Au moment précis où l'adversaire frappe le volant, on fait un petit sursaut sur place.
 - Ce saut permet de "charger" les muscles pour partir dans n'importe quelle direction.
 - *Exercice :* Faites tomber un volant de votre main ; ils doivent déclencher leur saut au moment où le volant touche le sol.
 
 
-### Split step - apprendre à atterir
+## Split step - apprendre à atterir
 Départ à partir d’un banc et d’un déclencheur
 
 - Poste fixe au T
 
 Couverture du terrain - Régularité
 
-### Le Match "Montagne et Vallée" (Alternance Fond/Filet)
+## Le Match "Montagne et Vallée" (Alternance Fond/Filet)
 Ce thème force physiquement le déplacement sur la plus grande distance possible.
 - **La règle :** On n'a pas le droit de jouer deux fois de suite dans la même zone (haute ou basse). Si je joue un **amorti** (vallée), mon prochain coup doit être un **lob** (montagne) vers le fond, et vice versa.
 - **Le thème caché :** Pour que ce soit efficace, demandez-leur de viser la **diagonale opposée** à chaque changement de hauteur.
 - **L'effet :** Le joueur est contraint de faire le trajet complet : du coin arrière droit au coin avant gauche, par exemple. C'est radical pour travailler l'endurance spécifique et l'allonge de la fente.
 
 
-### Le Match "Les Essuie-Glaces" (Latéralité)
+## Le Match "Les Essuie-Glaces" (Latéralité)
 Idéal pour ceux qui ont tendance à rester sur une seule moitié de terrain (souvent leur côté revers qu'ils protègent mal).
 - La règle : Un joueur a l'interdiction de jouer deux fois de suite du même côté (gauche/droite) chez l'adversaire.
 - Le thème : Le défenseur sait que le volant va alterner entre la gauche et la droite.
 - L'effet : Puisqu'il connaît la direction, il n'a plus l'excuse de l'incertitude. Il est obligé de travailler son déplacement latéral et son replacement central pour arriver à temps. C'est l'exercice de référence pour automatiser le trajet "Coin → Centre -> Coin".
 
 
-### Le Match "Le X" (La diagonale forcée)
+## Le Match "Le X" (La diagonale forcée)
 C'est le thème le plus direct pour cartographier la diagonale dans leur cerveau.
 - **La règle :** Le Joueur A ne peut jouer que **croisé** (obligatoirement dans la diagonale). Le Joueur B, lui, joue normalement (ligne ou croisé).
 - **L'effet :** Le Joueur B sait que le volant va traverser le terrain. Il doit donc apprendre à se placer non pas au centre exact, mais légèrement décalé pour intercepter cette trajectoire.
 - **L'objectif :** Apprendre au débutant qu'on ne court pas "après" le volant, mais qu'on se déplace "sur son trajet".
 
 
-### Le "Match des 4 Coins" (Précision vs Mobilité)
+## Le "Match des 4 Coins" (Précision vs Mobilité)
 Cet exercice force le joueur à couvrir toute l'amplitude du terrain.
 - **Règle :** Le Joueur A (l'attaquant) n'a le droit de viser que les 4 coins du terrain (les deux coins au filet et les deux coins au fond). Le Joueur B (le défenseur) joue normalement.
 - **Objectif :** Le Joueur B apprend à ne pas rester "scotché" au milieu et à anticiper les grandes trajectoires.
@@ -1735,14 +270,14 @@ Cet exercice force le joueur à couvrir toute l'amplitude du terrain.
 
 Couverture du terrain - Positionnement
 
-### Le Match "Le Gardien de But" (Priorité centre)
+## Le Match "Le Gardien de But" (Priorité centre)
 L'erreur n°1 du débutant est de rester là où il a frappé son dernier volant.
 - **La règle :** On place deux plots (ou deux bouteilles d'eau) à 1m50 l'un de l'autre au centre du terrain.
 - **Le thème :** Pour gagner le point, le joueur doit obligatoirement être **passé entre les deux plots** entre deux frappes. S'il gagne le point en étant resté dans un coin, le point est annulé.
 - **L'effet :** Le joueur comprend visuellement que le terrain se couvre depuis le centre. Ça transforme la "course" en un mouvement de "va-et-vient" systématique.
 
 
-### Le Match "Zones 50/50" (Le choix tactique)
+## Le Match "Zones 50/50" (Le choix tactique)
 Parfois, les débutants couvrent mal car ils essaient de tout surveiller en même temps.
 - **La règle :** On divise le terrain en deux (zone avant / zone arrière). Le joueur au service annonce avant de servir : "Je garde le filet" ou "Je garde le fond".
 - **Le thème :** Si l'adversaire joue dans la zone annoncée, le point compte normalement. S'il joue dans l'autre zone, le point compte double pour lui.
@@ -1752,7 +287,7 @@ Parfois, les débutants couvrent mal car ils essaient de tout surveiller en mêm
 
 **▸ Database**
 
-### Exercices
+## Exercices
 
 | Name | Related to Copy of Séance 1 : Contre amorti / Fente avant / Toucher (Exercice) 1 | Tags | Related to Copy of Séance 1 : Contre amorti / Fente avant / Toucher (Exercice) | Related to Séances DB 2021/2022 (1) (Exercice) 2 | Related to Séances DB 2024/2025 (1) (Exercice) | Related to Copy of Séance 1 : Contre amorti / Fente avant (Exercice) | Type | Objectif | Description | Related to Copy of Séance 1 : Dégagement (Exercice) 2 | Ludique | Related to Copy of Séance 4 : Service Long / Déplacement arrière (Exercice) | Related to Séance 1 : Pied raquette, contre amorti (Exercice) | Related to Séances DB 2021/2022 (1) (Exercice) 3 | Related to Copy of Séance 1 : Choix tactique / Intention (Exercice) 2 | Related to Copy of Séance 1 : Reprise d'appuis (Exercice) | Related to Copy of Séance 3 : Lob / Amorti (Exercice) | Related to Copy of Séance 1 : Choix tactique / Intention (Exercice) 3 | Related to Copy of Séance 2 : Pied raquette (Exercice) | Related to Copy of Séance 1 : Tactique doubles (Exercice) | Related to Séances DB 2023/2024 (1) (Exercice) | Related to Copy of Séance 1 : Choix tactique / Intention (Exercice) | Related to Copy of Séance 4 : Service Long / Déplacement arrière (Exercice) 1 | Schéma | Related to Copy of Séance 1 : Dégagement (Exercice) 1 | Related to Séances DB 2022/2023 (1) (Exercice) | Related to Séances DB (Exercice) | Related to Séances DB 2021/2022 (1) (Exercice) 1 | Related to Copy of Séance 1 : Pied raquette, contre amorti (Exercice) | Related to Copy of Séance 1 : Choix tactique / Intention (Exercice) 1 | Matériels | Related to Copy of Séance 1 : Dégagement (Exercice) | Related to Séances DB 2021/2022 (1) (Exercice) | Related to Copy of Séance 1 : Choix tactique / Intention (Exercice) 5 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1966,7 +501,7 @@ Parfois, les débutants couvrent mal car ils essaient de tout surveiller en mêm
 | Indonésienne |  | Déplacement avant arrière, Régularité, Dégagement |  |  |  |  |  | Gagner en régularité sur le déplacement avant arrière | Effectuer un dégagement suivi par une touche sur la ligne de la rivière avec le pied ou la raquette |  | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | LCCL |  | Déplacement avant arrière, Amorti, Contre-Amorti, Lob, Fente avant, Régularité |  |  |  |  |  | **Apprendre le déplacement avant arrière. Privilégié la régularité.** | **Long Court Court Long** |  | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-#### Détails : Echelle de rythme générale
+### Détails : Echelle de rythme générale
 [https://www.youtube.com/watch?v=42ttgvdOIUs](https://www.youtube.com/watch?v=42ttgvdOIUs)
 1. 1 appui (x 4)
 1. 2 appuis (x 4)
@@ -1982,17 +517,17 @@ Parfois, les débutants couvrent mal car ils essaient de tout surveiller en mêm
 1. 1 saut latéral puis 1 saut avant, 1 dedans, 1 dehors (x 4) - démarrage un pied dedans un pied dehors
 
 
-#### Détails : Etirements au sol
+### Détails : Etirements au sol
 [https://youtu.be/h0csWVuBrUY](https://youtu.be/h0csWVuBrUY)
 
 
-#### Détails : Déverrouillages articulaires
+### Détails : Déverrouillages articulaires
 [Warm Up 8 minute](https://app.notion.com/p/3598806e068d800b84bbfd16a54ad867) 
 
 
-#### Détails : Sniper
+### Détails : Sniper
 
-#### Séance 1 : Contre amorti / Fente avant / Toucher
+### Séance 1 : Contre amorti / Fente avant / Toucher
 
 | Nom | Durée | Consignes | Sous-themes | Séance | Objectifs | Phase | Variantes | Exercice |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2010,7 +545,7 @@ Parfois, les débutants couvrent mal car ils essaient de tout surveiller en mêm
 
 
 
-### Séances DB 2025/2026
+## Séances DB 2025/2026
 
 | Nom | Début Saison | Exercice | Theme | Durée | attendu | Consignes | Schema | EstOk | Ordre | Description | Status | Date de séance | duree | N° Sem |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2181,7 +716,7 @@ Parfois, les débutants couvrent mal car ils essaient de tout surveiller en mêm
 | Service revers court / contre amorti (régularité) | 2025-09-08 |  |  | 15 | RELACHE SERRE | atteindre le carré adverse et passer le filet (8/10) |  | Non | 5 |  | 8 |  |  | 11 |
 
 
-### Séances DB 2026/2027
+## Séances DB 2026/2027
 
 | Nom | Matériels | Début Saison | Exercice | Theme | Durée | attendu | Cycle | Consignes | Schema | EstOk | Ordre | Description | Status | Date de séance | duree | N° Sem |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2285,7 +820,7 @@ Parfois, les débutants couvrent mal car ils essaient de tout surveiller en mêm
 | Frappe le plus haut possible |  | 2026-09-07 |  |  | 15 |  | Les fondamentaux | Mi-court / Fond de court / filet |  | Oui | 2 |  | 1 |  |  | 2 |
 | Frappe le plus haut possible |  | 2026-09-07 |  |  | 10 |  | Les fondamentaux |  |  | Oui | 1 |  | 1 |  |  | 2 |
 
-#### Détails : Cours de reprise
+### Détails : Cours de reprise
 Activation + Mobility
 - footing
 - Mobility Genoux x 3
@@ -2310,9 +845,9 @@ Explosive movements
 
 
 
-### Nouvelle méthodologie d’animation
+## Nouvelle méthodologie d’animation
 
-#### Ateliers techniques
+### Ateliers techniques
 
 | Theme | Position | Consignes | Niveau | CritereEvaluation | PriseRaquette | Reviewed | Participants | Materiel | ID | Situation |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2399,7 +934,7 @@ Changement de prise de raquette (Jeu contre le mur)
 Relâché serré ⇒ sous forme de fiche 
 
 
-#### Evaluations des Ateliers techniques
+### Evaluations des Ateliers techniques
 
 | Nom | Evaluateur | Parent item | 🏸 Atelier évalué | Evalué | Validé | Created time | Sub-item |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2408,228 +943,15 @@ Relâché serré ⇒ sous forme de fiche
 
 
 
-#### Images
+### Images
 
 
 
 
 
-### Archive
+## Archive
 
-#### Séances DB 2021/2022
-
-| Nom | Début Saison | Exercice | Theme | Durée | Consignes | Schema | Ordre | Description | Status | Date de séance | duree | N° Sem |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tactique double | 2021-09-27 |  |  | 5 |  |  | 4 |  | 29 |  |  | 39 |
-| Tactique double | 2021-09-27 |  |  |  |  |  | 1 |  | 29 |  |  | 39 |
-| Tactique double | 2021-09-27 |  |  |  |  |  | 2 |  | 29 |  |  | 39 |
-| Tactique double | 2021-09-27 |  |  |  |  |  | 3 |  | 29 |  |  | 39 |
-| Tactique simple | 2021-09-27 |  |  | 5 |  |  | 4 |  | 28 |  |  | 38 |
-| Tactique simple | 2021-09-27 |  |  |  |  |  | 3 |  | 28 |  |  | 38 |
-| Tactique simple | 2021-09-27 |  |  |  |  |  | 2 |  | 28 |  |  | 38 |
-| Tactique simple | 2021-09-27 |  |  |  |  |  | 1 |  | 28 |  |  | 38 |
-| Revers - Gestuelle | 2021-09-27 |  |  | 20 | Grande diagonale revers - Match en 5 points (groupe de 4 ou 3). variante : Si revers et gagne le point il gagne le match |  | 4 |  | 22 |  |  | 28 |
-| Grand Terrain - reprise d’appuis - incertitude | 2021-09-27 |  |  | 20 | avec incertitude |  | 2 |  | 27 |  |  | 36 |
-| Grand Terrain - reprise d’appuis - incertitude | 2021-09-27 |  |  | 5 |  |  | 4 |  | 27 |  |  | 36 |
-| Grand Terrain - reprise d’appuis - incertitude | 2021-09-27 |  |  | 20 |  |  | 3 |  | 27 |  |  | 36 |
-| Grand Terrain - reprise d’appuis - incertitude | 2021-09-27 |  |  | 15 | Avec incertitude |  | 1 |  | 27 |  |  | 36 |
-| Grand Terrain - reprise d’appuis | 2021-09-27 |  |  | 20 | Match a 11 points. Tiré au sort par carte + point handicap |  | 3 |  | 26 |  |  | 35 |
-| Grand Terrain - reprise d’appuis | 2021-09-27 |  |  | 5 |  |  | 4 |  | 26 |  |  | 35 |
-| Grand Terrain - reprise d’appuis | 2021-09-27 |  |  | 20 |  |  | 2 |  | 26 |  |  | 35 |
-| Grand Terrain | 2021-09-27 |  |  | 20 |  |  | 2 |  | 25 |  |  | 34 |
-| Grand Terrain | 2021-09-27 |  |  | 5 |  |  | 4 |  | 25 |  |  | 3 |
-| Grand Terrain | 2021-09-27 |  |  | 20 | Matchs à 5 points. Tirage au sort avec cartes |  | 3 |  | 25 |  |  | 34 |
-| Grand Terrain - reprise d’appuis | 2021-09-27 |  |  | 20 |  |  | 1 |  | 26 |  |  | 35 |
-| Grand Terrain | 2021-09-27 |  |  | 20 |  |  | 1 |  | 25 |  |  | 34 |
-| Frappe en retard - Gestuelle | 2021-09-27 |  |  | 20 | Long Croisé Court Court Court Long Croisé |  | 4 |  | 24 |  |  | 33 |
-| Frappe en retard - Gestuelle | 2021-09-27 |  |  | 20 |  |  | 3 |  | 24 |  |  | 33 |
-| Frappe en retard - Gestuelle | 2021-09-27 |  |  | 5 | Dynamique |  | 5 |  | 24 |  |  | 33 |
-| Revers - Gestuelle | 2021-09-27 |  |  | 5 |  |  | 5 |  | 22 |  |  | 28 |
-| Revers - Relâchement | 2021-09-27 |  |  | 25 | 2v1 |  | 2 |  | 23 |  |  | 29 |
-| Revers - Relâchement | 2021-09-27 |  |  | 5 |  |  | 4 |  | 23 |  |  | 29 |
-| Revers - Relâchement | 2021-09-27 |  |  | 20 | Match simple, avec couloir latéraux. Les couloirs latéraux compte 5 points |  | 3 |  | 23 |  |  | 29 |
-| Revers - Gestuelle | 2021-09-27 |  |  | 20 | Amorti à faire - 12 volants - statique. Debout au fond du terrain, lancer avec embout vers l’avant. 2 terrains |  | 2 |  | 22 |  |  | 28 |
-| Revers - Gestuelle | 2021-09-27 |  |  | 20 | Amorti à faire - 12 volants - dynamique. 3 terrains |  | 3 |  | 22 |  |  | 28 |
-| Frappe en retard - Gestuelle | 2021-09-27 |  |  | 20 | Statique puis Dynamique |  | 2 |  | 24 |  |  | 33 |
-| Smash - Précision / Régularité | 2021-09-27 |  |  | 15 |  |  | 1 |  | 21 |  |  | 27 |
-| Smash - Précision / Régularité | 2021-09-27 |  |  | 20 | Zone avant + carré central, Smash → 5 pts, Smash direct out → 2 pts pour adversaire |  | 5 |  | 21 |  |  | 27 |
-| Smash - Précision / Régularité | 2021-09-27 |  |  | 16 | 4x4’ - Derrière le volant, de profil, bras éloigné du corps, prendre le volant tôt, avancer sur le volant lors de la frappe |  | 3 |  | 21 |  |  | 27 |
-| Smash - Précision / Régularité | 2021-09-27 |  |  | 16 | 4x4’ - Derrière le volant, de profil, bras éloigné du corps, prendre le volant tôt, avancer sur le volant lors de la frappe |  | 2 |  | 21 |  |  | 27 |
-| Smash - Précision / Régularité | 2021-09-27 |  |  | 15 | 3x5’ |  | 4 |  | 21 |  |  | 27 |
-| Dégagement - Régularité | 2021-09-27 |  |  | 15 | (18h45) relachement |  | 1 |  | 18 |  |  | 24 |
-| Smash - Gestuelle | 2021-09-27 |  |  |  |  |  |  |  | 20 |  |  | 26 |
-| Smash - Gestuelle | 2021-09-27 |  |  | 20 |  |  | 3 |  | 20 |  |  | 26 |
-| Smash - Gestuelle | 2021-09-27 |  |  | 5 |  |  |  |  | 20 |  |  | 26 |
-| Dégagement - Préparation | 2021-09-27 |  |  | 5 | (19h05)Rivière/Mi-court/FondDeCourt |  | 3 |  | 16 |  |  | 20 |
-| Smash - Précision / Régularité | 2021-09-27 |  |  | 5 |  |  | 6 |  | 21 |  |  | 27 |
-| Smash - Gestuelle | 2021-09-27 |  |  | 20 | Smash donne 5 points. Montante descendante |  | 2 |  | 20 |  |  | 26 |
-| Dégagement - Intention | 2021-09-27 |  |  | 20 | Match à thème avec deux long imposé au début. Match de 4 min |  | 2 |  | 19 |  |  | 25 |
-| Dégagement - Régularité | 2021-09-27 |  |  | 20 | (19h40) |  | 3 |  | 18 |  |  | 24 |
-| Dégagement - Précision | 2021-09-27 |  |  | 20 | (19h35)3 min |  | 3 |  | 17 |  |  | 21 |
-| Défense latérale | 2021-09-27 |  |  |  |  |  | 5 |  | 14 |  |  | 18 |
-| Défense latérale | 2021-09-27 |  |  | 50 | 2’30 x 4 = 10 min x 5 |  | 3 |  | 14 |  |  | 18 |
-| Dégagement - Préparation | 2021-09-27 |  |  | 20 | Uniquement avec des dégagements |  | 5 |  | 16 |  |  | 20 |
-| Dégagement - Préparation | 2021-09-27 |  |  | 10 | (18h55)Saut ciseaux |  | 2 |  | 16 |  |  | 20 |
-| Dégagement - Préparation | 2021-09-27 |  |  | 10 | (18h45)Déplacement arrière |  | 1 |  | 16 |  |  | 20 |
-| Dégagement - Gestuelle | 2021-09-27 |  |  | 15 | (19h15)Fond de court vers Fond de court |  | 3 |  | 15 |  |  | 19 |
-| Dégagement - Précision | 2021-09-27 |  |  | 5 |  |  | 4 |  | 17 |  |  | 21 |
-| Dégagement - Précision | 2021-09-27 |  |  | 25 | (19h10)6x3’ |  | 2 |  | 17 |  |  | 21 |
-| Dégagement - Intention | 2021-09-27 |  |  | 5 |  |  | 4 |  | 19 |  |  | 25 |
-| Dégagement - Intention | 2021-09-27 |  |  | 20 | Couloirs du fond est en mort immédiat |  | 3 |  | 19 |  |  | 25 |
-| Dégagement - Régularité | 2021-09-27 |  |  | 5 |  |  | 4 |  | 18 |  |  | 24 |
-| Dégagement - Régularité | 2021-09-27 |  |  | 20 | (19h20) |  | 2 |  | 18 |  |  | 24 |
-| Dégagement - Gestuelle | 2021-09-27 |  |  | 20 | (19h35)Uniquement avec des dégagements |  | 4 |  | 15 |  |  | 19 |
-| Dégagement - Préparation | 2021-09-27 |  |  | 5 |  |  | 6 |  | 16 |  |  | 20 |
-| Dégagement - Gestuelle | 2021-09-27 |  |  | 5 |  |  | 5 |  | 15 |  |  | 19 |
-| Dégagement - Gestuelle | 2021-09-27 |  |  | 15 | (19h)Mi court vers mi court. Prise de raquette universelle / Armé précoce. |  | 2 |  | 15 |  |  | 19 |
-| Frappe en retard - Gestuelle | 2021-09-27 |  |  | 10 | Statique |  | 1 |  | 24 |  |  | 33 |
-| Smash - Gestuelle | 2021-09-27 |  |  | 20 |  |  | 1 |  | 20 |  |  | 26 |
-| Revers - Relâchement | 2021-09-27 |  |  | 20 | fente au filet puis revers. Accepté le retard |  | 1 |  | 23 |  |  | 29 |
-| Revers - Gestuelle | 2021-09-27 |  |  | 20 | Amorti à faire - 12 volants. 2 terrains. Assis au mi court |  | 1 |  | 22 |  |  | 28 |
-| Dégagement - Intention | 2021-09-27 |  |  | 20 | 2x3’ x 3 |  | 1 |  | 19 |  |  | 25 |
-| Dégagement - Préparation | 2021-09-27 |  |  | 20 | (19h15)(6 x 3’) FondDeCourt=Relachement Mi-court et rivière=pousser plus loin dégagement |  | 4 |  | 16 |  |  | 20 |
-| Dégagement - Précision | 2021-09-27 |  |  | 20 | (18h45)4x3’ |  | 1 |  | 17 |  |  | 21 |
-| Dégagement - Régularité | 2021-09-27 |  |  | 20 | (19h) |  | 1 |  | 18 |  |  | 24 |
-| Dégagement - Gestuelle | 2021-09-27 |  |  | 15 | (18h45)Armé précoce |  | 1 |  | 15 |  |  | 19 |
-| Défense latérale | 2021-09-27 |  |  |  |  |  | 4 |  | 14 |  |  | 18 |
-| Défense latérale | 2021-09-27 |  |  |  | 2min x 8. Couloir du fond ne compte pas pour l'équipe de 3. Le joueur seul doit défendre sa zone. Le but est que l'échange dure. |  | 4 |  | 14 |  |  | 18 |
-| Défense latérale | 2021-09-27 |  |  | 5 |  |  | 6 |  | 14 |  |  | 18 |
-| Défense latérale | 2021-09-27 |  |  | 20 |  |  | 5 |  | 14 |  |  | 18 |
-| Défense latérale | 2021-09-27 |  |  |  |  |  | 2 |  | 14 |  |  | 18 |
-| Défense latérale | 2021-09-27 |  |  | 15 | 6 toreador au moins (échauffement) |  | 1 |  | 14 |  |  | 18 |
-| Déplacement sur demi terrain - Matchs | 2021-09-27 |  |  |  |  |  | 2 |  | 10 |  |  | 12 |
-| Déplacement sur demi terrain - Intention | 2021-09-27 |  |  | 5 |  |  | 6 |  | 9 |  |  | 11 |
-| Déplacement sur demi terrain - Intention | 2021-09-27 |  |  |  |  |  | 2 |  | 9 |  |  | 11 |
-| Déplacement sur demi terrain - Intention | 2021-09-27 |  |  |  |  |  | 4 |  | 9 |  |  | 11 |
-| Déplacement sur demi terrain - Intention | 2021-09-27 |  |  | 20 | (19h35) |  | 5 |  | 9 |  |  | 11 |
-| Déplacement sur demi terrain - Intention | 2021-09-27 |  |  | 25 | (19h10)5 X 4' |  | 3 |  | 9 |  |  | 11 |
-| Déplacement sur demi terrain - Matchs | 2021-09-27 |  |  | 20 |  |  | 1 |  | 10 |  |  | 12 |
-| Déplacement sur demi terrain - Intention | 2021-09-27 |  |  | 20 | (18h45)4 x 4' |  | 1 |  | 9 |  |  | 11 |
-| Déplacement sur demi terrain - Matchs | 2021-09-27 |  |  | 5 |  |  | 4 |  | 10 |  |  | 12 |
-| Déplacement sur demi terrain - Matchs | 2021-09-27 |  |  | 40 | Match de 4 min |  | 3 |  | 10 |  |  | 12 |
-| Tournoi par équipe | 2021-09-27 |  |  | 60 |  |  | 4 |  | 4.5 |  |  | 5 |
-| Tournoi par équipe | 2021-09-27 |  |  | 5 |  |  | 2 |  | 4.5 |  |  | 5 |
-| Tournoi par équipe | 2021-09-27 |  |  | 5 |  |  | 3 |  | 4.5 |  |  | 5 |
-| Tournoi par équipe | 2021-09-27 |  |  | 5 |  |  | 1 |  | 4.5 |  |  | 5 |
-| Défense | 2021-09-27 |  |  |  |  |  | 7 |  | 13 |  |  | 17 |
-| Défense | 2021-09-27 |  |  | 20 |  |  | 8 |  | 13 |  |  | 17 |
-| Défense | 2021-09-27 |  |  | 5 |  |  | 9 |  | 13 |  |  | 17 |
-| Défense | 2021-09-27 |  |  |  | avec multi volants |  | 6 |  | 13 |  |  | 17 |
-| Défense | 2021-09-27 |  |  | 30 |  |  | 5 |  | 13 |  |  | 17 |
-| Défense | 2021-09-27 |  |  |  |  |  | 2 |  | 13 |  |  | 17 |
-| Défense | 2021-09-27 |  |  | 15 | (18h45) 4 x 10 volants |  | 1 |  | 13 |  |  | 17 |
-| Drive / Maniabilité | 2021-09-27 |  |  | 15 | 4x3’ |  | 7 |  | 12 |  |  | 16 |
-| Drive / Maniabilité | 2021-09-27 |  |  | 5 |  |  | 8 |  | 12 |  |  | 16 |
-| Drive / Maniabilité | 2021-09-27 |  |  |  |  |  | 6 |  | 12 |  |  | 16 |
-| Drive / Maniabilité | 2021-09-27 |  |  | 15 | à la place de la canne à pêche, prendre 3 volants placé sur le filet |  | 5 |  | 12 |  |  | 16 |
-| Drive / Maniabilité | 2021-09-27 |  |  | 15 |  |  | 3 |  | 12 |  |  | 16 |
-| Drive / Maniabilité | 2021-09-27 |  |  |  |  |  | 4 |  | 12 |  |  | 16 |
-| Drive / Maniabilité | 2021-09-27 |  |  | 20 | Seul contre le mur avec une cible, Alterner revers, coup droit |  | 1 |  | 12 |  |  | 16 |
-| Drive | 2021-09-27 |  |  |  |  |  | 5 |  | 11 |  |  | 15 |
-| Drive | 2021-09-27 |  |  | 20 | (19h30) pas de zone avant |  | 6 |  | 11 |  |  | 15 |
-| Drive | 2021-09-27 |  |  |  |  |  | 3 |  | 11 |  |  | 15 |
-| Drive | 2021-09-27 |  |  | 15 | (19h)4 aller retours |  | 2 |  | 11 |  |  | 15 |
-| Drive | 2021-09-27 |  |  | 15 | (19h15) 3x 4’ |  | 4 |  | 11 |  |  | 15 |
-| Drive / Maniabilité | 2021-09-27 |  |  |  |  |  | 2 |  | 12 |  |  | 16 |
-| Drive | 2021-09-27 |  |  | 5 |  |  | 7 |  | 11 |  |  | 15 |
-| Drive | 2021-09-27 |  |  | 10 | (18h45)Prise raquette, posture d'attente |  | 1 |  | 11 |  |  | 15 |
-| Déplacement sur demi terrain - Régularité | 2021-09-27 |  |  | 20 | (19h35)2 groupes de 10 |  | 10 |  | 8 |  |  | 10 |
-| Déplacement sur demi terrain - Régularité | 2021-09-27 |  |  | 5 |  |  | 11 |  | 8 |  |  | 10 |
-| Déplacement sur demi terrain - Régularité | 2021-09-27 |  |  |  |  |  | 7 |  | 8 |  |  | 10 |
-| Déplacement sur demi terrain - Régularité | 2021-09-27 |  |  |  |  |  | 9 |  | 8 |  |  | 10 |
-| Déplacement sur demi terrain - Régularité | 2021-09-27 |  |  | 18 | (19h20)4 x 4' Changement de Binôme / revenir sur les déplacements |  | 8 |  | 8 |  |  | 10 |
-| Déplacement sur demi terrain - Régularité | 2021-09-27 |  |  |  |  |  | 3 |  | 8 |  |  | 10 |
-| Déplacement sur demi terrain - Régularité | 2021-09-27 |  |  |  | (18h45)CA ou Lob selon consigne de l'entraîneur, importance d'avoir la même gestuelle |  | 6 |  | 8 |  |  | 10 |
-| Déplacement sur demi terrain - Régularité | 2021-09-27 |  |  | 5 |  |  | 4 |  | 8 |  |  | 10 |
-| Déplacement sur demi terrain - Régularité | 2021-09-27 |  |  | 30 | (18h45)Avec MV CA Lob |  | 5 |  | 8 |  |  | 10 |
-| Déplacement sur demi terrain - Régularité | 2021-09-27 |  |  | 7 | 30'' x 30'' (x 5) : progressif, en marchant, en pas chassé, en pas croisée, en pas chassé rapide |  | 2 |  | 8 |  |  | 10 |
-| Déplacement sur demi terrain - Régularité | 2021-09-27 |  |  | 5 |  |  | 1 |  | 8 |  |  | 10 |
-| Déplacement sur demi terrain - précision | 2021-09-27 |  |  | 16 | (19h10)4** x 4’** Changement de binôme |  | 7 |  | 7 |  |  | 9 |
-| Déplacement sur demi terrain - précision | 2021-09-27 |  |  |  |  |  | 8 |  | 7 |  |  | 9 |
-| Déplacement sur demi terrain - précision | 2021-09-27 |  |  |  |  |  | 5 |  | 7 |  |  | 9 |
-| Déplacement sur demi terrain - précision | 2021-09-27 |  |  | 5 |  |  | 10 |  | 7 |  |  | 9 |
-| Déplacement sur demi terrain - précision | 2021-09-27 |  |  | 5 |  |  | 1 |  | 7 |  |  | 9 |
-| Déplacement sur demi terrain - précision | 2021-09-27 |  |  | 7 |  |  | 2 |  | 7 |  |  | 9 |
-| Déplacement sur demi terrain - précision | 2021-09-27 |  |  | 5 |  |  | 3 |  | 7 |  |  | 9 |
-| Déplacement sur demi terrain - précision | 2021-09-27 |  |  | 10 | (19h) variante faire tourner la raquette entre chaque frappe. Point technique sur les déplacements |  | 6 |  | 7 |  |  | 9 |
-| Service Long / Amorti | 2021-09-27 |  |  |  | avec LCCL, sur 3 terrains |  | 8 |  | 5 |  |  | 7 |
-| Déplacement sur demi terrain - précision | 2021-09-27 |  |  | 20 | (19h30) |  | 9 |  | 7 |  |  | 9 |
-| Déplacement sur demi terrain - précision | 2021-09-27 |  |  | 15 | (18h45)Montante descendante 3 min x 5 |  | 4 |  | 7 |  |  | 9 |
-| Lob / Amorti | 2021-09-27 |  |  | 20 | (19h35) |  | 9 |  | 6 |  |  | 8 |
-| Lob / Amorti | 2021-09-27 |  |  |  |  |  | 8 |  | 6 |  |  | 8 |
-| Lob / Amorti | 2021-09-27 |  |  |  |  |  | 5 |  | 6 |  |  | 8 |
-| Lob / Amorti | 2021-09-27 |  |  | 10 | (19h) |  | 6 |  | 6 |  |  | 8 |
-| Lob / Amorti | 2021-09-27 |  |  | 5 |  |  | 10 |  | 6 |  |  | 8 |
-| Lob / Amorti | 2021-09-27 |  |  | 7 |  |  | 2 |  | 6 |  |  | 8 |
-| Lob / Amorti | 2021-09-27 |  |  | 15 | (18h45)Joueur limité au couloir du fond et ligne de service. Complexification : le joueur au filet choisi l'endroit où doit être fait l'amorti |  | 4 |  | 6 |  |  | 8 |
-| Lob / Amorti | 2021-09-27 |  |  | 5 |  |  | 3 |  | 6 |  |  | 8 |
-| Lob / Amorti | 2021-09-27 |  |  | 20 | (19h10)4** x 4’** Changement de binôme. Revenir sur la technique |  | 7 |  | 6 |  |  | 8 |
-| Lob / Amorti | 2021-09-27 |  |  | 5 |  |  | 1 |  | 6 |  |  | 8 |
-| Service Long / Amorti | 2021-09-27 |  |  | 10 | (18h45)1/ Sans consigne 2/ Attrape le volant avec la main opposé |  | 4 |  | 5 |  |  | 7 |
-| Service Long / Amorti | 2021-09-27 |  |  | 5 |  |  | 3 |  | 5 |  |  | 7 |
-| Service Long / Amorti | 2021-09-27 |  |  | 10 | (18h55) |  | 5 |  | 5 |  |  | 7 |
-| Service Long / Amorti | 2021-09-27 |  |  |  |  |  | 6 |  | 5 |  |  | 7 |
-| Service Long / Amorti | 2021-09-27 |  |  | 20 | (19h05)Changement de binôme / sur 4 terrains |  | 7 |  | 5 |  |  | 7 |
-| Service Long / Amorti | 2021-09-27 |  |  | 5 |  |  | 11 |  | 5 |  |  | 7 |
-| Service Long / Amorti | 2021-09-27 |  |  |  |  |  | 9 |  | 5 |  |  | 7 |
-| Service Long / Amorti | 2021-09-27 |  |  | 20 | (19h30) service long puis amorti |  | 10 |  | 5 |  |  | 7 |
-| Service Long / Amorti | 2021-09-27 |  |  | 7 |  |  | 2 |  | 5 |  |  | 7 |
-| Service Long / Amorti | 2021-09-27 |  |  | 5 |  |  | 1 |  | 5 |  |  | 7 |
-| Service Long / Déplacement arrière | 2021-09-27 |  |  | 16 | (19h20)4** x 4’** Changement de binôme |  | 8 |  | 4 |  |  | 4 |
-| Service Long / Déplacement arrière | 2021-09-27 |  |  |  |  |  | 7 |  | 4 |  |  | 4 |
-| Service Long / Déplacement arrière | 2021-09-27 |  |  |  |  |  | 5 |  | 4 |  |  | 4 |
-| Service Long / Déplacement arrière | 2021-09-27 |  |  | 5 | Cours pendant les vacances scolaires |  | 11 |  | 4 |  |  | 4 |
-| Service Long / Déplacement arrière | 2021-09-27 |  |  | 15 | (19h40)Départ sur la zone avant du terrain |  | 10 |  | 4 |  |  | 4 |
-| Service Long / Déplacement arrière | 2021-09-27 |  |  | 15 | (18h45)Présentation service long. Laisse retomber le volant sur le pied opposé raquette |  | 4 |  | 4 |  |  | 4 |
-| Service Long / Déplacement arrière | 2021-09-27 |  |  | 18 | (19h)Présentation service court / tendu Match de 3 min 5 rotations |  | 6 |  | 4 |  |  | 4 |
-| Service Long / Déplacement arrière | 2021-09-27 |  |  |  |  |  | 9 |  | 4 |  |  | 4 |
-| Service Long / Déplacement arrière | 2021-09-27 |  |  | 5 |  |  | 3 |  | 4 |  |  | 4 |
-| Service Long / Déplacement arrière | 2021-09-27 |  |  | 7 | Armé précoce avec raquette |  | 2 |  | 4 |  |  | 4 |
-| Service Long / Déplacement arrière | 2021-09-27 |  |  | 5 |  |  | 1 |  | 4 |  |  | 4 |
-| Pied raquette / Déplacement arrière | 2021-09-27 |  |  | 5 |  |  | 10 |  | 3 |  |  | 3 |
-| Pied raquette / Déplacement arrière | 2021-09-27 |  |  | 20 | (19h35)Zone centrale ne fait pas perdre de vie. |  | 9 |  | 3 |  |  | 3 |
-| Pied raquette / Déplacement arrière | 2021-09-27 |  |  |  |  |  | 8 |  | 3 |  |  | 3 |
-| Pied raquette / Déplacement arrière | 2021-09-27 |  |  | 15 | (19h15)Sur demi terrain. Couloir du fond compte 3 points. Match au temps 3'. Montante descendante |  | 7 |  | 3 |  |  | 3 |
-| Pied raquette / Déplacement arrière | 2021-09-27 |  |  |  |  |  | 6 |  | 3 |  |  | 3 |
-| Pied raquette / Déplacement arrière | 2021-09-27 |  |  | 5 |  |  | 3 |  | 3 |  |  | 3 |
-| Pied raquette / Déplacement arrière | 2021-09-27 |  |  | 7 | (18h45)Faire le shadow à son rythme |  | 4 |  | 3 |  |  | 3 |
-| Pied raquette / Déplacement arrière | 2021-09-27 |  |  | 20 | (18h55)**4 x 4’** Changement de binôme Prise universelle Service Long conseils • 4 min sans indication • 4 min avec pied raquette orienté • 4 min • 4 min |  | 5 |  | 3 |  |  | 3 |
-| Pied raquette / Déplacement arrière | 2021-09-27 |  |  | 7 | Armé précoce + Pied raquette arrière puis avant + Frappe, Tipping avec raquette |  | 2 |  | 3 |  |  | 3 |
-| Pied raquette / Déplacement arrière | 2021-09-27 |  |  | 5 | TNT ce week end |  | 1 |  | 3 |  |  | 3 |
-| C**ontre amorti / Fente avant / Equilibre** | 2021-09-27 |  |  | 5 |  |  | 9 |  | 2 |  |  | 2 |
-| C**ontre amorti / Fente avant / Equilibre** | 2021-09-27 |  |  |  |  |  | 7 |  | 2 |  |  | 2 |
-| C**ontre amorti / Fente avant / Equilibre** | 2021-09-27 |  |  | 20 | (19h35)Montante descendante avec des équipes de 3,4. Match de 3 min. 6 rotation |  | 8 |  | 2 |  |  | 2 |
-| C**ontre amorti / Fente avant / Equilibre** | 2021-09-27 |  |  |  | A faire en parallèle du multi volants |  | 6 |  | 2 |  |  | 2 |
-| C**ontre amorti / Fente avant / Equilibre** | 2021-09-27 |  |  | 5 |  |  | 4 |  | 2 |  |  | 2 |
-| C**ontre amorti / Fente avant / Equilibre** | 2021-09-27 |  |  | 40 | (18h55)Faire attention à l'équilibre de la fente 2 x 15' |  | 5 |  | 2 |  |  | 2 |
-| C**ontre amorti / Fente avant / Equilibre** | 2021-09-27 |  |  | 7 |  |  | 2 |  | 2 |  |  | 2 |
-| C**ontre amorti / Fente avant / Equilibre** | 2021-09-27 |  |  |  |  |  | 3 |  | 2 |  |  | 2 |
-| C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  | 5 |  |  | 5 |  | 1 |  |  | 1 |
-| C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  |  |  |  | 9 |  | 1 |  |  | 1 |
-| C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  |  |  |  | 7 |  | 1 |  |  | 1 |
-| C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  |  |  |  | 4 |  | 1 |  |  | 1 |
-| C**ontre amorti / Fente avant / Equilibre** | 2021-09-27 |  |  | 5 | Tenue Badminton, Thème de la séance |  | 1 |  | 2 |  |  | 2 |
-| C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  | 5 | Communication par What’s App |  | 11 |  | 1 |  |  | 1 |
-| C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  | 20 | (19h)Binôme Lanceur avec prise sur l’embout, volant vers le haut Prise revers / Prise coup droit Coté Mur |  | 6 |  | 1 |  |  | 1 |
-| C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  | 20 | (19h35)Max 10 par groupe |  | 10 |  | 1 |  |  | 1 |
-| C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  | 15 | (19h20)A faire sur demi terrain.  Match au temps 3' match en coopération / 5 rotations |  | 8 |  | 1 |  |  | 1 |
-| C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  | 10 | 1’ x 2 1’ main raquette x 3 Pause 30'' |  | 3 |  | 1 |  |  | 1 |
-| C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  | 7 |  |  | 2 |  | 1 |  |  | 1 |
-| C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  | 5 | Présentation Tenue badminton (sécurité) planification annuelle, structure de séance |  | 1 |  | 1 |  |  | 1 |
-
-
-#### Thèmes 2021/2022
-
-| Nom | Sous-thèmes | Period | NbSéance |
-| --- | --- | --- | --- |
-| Tactiques Simples / Doubles | Kill | 2022-06-06 |  |
-| Frappe main haute | Dégagement, Amorti, Smash, Revers fond de court, Coordination main pied | 2022-01-30 |  |
-| Grand Terrain / Agrandir le terrain | Déplacement latérale, Déplacement Grand Terrain, Reprise d'appuis, Incertitude, Qualité de Pied | 2022-05-09 |  |
-| Jeu mi-court | Défense, Jeu à plat | 2022-01-02 |  |
-| Déplacement avant arrière | Fente avant, Contre amorti, Lob, Pied Raquette, Amorti, Qualité de Pied | 2021-09-27 |  |
-
-
-#### Toutes les Séances DB 2021/2022
+### Séances DB 2021/2022
 
 | Nom | Début Saison | Exercice | Theme | Durée | Consignes | Schema | Ordre | Description | Status | Date de séance | duree | N° Sem |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2831,7 +1153,7 @@ Relâché serré ⇒ sous forme de fiche
 | C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  | 5 | Présentation Tenue badminton (sécurité) planification annuelle, structure de séance |  | 1 |  | 1 |  |  | 1 |
 
 
-#### Untitled
+### Thèmes 2021/2022
 
 | Nom | Sous-thèmes | Period | NbSéance |
 | --- | --- | --- | --- |
@@ -2842,11 +1164,224 @@ Relâché serré ⇒ sous forme de fiche
 | Déplacement avant arrière | Fente avant, Contre amorti, Lob, Pied Raquette, Amorti, Qualité de Pied | 2021-09-27 |  |
 
 
-#### Tournoi 2021/2022
+### Toutes les Séances DB 2021/2022
+
+| Nom | Début Saison | Exercice | Theme | Durée | Consignes | Schema | Ordre | Description | Status | Date de séance | duree | N° Sem |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tactique double | 2021-09-27 |  |  | 5 |  |  | 4 |  | 29 |  |  | 39 |
+| Tactique double | 2021-09-27 |  |  |  |  |  | 1 |  | 29 |  |  | 39 |
+| Tactique double | 2021-09-27 |  |  |  |  |  | 2 |  | 29 |  |  | 39 |
+| Tactique double | 2021-09-27 |  |  |  |  |  | 3 |  | 29 |  |  | 39 |
+| Tactique simple | 2021-09-27 |  |  | 5 |  |  | 4 |  | 28 |  |  | 38 |
+| Tactique simple | 2021-09-27 |  |  |  |  |  | 3 |  | 28 |  |  | 38 |
+| Tactique simple | 2021-09-27 |  |  |  |  |  | 2 |  | 28 |  |  | 38 |
+| Tactique simple | 2021-09-27 |  |  |  |  |  | 1 |  | 28 |  |  | 38 |
+| Revers - Gestuelle | 2021-09-27 |  |  | 20 | Grande diagonale revers - Match en 5 points (groupe de 4 ou 3). variante : Si revers et gagne le point il gagne le match |  | 4 |  | 22 |  |  | 28 |
+| Grand Terrain - reprise d’appuis - incertitude | 2021-09-27 |  |  | 20 | avec incertitude |  | 2 |  | 27 |  |  | 36 |
+| Grand Terrain - reprise d’appuis - incertitude | 2021-09-27 |  |  | 5 |  |  | 4 |  | 27 |  |  | 36 |
+| Grand Terrain - reprise d’appuis - incertitude | 2021-09-27 |  |  | 20 |  |  | 3 |  | 27 |  |  | 36 |
+| Grand Terrain - reprise d’appuis - incertitude | 2021-09-27 |  |  | 15 | Avec incertitude |  | 1 |  | 27 |  |  | 36 |
+| Grand Terrain - reprise d’appuis | 2021-09-27 |  |  | 20 | Match a 11 points. Tiré au sort par carte + point handicap |  | 3 |  | 26 |  |  | 35 |
+| Grand Terrain - reprise d’appuis | 2021-09-27 |  |  | 5 |  |  | 4 |  | 26 |  |  | 35 |
+| Grand Terrain - reprise d’appuis | 2021-09-27 |  |  | 20 |  |  | 2 |  | 26 |  |  | 35 |
+| Grand Terrain | 2021-09-27 |  |  | 20 |  |  | 2 |  | 25 |  |  | 34 |
+| Grand Terrain | 2021-09-27 |  |  | 5 |  |  | 4 |  | 25 |  |  | 3 |
+| Grand Terrain | 2021-09-27 |  |  | 20 | Matchs à 5 points. Tirage au sort avec cartes |  | 3 |  | 25 |  |  | 34 |
+| Grand Terrain - reprise d’appuis | 2021-09-27 |  |  | 20 |  |  | 1 |  | 26 |  |  | 35 |
+| Grand Terrain | 2021-09-27 |  |  | 20 |  |  | 1 |  | 25 |  |  | 34 |
+| Frappe en retard - Gestuelle | 2021-09-27 |  |  | 20 | Long Croisé Court Court Court Long Croisé |  | 4 |  | 24 |  |  | 33 |
+| Frappe en retard - Gestuelle | 2021-09-27 |  |  | 20 |  |  | 3 |  | 24 |  |  | 33 |
+| Frappe en retard - Gestuelle | 2021-09-27 |  |  | 5 | Dynamique |  | 5 |  | 24 |  |  | 33 |
+| Revers - Gestuelle | 2021-09-27 |  |  | 5 |  |  | 5 |  | 22 |  |  | 28 |
+| Revers - Relâchement | 2021-09-27 |  |  | 25 | 2v1 |  | 2 |  | 23 |  |  | 29 |
+| Revers - Relâchement | 2021-09-27 |  |  | 5 |  |  | 4 |  | 23 |  |  | 29 |
+| Revers - Relâchement | 2021-09-27 |  |  | 20 | Match simple, avec couloir latéraux. Les couloirs latéraux compte 5 points |  | 3 |  | 23 |  |  | 29 |
+| Revers - Gestuelle | 2021-09-27 |  |  | 20 | Amorti à faire - 12 volants - statique. Debout au fond du terrain, lancer avec embout vers l’avant. 2 terrains |  | 2 |  | 22 |  |  | 28 |
+| Revers - Gestuelle | 2021-09-27 |  |  | 20 | Amorti à faire - 12 volants - dynamique. 3 terrains |  | 3 |  | 22 |  |  | 28 |
+| Frappe en retard - Gestuelle | 2021-09-27 |  |  | 20 | Statique puis Dynamique |  | 2 |  | 24 |  |  | 33 |
+| Smash - Précision / Régularité | 2021-09-27 |  |  | 15 |  |  | 1 |  | 21 |  |  | 27 |
+| Smash - Précision / Régularité | 2021-09-27 |  |  | 20 | Zone avant + carré central, Smash → 5 pts, Smash direct out → 2 pts pour adversaire |  | 5 |  | 21 |  |  | 27 |
+| Smash - Précision / Régularité | 2021-09-27 |  |  | 16 | 4x4’ - Derrière le volant, de profil, bras éloigné du corps, prendre le volant tôt, avancer sur le volant lors de la frappe |  | 3 |  | 21 |  |  | 27 |
+| Smash - Précision / Régularité | 2021-09-27 |  |  | 16 | 4x4’ - Derrière le volant, de profil, bras éloigné du corps, prendre le volant tôt, avancer sur le volant lors de la frappe |  | 2 |  | 21 |  |  | 27 |
+| Smash - Précision / Régularité | 2021-09-27 |  |  | 15 | 3x5’ |  | 4 |  | 21 |  |  | 27 |
+| Dégagement - Régularité | 2021-09-27 |  |  | 15 | (18h45) relachement |  | 1 |  | 18 |  |  | 24 |
+| Smash - Gestuelle | 2021-09-27 |  |  |  |  |  |  |  | 20 |  |  | 26 |
+| Smash - Gestuelle | 2021-09-27 |  |  | 20 |  |  | 3 |  | 20 |  |  | 26 |
+| Smash - Gestuelle | 2021-09-27 |  |  | 5 |  |  |  |  | 20 |  |  | 26 |
+| Dégagement - Préparation | 2021-09-27 |  |  | 5 | (19h05)Rivière/Mi-court/FondDeCourt |  | 3 |  | 16 |  |  | 20 |
+| Smash - Précision / Régularité | 2021-09-27 |  |  | 5 |  |  | 6 |  | 21 |  |  | 27 |
+| Smash - Gestuelle | 2021-09-27 |  |  | 20 | Smash donne 5 points. Montante descendante |  | 2 |  | 20 |  |  | 26 |
+| Dégagement - Intention | 2021-09-27 |  |  | 20 | Match à thème avec deux long imposé au début. Match de 4 min |  | 2 |  | 19 |  |  | 25 |
+| Dégagement - Régularité | 2021-09-27 |  |  | 20 | (19h40) |  | 3 |  | 18 |  |  | 24 |
+| Dégagement - Précision | 2021-09-27 |  |  | 20 | (19h35)3 min |  | 3 |  | 17 |  |  | 21 |
+| Défense latérale | 2021-09-27 |  |  |  |  |  | 5 |  | 14 |  |  | 18 |
+| Défense latérale | 2021-09-27 |  |  | 50 | 2’30 x 4 = 10 min x 5 |  | 3 |  | 14 |  |  | 18 |
+| Dégagement - Préparation | 2021-09-27 |  |  | 20 | Uniquement avec des dégagements |  | 5 |  | 16 |  |  | 20 |
+| Dégagement - Préparation | 2021-09-27 |  |  | 10 | (18h55)Saut ciseaux |  | 2 |  | 16 |  |  | 20 |
+| Dégagement - Préparation | 2021-09-27 |  |  | 10 | (18h45)Déplacement arrière |  | 1 |  | 16 |  |  | 20 |
+| Dégagement - Gestuelle | 2021-09-27 |  |  | 15 | (19h15)Fond de court vers Fond de court |  | 3 |  | 15 |  |  | 19 |
+| Dégagement - Précision | 2021-09-27 |  |  | 5 |  |  | 4 |  | 17 |  |  | 21 |
+| Dégagement - Précision | 2021-09-27 |  |  | 25 | (19h10)6x3’ |  | 2 |  | 17 |  |  | 21 |
+| Dégagement - Intention | 2021-09-27 |  |  | 5 |  |  | 4 |  | 19 |  |  | 25 |
+| Dégagement - Intention | 2021-09-27 |  |  | 20 | Couloirs du fond est en mort immédiat |  | 3 |  | 19 |  |  | 25 |
+| Dégagement - Régularité | 2021-09-27 |  |  | 5 |  |  | 4 |  | 18 |  |  | 24 |
+| Dégagement - Régularité | 2021-09-27 |  |  | 20 | (19h20) |  | 2 |  | 18 |  |  | 24 |
+| Dégagement - Gestuelle | 2021-09-27 |  |  | 20 | (19h35)Uniquement avec des dégagements |  | 4 |  | 15 |  |  | 19 |
+| Dégagement - Préparation | 2021-09-27 |  |  | 5 |  |  | 6 |  | 16 |  |  | 20 |
+| Dégagement - Gestuelle | 2021-09-27 |  |  | 5 |  |  | 5 |  | 15 |  |  | 19 |
+| Dégagement - Gestuelle | 2021-09-27 |  |  | 15 | (19h)Mi court vers mi court. Prise de raquette universelle / Armé précoce. |  | 2 |  | 15 |  |  | 19 |
+| Frappe en retard - Gestuelle | 2021-09-27 |  |  | 10 | Statique |  | 1 |  | 24 |  |  | 33 |
+| Smash - Gestuelle | 2021-09-27 |  |  | 20 |  |  | 1 |  | 20 |  |  | 26 |
+| Revers - Relâchement | 2021-09-27 |  |  | 20 | fente au filet puis revers. Accepté le retard |  | 1 |  | 23 |  |  | 29 |
+| Revers - Gestuelle | 2021-09-27 |  |  | 20 | Amorti à faire - 12 volants. 2 terrains. Assis au mi court |  | 1 |  | 22 |  |  | 28 |
+| Dégagement - Intention | 2021-09-27 |  |  | 20 | 2x3’ x 3 |  | 1 |  | 19 |  |  | 25 |
+| Dégagement - Préparation | 2021-09-27 |  |  | 20 | (19h15)(6 x 3’) FondDeCourt=Relachement Mi-court et rivière=pousser plus loin dégagement |  | 4 |  | 16 |  |  | 20 |
+| Dégagement - Précision | 2021-09-27 |  |  | 20 | (18h45)4x3’ |  | 1 |  | 17 |  |  | 21 |
+| Dégagement - Régularité | 2021-09-27 |  |  | 20 | (19h) |  | 1 |  | 18 |  |  | 24 |
+| Dégagement - Gestuelle | 2021-09-27 |  |  | 15 | (18h45)Armé précoce |  | 1 |  | 15 |  |  | 19 |
+| Défense latérale | 2021-09-27 |  |  |  |  |  | 4 |  | 14 |  |  | 18 |
+| Défense latérale | 2021-09-27 |  |  |  | 2min x 8. Couloir du fond ne compte pas pour l'équipe de 3. Le joueur seul doit défendre sa zone. Le but est que l'échange dure. |  | 4 |  | 14 |  |  | 18 |
+| Défense latérale | 2021-09-27 |  |  | 5 |  |  | 6 |  | 14 |  |  | 18 |
+| Défense latérale | 2021-09-27 |  |  | 20 |  |  | 5 |  | 14 |  |  | 18 |
+| Défense latérale | 2021-09-27 |  |  |  |  |  | 2 |  | 14 |  |  | 18 |
+| Défense latérale | 2021-09-27 |  |  | 15 | 6 toreador au moins (échauffement) |  | 1 |  | 14 |  |  | 18 |
+| Déplacement sur demi terrain - Matchs | 2021-09-27 |  |  |  |  |  | 2 |  | 10 |  |  | 12 |
+| Déplacement sur demi terrain - Intention | 2021-09-27 |  |  | 5 |  |  | 6 |  | 9 |  |  | 11 |
+| Déplacement sur demi terrain - Intention | 2021-09-27 |  |  |  |  |  | 2 |  | 9 |  |  | 11 |
+| Déplacement sur demi terrain - Intention | 2021-09-27 |  |  |  |  |  | 4 |  | 9 |  |  | 11 |
+| Déplacement sur demi terrain - Intention | 2021-09-27 |  |  | 20 | (19h35) |  | 5 |  | 9 |  |  | 11 |
+| Déplacement sur demi terrain - Intention | 2021-09-27 |  |  | 25 | (19h10)5 X 4' |  | 3 |  | 9 |  |  | 11 |
+| Déplacement sur demi terrain - Matchs | 2021-09-27 |  |  | 20 |  |  | 1 |  | 10 |  |  | 12 |
+| Déplacement sur demi terrain - Intention | 2021-09-27 |  |  | 20 | (18h45)4 x 4' |  | 1 |  | 9 |  |  | 11 |
+| Déplacement sur demi terrain - Matchs | 2021-09-27 |  |  | 5 |  |  | 4 |  | 10 |  |  | 12 |
+| Déplacement sur demi terrain - Matchs | 2021-09-27 |  |  | 40 | Match de 4 min |  | 3 |  | 10 |  |  | 12 |
+| Tournoi par équipe | 2021-09-27 |  |  | 60 |  |  | 4 |  | 4.5 |  |  | 5 |
+| Tournoi par équipe | 2021-09-27 |  |  | 5 |  |  | 2 |  | 4.5 |  |  | 5 |
+| Tournoi par équipe | 2021-09-27 |  |  | 5 |  |  | 3 |  | 4.5 |  |  | 5 |
+| Tournoi par équipe | 2021-09-27 |  |  | 5 |  |  | 1 |  | 4.5 |  |  | 5 |
+| Défense | 2021-09-27 |  |  |  |  |  | 7 |  | 13 |  |  | 17 |
+| Défense | 2021-09-27 |  |  | 20 |  |  | 8 |  | 13 |  |  | 17 |
+| Défense | 2021-09-27 |  |  | 5 |  |  | 9 |  | 13 |  |  | 17 |
+| Défense | 2021-09-27 |  |  |  | avec multi volants |  | 6 |  | 13 |  |  | 17 |
+| Défense | 2021-09-27 |  |  | 30 |  |  | 5 |  | 13 |  |  | 17 |
+| Défense | 2021-09-27 |  |  |  |  |  | 2 |  | 13 |  |  | 17 |
+| Défense | 2021-09-27 |  |  | 15 | (18h45) 4 x 10 volants |  | 1 |  | 13 |  |  | 17 |
+| Drive / Maniabilité | 2021-09-27 |  |  | 15 | 4x3’ |  | 7 |  | 12 |  |  | 16 |
+| Drive / Maniabilité | 2021-09-27 |  |  | 5 |  |  | 8 |  | 12 |  |  | 16 |
+| Drive / Maniabilité | 2021-09-27 |  |  |  |  |  | 6 |  | 12 |  |  | 16 |
+| Drive / Maniabilité | 2021-09-27 |  |  | 15 | à la place de la canne à pêche, prendre 3 volants placé sur le filet |  | 5 |  | 12 |  |  | 16 |
+| Drive / Maniabilité | 2021-09-27 |  |  | 15 |  |  | 3 |  | 12 |  |  | 16 |
+| Drive / Maniabilité | 2021-09-27 |  |  |  |  |  | 4 |  | 12 |  |  | 16 |
+| Drive / Maniabilité | 2021-09-27 |  |  | 20 | Seul contre le mur avec une cible, Alterner revers, coup droit |  | 1 |  | 12 |  |  | 16 |
+| Drive | 2021-09-27 |  |  |  |  |  | 5 |  | 11 |  |  | 15 |
+| Drive | 2021-09-27 |  |  | 20 | (19h30) pas de zone avant |  | 6 |  | 11 |  |  | 15 |
+| Drive | 2021-09-27 |  |  |  |  |  | 3 |  | 11 |  |  | 15 |
+| Drive | 2021-09-27 |  |  | 15 | (19h)4 aller retours |  | 2 |  | 11 |  |  | 15 |
+| Drive | 2021-09-27 |  |  | 15 | (19h15) 3x 4’ |  | 4 |  | 11 |  |  | 15 |
+| Drive / Maniabilité | 2021-09-27 |  |  |  |  |  | 2 |  | 12 |  |  | 16 |
+| Drive | 2021-09-27 |  |  | 5 |  |  | 7 |  | 11 |  |  | 15 |
+| Drive | 2021-09-27 |  |  | 10 | (18h45)Prise raquette, posture d'attente |  | 1 |  | 11 |  |  | 15 |
+| Déplacement sur demi terrain - Régularité | 2021-09-27 |  |  | 20 | (19h35)2 groupes de 10 |  | 10 |  | 8 |  |  | 10 |
+| Déplacement sur demi terrain - Régularité | 2021-09-27 |  |  | 5 |  |  | 11 |  | 8 |  |  | 10 |
+| Déplacement sur demi terrain - Régularité | 2021-09-27 |  |  |  |  |  | 7 |  | 8 |  |  | 10 |
+| Déplacement sur demi terrain - Régularité | 2021-09-27 |  |  |  |  |  | 9 |  | 8 |  |  | 10 |
+| Déplacement sur demi terrain - Régularité | 2021-09-27 |  |  | 18 | (19h20)4 x 4' Changement de Binôme / revenir sur les déplacements |  | 8 |  | 8 |  |  | 10 |
+| Déplacement sur demi terrain - Régularité | 2021-09-27 |  |  |  |  |  | 3 |  | 8 |  |  | 10 |
+| Déplacement sur demi terrain - Régularité | 2021-09-27 |  |  |  | (18h45)CA ou Lob selon consigne de l'entraîneur, importance d'avoir la même gestuelle |  | 6 |  | 8 |  |  | 10 |
+| Déplacement sur demi terrain - Régularité | 2021-09-27 |  |  | 5 |  |  | 4 |  | 8 |  |  | 10 |
+| Déplacement sur demi terrain - Régularité | 2021-09-27 |  |  | 30 | (18h45)Avec MV CA Lob |  | 5 |  | 8 |  |  | 10 |
+| Déplacement sur demi terrain - Régularité | 2021-09-27 |  |  | 7 | 30'' x 30'' (x 5) : progressif, en marchant, en pas chassé, en pas croisée, en pas chassé rapide |  | 2 |  | 8 |  |  | 10 |
+| Déplacement sur demi terrain - Régularité | 2021-09-27 |  |  | 5 |  |  | 1 |  | 8 |  |  | 10 |
+| Déplacement sur demi terrain - précision | 2021-09-27 |  |  | 16 | (19h10)4** x 4’** Changement de binôme |  | 7 |  | 7 |  |  | 9 |
+| Déplacement sur demi terrain - précision | 2021-09-27 |  |  |  |  |  | 8 |  | 7 |  |  | 9 |
+| Déplacement sur demi terrain - précision | 2021-09-27 |  |  |  |  |  | 5 |  | 7 |  |  | 9 |
+| Déplacement sur demi terrain - précision | 2021-09-27 |  |  | 5 |  |  | 10 |  | 7 |  |  | 9 |
+| Déplacement sur demi terrain - précision | 2021-09-27 |  |  | 5 |  |  | 1 |  | 7 |  |  | 9 |
+| Déplacement sur demi terrain - précision | 2021-09-27 |  |  | 7 |  |  | 2 |  | 7 |  |  | 9 |
+| Déplacement sur demi terrain - précision | 2021-09-27 |  |  | 5 |  |  | 3 |  | 7 |  |  | 9 |
+| Déplacement sur demi terrain - précision | 2021-09-27 |  |  | 10 | (19h) variante faire tourner la raquette entre chaque frappe. Point technique sur les déplacements |  | 6 |  | 7 |  |  | 9 |
+| Service Long / Amorti | 2021-09-27 |  |  |  | avec LCCL, sur 3 terrains |  | 8 |  | 5 |  |  | 7 |
+| Déplacement sur demi terrain - précision | 2021-09-27 |  |  | 20 | (19h30) |  | 9 |  | 7 |  |  | 9 |
+| Déplacement sur demi terrain - précision | 2021-09-27 |  |  | 15 | (18h45)Montante descendante 3 min x 5 |  | 4 |  | 7 |  |  | 9 |
+| Lob / Amorti | 2021-09-27 |  |  | 20 | (19h35) |  | 9 |  | 6 |  |  | 8 |
+| Lob / Amorti | 2021-09-27 |  |  |  |  |  | 8 |  | 6 |  |  | 8 |
+| Lob / Amorti | 2021-09-27 |  |  |  |  |  | 5 |  | 6 |  |  | 8 |
+| Lob / Amorti | 2021-09-27 |  |  | 10 | (19h) |  | 6 |  | 6 |  |  | 8 |
+| Lob / Amorti | 2021-09-27 |  |  | 5 |  |  | 10 |  | 6 |  |  | 8 |
+| Lob / Amorti | 2021-09-27 |  |  | 7 |  |  | 2 |  | 6 |  |  | 8 |
+| Lob / Amorti | 2021-09-27 |  |  | 15 | (18h45)Joueur limité au couloir du fond et ligne de service. Complexification : le joueur au filet choisi l'endroit où doit être fait l'amorti |  | 4 |  | 6 |  |  | 8 |
+| Lob / Amorti | 2021-09-27 |  |  | 5 |  |  | 3 |  | 6 |  |  | 8 |
+| Lob / Amorti | 2021-09-27 |  |  | 20 | (19h10)4** x 4’** Changement de binôme. Revenir sur la technique |  | 7 |  | 6 |  |  | 8 |
+| Lob / Amorti | 2021-09-27 |  |  | 5 |  |  | 1 |  | 6 |  |  | 8 |
+| Service Long / Amorti | 2021-09-27 |  |  | 10 | (18h45)1/ Sans consigne 2/ Attrape le volant avec la main opposé |  | 4 |  | 5 |  |  | 7 |
+| Service Long / Amorti | 2021-09-27 |  |  | 5 |  |  | 3 |  | 5 |  |  | 7 |
+| Service Long / Amorti | 2021-09-27 |  |  | 10 | (18h55) |  | 5 |  | 5 |  |  | 7 |
+| Service Long / Amorti | 2021-09-27 |  |  |  |  |  | 6 |  | 5 |  |  | 7 |
+| Service Long / Amorti | 2021-09-27 |  |  | 20 | (19h05)Changement de binôme / sur 4 terrains |  | 7 |  | 5 |  |  | 7 |
+| Service Long / Amorti | 2021-09-27 |  |  | 5 |  |  | 11 |  | 5 |  |  | 7 |
+| Service Long / Amorti | 2021-09-27 |  |  |  |  |  | 9 |  | 5 |  |  | 7 |
+| Service Long / Amorti | 2021-09-27 |  |  | 20 | (19h30) service long puis amorti |  | 10 |  | 5 |  |  | 7 |
+| Service Long / Amorti | 2021-09-27 |  |  | 7 |  |  | 2 |  | 5 |  |  | 7 |
+| Service Long / Amorti | 2021-09-27 |  |  | 5 |  |  | 1 |  | 5 |  |  | 7 |
+| Service Long / Déplacement arrière | 2021-09-27 |  |  | 16 | (19h20)4** x 4’** Changement de binôme |  | 8 |  | 4 |  |  | 4 |
+| Service Long / Déplacement arrière | 2021-09-27 |  |  |  |  |  | 7 |  | 4 |  |  | 4 |
+| Service Long / Déplacement arrière | 2021-09-27 |  |  |  |  |  | 5 |  | 4 |  |  | 4 |
+| Service Long / Déplacement arrière | 2021-09-27 |  |  | 5 | Cours pendant les vacances scolaires |  | 11 |  | 4 |  |  | 4 |
+| Service Long / Déplacement arrière | 2021-09-27 |  |  | 15 | (19h40)Départ sur la zone avant du terrain |  | 10 |  | 4 |  |  | 4 |
+| Service Long / Déplacement arrière | 2021-09-27 |  |  | 15 | (18h45)Présentation service long. Laisse retomber le volant sur le pied opposé raquette |  | 4 |  | 4 |  |  | 4 |
+| Service Long / Déplacement arrière | 2021-09-27 |  |  | 18 | (19h)Présentation service court / tendu Match de 3 min 5 rotations |  | 6 |  | 4 |  |  | 4 |
+| Service Long / Déplacement arrière | 2021-09-27 |  |  |  |  |  | 9 |  | 4 |  |  | 4 |
+| Service Long / Déplacement arrière | 2021-09-27 |  |  | 5 |  |  | 3 |  | 4 |  |  | 4 |
+| Service Long / Déplacement arrière | 2021-09-27 |  |  | 7 | Armé précoce avec raquette |  | 2 |  | 4 |  |  | 4 |
+| Service Long / Déplacement arrière | 2021-09-27 |  |  | 5 |  |  | 1 |  | 4 |  |  | 4 |
+| Pied raquette / Déplacement arrière | 2021-09-27 |  |  | 5 |  |  | 10 |  | 3 |  |  | 3 |
+| Pied raquette / Déplacement arrière | 2021-09-27 |  |  | 20 | (19h35)Zone centrale ne fait pas perdre de vie. |  | 9 |  | 3 |  |  | 3 |
+| Pied raquette / Déplacement arrière | 2021-09-27 |  |  |  |  |  | 8 |  | 3 |  |  | 3 |
+| Pied raquette / Déplacement arrière | 2021-09-27 |  |  | 15 | (19h15)Sur demi terrain. Couloir du fond compte 3 points. Match au temps 3'. Montante descendante |  | 7 |  | 3 |  |  | 3 |
+| Pied raquette / Déplacement arrière | 2021-09-27 |  |  |  |  |  | 6 |  | 3 |  |  | 3 |
+| Pied raquette / Déplacement arrière | 2021-09-27 |  |  | 5 |  |  | 3 |  | 3 |  |  | 3 |
+| Pied raquette / Déplacement arrière | 2021-09-27 |  |  | 7 | (18h45)Faire le shadow à son rythme |  | 4 |  | 3 |  |  | 3 |
+| Pied raquette / Déplacement arrière | 2021-09-27 |  |  | 20 | (18h55)**4 x 4’** Changement de binôme Prise universelle Service Long conseils • 4 min sans indication • 4 min avec pied raquette orienté • 4 min • 4 min |  | 5 |  | 3 |  |  | 3 |
+| Pied raquette / Déplacement arrière | 2021-09-27 |  |  | 7 | Armé précoce + Pied raquette arrière puis avant + Frappe, Tipping avec raquette |  | 2 |  | 3 |  |  | 3 |
+| Pied raquette / Déplacement arrière | 2021-09-27 |  |  | 5 | TNT ce week end |  | 1 |  | 3 |  |  | 3 |
+| C**ontre amorti / Fente avant / Equilibre** | 2021-09-27 |  |  | 5 |  |  | 9 |  | 2 |  |  | 2 |
+| C**ontre amorti / Fente avant / Equilibre** | 2021-09-27 |  |  |  |  |  | 7 |  | 2 |  |  | 2 |
+| C**ontre amorti / Fente avant / Equilibre** | 2021-09-27 |  |  | 20 | (19h35)Montante descendante avec des équipes de 3,4. Match de 3 min. 6 rotation |  | 8 |  | 2 |  |  | 2 |
+| C**ontre amorti / Fente avant / Equilibre** | 2021-09-27 |  |  |  | A faire en parallèle du multi volants |  | 6 |  | 2 |  |  | 2 |
+| C**ontre amorti / Fente avant / Equilibre** | 2021-09-27 |  |  | 5 |  |  | 4 |  | 2 |  |  | 2 |
+| C**ontre amorti / Fente avant / Equilibre** | 2021-09-27 |  |  | 40 | (18h55)Faire attention à l'équilibre de la fente 2 x 15' |  | 5 |  | 2 |  |  | 2 |
+| C**ontre amorti / Fente avant / Equilibre** | 2021-09-27 |  |  | 7 |  |  | 2 |  | 2 |  |  | 2 |
+| C**ontre amorti / Fente avant / Equilibre** | 2021-09-27 |  |  |  |  |  | 3 |  | 2 |  |  | 2 |
+| C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  | 5 |  |  | 5 |  | 1 |  |  | 1 |
+| C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  |  |  |  | 9 |  | 1 |  |  | 1 |
+| C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  |  |  |  | 7 |  | 1 |  |  | 1 |
+| C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  |  |  |  | 4 |  | 1 |  |  | 1 |
+| C**ontre amorti / Fente avant / Equilibre** | 2021-09-27 |  |  | 5 | Tenue Badminton, Thème de la séance |  | 1 |  | 2 |  |  | 2 |
+| C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  | 5 | Communication par What’s App |  | 11 |  | 1 |  |  | 1 |
+| C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  | 20 | (19h)Binôme Lanceur avec prise sur l’embout, volant vers le haut Prise revers / Prise coup droit Coté Mur |  | 6 |  | 1 |  |  | 1 |
+| C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  | 20 | (19h35)Max 10 par groupe |  | 10 |  | 1 |  |  | 1 |
+| C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  | 15 | (19h20)A faire sur demi terrain.  Match au temps 3' match en coopération / 5 rotations |  | 8 |  | 1 |  |  | 1 |
+| C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  | 10 | 1’ x 2 1’ main raquette x 3 Pause 30'' |  | 3 |  | 1 |  |  | 1 |
+| C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  | 7 |  |  | 2 |  | 1 |  |  | 1 |
+| C**ontre amorti / Fente avant / Toucher** | 2021-09-27 |  |  | 5 | Présentation Tenue badminton (sécurité) planification annuelle, structure de séance |  | 1 |  | 1 |  |  | 1 |
+
+
+### Untitled
+
+| Nom | Sous-thèmes | Period | NbSéance |
+| --- | --- | --- | --- |
+| Tactiques Simples / Doubles | Kill | 2022-06-06 |  |
+| Frappe main haute | Dégagement, Amorti, Smash, Revers fond de court, Coordination main pied | 2022-01-30 |  |
+| Grand Terrain / Agrandir le terrain | Déplacement latérale, Déplacement Grand Terrain, Reprise d'appuis, Incertitude, Qualité de Pied | 2022-05-09 |  |
+| Jeu mi-court | Défense, Jeu à plat | 2022-01-02 |  |
+| Déplacement avant arrière | Fente avant, Contre amorti, Lob, Pied Raquette, Amorti, Qualité de Pied | 2021-09-27 |  |
+
+
+### Tournoi 2021/2022
 
 ## Classement
 
-##### Classement
+#### Classement
 
 | Name | Set 3 | Set 2 | Set 1 | Equipe | Matchs | Points | Points 2 | Sets | Points 1 | Points 3 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2856,43 +1391,43 @@ Relâché serré ⇒ sous forme de fiche
 |  | 1 | 4 | 0 | A |  |  | 9 |  | -15 | -17 |
 
 
-##### Untitled
+#### Untitled
 *Base de données liée (Untitled) non exportable directement.*
 
 ## Feuille de matchs
 
 **▸ Feuille de match 1 : A vs B**
 
-##### Untitled
+#### Untitled
 *Base de données liée (Untitled) non exportable directement.*
 
 **▸ Feuille de match 2 : C vs D**
 
-##### Untitled
+#### Untitled
 *Base de données liée (Untitled) non exportable directement.*
 
 **▸ Feuille de match 3 : A vs C**
 
-##### Untitled
+#### Untitled
 *Base de données liée (Untitled) non exportable directement.*
 
 **▸ Feuille de match 4 : B vs D**
 
-##### Untitled
+#### Untitled
 *Base de données liée (Untitled) non exportable directement.*
 
 **▸ Feuille de match 5 : A vs D**
 
-##### Untitled
+#### Untitled
 *Base de données liée (Untitled) non exportable directement.*
 
 **▸ Feuille de match 6 : B vs C**
 
-##### Untitled
+#### Untitled
 *Base de données liée (Untitled) non exportable directement.*
 
 
-##### Feuille de match 1
+#### Feuille de match 1
 
 | Tableau | Score A | Point B | Equipe 1 | Score B | Point A | Equipe 2 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2903,7 +1438,7 @@ Relâché serré ⇒ sous forme de fiche
 | Simple 1 |  | 11 |  |  | 6 |  |
 
 
-##### Feuille de match 2
+#### Feuille de match 2
 
 | Tableau | Score A | Point B | Equipe 1 | Score B | Point A | Equipe 2 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2914,7 +1449,7 @@ Relâché serré ⇒ sous forme de fiche
 | Simple 2 |  | 11 |  |  | 6 |  |
 
 
-##### Feuille de match 3
+#### Feuille de match 3
 
 | Tableau | Score A | Point B | Equipe 1 | Score B | Point A | Equipe 2 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2925,7 +1460,7 @@ Relâché serré ⇒ sous forme de fiche
 | Double 2 |  | 9 |  |  | 11 |  |
 
 
-##### Feuille de match 4
+#### Feuille de match 4
 
 | Tableau | Score A | Point B | Equipe 1 | Score B | Point A | Equipe 2 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2936,7 +1471,7 @@ Relâché serré ⇒ sous forme de fiche
 | Simple 1 |  | 13 |  |  | 11 |  |
 
 
-##### Feuille de match 5
+#### Feuille de match 5
 
 | Tableau | Score A | Point B | Equipe 1 | Score B | Point A | Equipe 2 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2947,7 +1482,7 @@ Relâché serré ⇒ sous forme de fiche
 | Simple 1 |  | 11 |  |  | 7 |  |
 
 
-##### Feuille de match 6
+#### Feuille de match 6
 
 | Tableau | Score A | Point B | Equipe 1 | Score B | Point A | Equipe 2 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2958,7 +1493,7 @@ Relâché serré ⇒ sous forme de fiche
 | Simple 1 |  | 6 |  |  | 11 |  |
 
 
-##### Joueurs
+#### Joueurs
 
 | Name | Related to Feuille de match 2 (1) (Equipe 2) | Niveau | Related to Feuille de match 1 (1) (Equipe 2) | Related to Feuille de match 1 (1) (Equipe 1) | Related to Feuille de match 2 (2) (Equipe 2) | Related to Feuille de match 2 (3) (Equipe 1) | Related to Feuille de match 2 (4) (Equipe 1) | Related to Feuille de match 2 (3) (Equipe 2) | Related to Feuille de match 2 (4) (Equipe 2) | Equipes | Related to Feuille de match 2 (1) (Equipe 1) | Related to Feuille de match 2 (2) (Equipe 1) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2980,7 +1515,7 @@ Relâché serré ⇒ sous forme de fiche
 | Christophe |  | 7 |  |  |  |  |  |  |  |  |  |  |
 
 
-##### Equipes
+#### Equipes
 
 | Name |
 | --- |
@@ -2993,10 +1528,10 @@ Relâché serré ⇒ sous forme de fiche
 
 
 
-##### Untitled
+#### Untitled
 *Base de données liée (Untitled) non exportable directement.*
 
-#### Thèmes 2022/2023
+### Thèmes 2022/2023
 
 | Nom | NbSemVacances | Sous-thèmes | Period | NbSéance |
 | --- | --- | --- | --- | --- |
@@ -3007,7 +1542,7 @@ Relâché serré ⇒ sous forme de fiche
 | Grand Terrain / Agrandir le terrain | 2 | Déplacement latérale, Déplacement Grand Terrain, Reprise d'appuis, Incertitude, Qualité de Pied | 2023-04-10 |  |
 
 
-#### Séances DB 2022/2023
+### Séances DB 2022/2023
 
 | Nom | Début Saison | Exercice | Theme | Durée | Consignes | Schema | EstOk | Ordre | Description | Status | Date de séance | duree | N° Sem |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3182,10 +1717,10 @@ Relâché serré ⇒ sous forme de fiche
 | C**ontre amorti / Fente avant / Equilibre** | 2022-09-12 |  |  | 5 |  |  | Oui | 4 |  | 2 |  |  | 2 |
 
 
-#### Tournoi Rondes Suisses Simples
+### Tournoi Rondes Suisses Simples
 
 
-##### Tournoi
+#### Tournoi
 
 | Joueurs | Ronde3 | PointAverage | Ronde1 | Ronde7 | Diff6 | Diff5 | Victoire2 | adversaire8 | Diff4 | Victoire6 | Score3 | Score1 | Ronde4 | Score5 | Victoire5 | adversaire7 | Diff8 | Victoire4 | Victoire8 | Adversaires | Diff2 | Victoire3 | Diff1 | Ronde8 | adversaire1 | Score7 | Ronde2 | Score6 | adversaire6 | Diff3 | Ronde5 | Points | Score4 | adversaire2 | adversaire3 | Score2 | Diff7 | Victoire7 | adversaire5 | Ronde6 | Victoire1 | adversaire4 | Score8 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3208,7 +1743,7 @@ Relâché serré ⇒ sous forme de fiche
 
 
 
-##### Untitled
+#### Untitled
 *Base de données liée (Untitled) non exportable directement.*
 
 
@@ -3219,7 +1754,7 @@ Install MAUI :
 
 
 
-#### Tournoi par équipe (ronde italienne) (1)
+### Tournoi par équipe (ronde italienne) (1)
 
 1. Mattéo
 1. Geoffrey
@@ -3249,7 +1784,7 @@ Install MAUI :
 
 
 
-##### Tournoi
+#### Tournoi
 
 | Joueurs | Ronde3 | PointAverage | Ronde1 | Ronde7 | Diff6 | Diff5 | Victoire2 | adversaire8 | Diff4 | Victoire6 | Score3 | Score1 | Ronde4 | Score5 | Victoire5 | adversaire7 | Diff8 | Victoire4 | Victoire8 | Adversaires | Diff2 | Victoire3 | Diff1 | Ronde8 | adversaire1 | Score7 | Ronde2 | Score6 | adversaire6 | Diff3 | Ronde5 | Points | Score4 | adversaire2 | adversaire3 | Score2 | Diff7 | Victoire7 | adversaire5 | Ronde6 | Victoire1 | adversaire4 | Score8 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3270,12 +1805,12 @@ Install MAUI :
 2 matchs maximum par personne
 3 x 15 points
 
-##### Untitled
+#### Untitled
 *Base de données liée (Untitled) non exportable directement.*
 
 
 
-#### Tournoi doubles
+### Tournoi doubles
 
 1. Mattéo - Farah
 1. (Erwan) - Sophie -Nassim
@@ -3289,7 +1824,7 @@ Install MAUI :
 1. Akira - Olivier
 
 
-##### Tournoi
+#### Tournoi
 
 | Joueurs | Ronde3 | PointAverage | Ronde1 | Ronde7 | Diff6 | Diff5 | Victoire2 | adversaire8 | Diff4 | Victoire6 | Score3 | Score1 | Ronde4 | Score5 | Victoire5 | adversaire7 | Diff8 | Victoire4 | Victoire8 | Adversaires | Diff2 | Victoire3 | Diff1 | Ronde8 | adversaire1 | Score7 | Ronde2 | Score6 | adversaire6 | Diff3 | Ronde5 | Points | Score4 | adversaire2 | adversaire3 | Score2 | Diff7 | Victoire7 | adversaire5 | Ronde6 | Victoire1 | adversaire4 | Score8 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3307,14 +1842,14 @@ Install MAUI :
 
 
 
-##### Untitled
+#### Untitled
 *Base de données liée (Untitled) non exportable directement.*
 
 
 
 **▸ Défi ramassé de volants**
 
-#### Rammassage volants
+### Rammassage volants
 
 |  | Score | Validé  |
 | --- | --- | --- |
@@ -3346,7 +1881,7 @@ Install MAUI :
 
 
 
-#### Séances DB 2023/2024
+### Séances DB 2023/2024
 
 | Nom | Début Saison | Exercice | Theme | Durée | Consignes | Schema | EstOk | Ordre | Description | Status | Date de séance | duree | N° Sem |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3520,7 +2055,7 @@ Install MAUI :
 | Déplacement sur demi terrain - Régularité | 2023-09-11 |  |  | 5 |  |  | Non | 11 |  | 8 |  |  | 10 |
 | Dégagement - Régularité | 2023-09-11 |  |  | 25 | (19h) |  | Non | 4 |  | 18 |  |  | 22 |
 
-##### Détails : C**ontre amorti / Fente avant / Toucher**
+#### Détails : C**ontre amorti / Fente avant / Toucher**
 Plaisir ↔ empathique
 structure de séance, planification annuelle ↔ Travaillomane
 jeux, fun ↔ rebelle
@@ -3530,7 +2065,7 @@ persévérant
 reveur
 
 
-#### Thèmes 2023/2024
+### Thèmes 2023/2024
 
 | Nom | NbSemVacances | Sous-thèmes | Period | NbSéance |
 | --- | --- | --- | --- | --- |
@@ -3541,7 +2076,7 @@ reveur
 | Déplacement avant arrière | 2 | Fente avant, Contre amorti, Lob, Pied Raquette, Amorti, Qualité de Pied | 2022-09-12 |  |
 
 
-#### Ronde Italienne 2024
+### Ronde Italienne 2024
 
 | Nom | Scad2 | Scad3 | Vict5 | Scor6 | Scor5 | Scad5 | Match 6 | Diff | Scor3 | Scad1 | Vict2 | Scad4 | Match 4 | Scor1 | Match1 | Scad6 | Match 5 | Points | Vict3 | Scor2 | Match 3 | Scor4 | Vict1 | Vict6 | Vict4 | Match2 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3557,7 +2092,7 @@ reveur
 | Mattéo_Romain_Mario | 51 |  |  |  |  |  |  |  |  | 59 |  |  |  | 60 |  |  |  |  |  | 60 |  |  |  |  |  |  |
 
 
-#### Joueurs
+### Joueurs
 
 | Nom | Pied Raquette | Présent sur la saison | Dégagem. | Serv court | Dépl Grand Terrain | Amorti | R. d'appuis | Armé précoce | Defense | Revers | CA croisé | Smash | C-amorti | Equilibre | Commentaires | Lob | Dépl. arrière | Serv Long | Drive |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3600,17 +2135,17 @@ reveur
 | Nicolas Moulinot | Oui | Non | Non | Non | Non | Non | Non | Non | Non | Non | Non | Non | Oui | Oui |  | Non | Non | Oui | Non |
 
 
-#### Untitled
+### Untitled
 *Base de données liée (Untitled) non exportable directement.*
 
-#### Tournoi Rondes Suisses Simples (en poules) 2024
+### Tournoi Rondes Suisses Simples (en poules) 2024
 
 
 
 
 Poules de 3 et 4
 
-##### Ronde Suisse en poules
+#### Ronde Suisse en poules
 
 | Nom | Victoire | Score 2 | Score 1 |
 | --- | --- | --- | --- |
@@ -3770,7 +2305,7 @@ Poules de 3 et 4
 
 
 
-##### Joueurs/Classement
+#### Joueurs/Classement
 
 | Nom | Matchs | points | pointaverage | Poules | Présent | Victoire | points adversaire | Nb matchs |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3805,7 +2340,7 @@ Poules de 3 et 4
 
 
 
-#### Tournoi simple - ronde suisse - Match 11 pts
+### Tournoi simple - ronde suisse - Match 11 pts
 
 | Matchs | caché | Score | Pointaverage | Vainqueur | Joueurs |
 | --- | --- | --- | --- | --- | --- |
@@ -3870,7 +2405,7 @@ Poules de 3 et 4
 | Meg vs Xavier | Oui | 11-3 | 8 | Meg | Meg, Xavier |
 
 
-#### Sondage de fin de saison (21 réponses)
+### Sondage de fin de saison (21 réponses)
 
 [Sondage fin de saison](https://docs.google.com/forms/d/1E5oE02Cphr1VZHbGnVzUO95-3qszNX86NK1657q3VYI/edit#response=ACYDBNhl9Wb6xHG7qSuLopuIYKPKKwJNHXXMQb6iz8cXt3ljRRgR65rzJLbFTf8zJOeDXso)
 
@@ -3939,7 +2474,7 @@ Poules de 3 et 4
 
 
 
-#### Thèmes 2024/2025
+### Thèmes 2024/2025
 
 | Nom | NbSemVacances | Sous-thèmes | Period | NbSéance |
 | --- | --- | --- | --- | --- |
@@ -3953,7 +2488,7 @@ Poules de 3 et 4
 | Drive | 0 | Jeu à plat | 2024-09-09 |  |
 
 
-#### Séances DB 2024/2025
+### Séances DB 2024/2025
 
 | Nom | Début Saison | Exercice | Theme | Durée | attendu | Consignes | Schema | EstOk | Ordre | Description | Status | Date de séance | duree | N° Sem |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -4129,7 +2664,7 @@ Poules de 3 et 4
 | Dégagement - Intention | 2024-09-09 |  |  | 5 |  |  |  | Oui | 6 |  | 25 |  |  | 35 |
 | C**ontre amorti / Fente avant / Equilibre** | 2024-09-09 |  |  | 10 |  |  |  | Oui | 4 |  | 7 |  |  | 9 |
 
-##### Détails : C**ontre amorti / Fente avant / Toucher**
+#### Détails : C**ontre amorti / Fente avant / Toucher**
 Plaisir ↔ empathique
 structure de séance, planification annuelle ↔ Travaillomane
 jeux, fun ↔ rebelle
@@ -4202,7 +2737,7 @@ reveur
     1. Base - position anticipé
 
 
-### Préparation Mentale
+## Préparation Mentale
 
 8 outils de la préparation Mentale
 1. Motivation
@@ -4237,11 +2772,11 @@ REX :
   - Je fais les choses différemment, je vois différement le joueur, je le coach différemment. Je vais plus coacher sur la partie mentale que technique.
 
 
-### Idée 
+## Idée 
 
 
 
-#### Exercices d'animation
+### Exercices d'animation
 
 | Nom | Thème | Exercice de base |
 | --- | --- | --- |
@@ -4249,7 +2784,7 @@ REX :
 | Avec portes latérales en zone avant | Déplacement arrière | Tournante |
 | Uniquement avec dégagement | Dégagement, Fond de court | Tournante |
 
-##### Détails : Zone avant et arrière
+#### Détails : Zone avant et arrière
 Responsabilité de soit la zone avant soit la zone arrière
 Variantes 
 - Coopération 
@@ -4380,7 +2915,7 @@ Tournante
 
 
 
-#### Planification 2024/25
+### Planification 2024/25
 
 | Titre | Matériels | Cycles |
 | --- | --- | --- |
@@ -4422,11 +2957,11 @@ Tournante
 | Grip - prises raquettes - maniabilité |  | Drive |
 | reprise d’appuis & déplacements (incertitude) | sacs lestés | Grand Terrain / agrandir le terrain |
 
-##### Détails : Déplacement arrières
+#### Détails : Déplacement arrières
 
 Pivot (tension kinésténique): shadow à l’échauffement
 
-##### Détails : Rotation en doubles
+#### Détails : Rotation en doubles
 
 Rotation sur une frappe sur le mi court
 
@@ -4434,7 +2969,7 @@ Rotation sur une frappe sur le mi court
 
 
 
-##### Détails : Services revers
+#### Détails : Services revers
 Single serve 
 (forehand : long & short serve)
  (backhand : short & flick serve)
@@ -4446,13 +2981,13 @@ Serve backhand
 
 
 
-##### Détails : tactiques doubles
+#### Détails : tactiques doubles
 
 Tactique doubles : 
 
 
 
-##### Détails : retours de services
+#### Détails : retours de services
 
 3 retours devant
 2 sur le mi court
@@ -4461,1127 +2996,5 @@ Tactique doubles :
 
 
 
-
-
-
-## Cordage raquette
-
-### Cordage
-
-| Nom | Date de création | Tension | Commentaire | Payé |
-| --- | --- | --- | --- | --- |
-| Mei |  | 11 |  | Non |
-| Mei |  | 12 | Cordage li ning, à payer mardi | Oui |
-| Olivier |  | 10.5 | X 2 | Oui |
-| Xavier F |  | 11 | 2 raquettes | Oui |
-| Anthony |  | 10.5 |  | Oui |
-| Emmanuel  |  | 10.5 |  | Oui |
-| Aurélien |  | 10.5 |  | Oui |
-| Avril |  | 10.5 |  | Oui |
-| Cédric |  | 11 |  | Oui |
-| Mei |  | 10.5 |  | Oui |
-| Jean Pierre |  | 11 | Raquette yonex bleu | Oui |
-| Romain |  | 95 | Raquette Victor noir | Oui |
-| Olivier |  | 11 |  | Oui |
-| Olivier |  | 10 |  | Oui |
-| Sébastien roca |  | 11 |  | Oui |
-| Anthony hemer |  | 10.5 |  | Oui |
-| Geoffrey |  | 10 |  | Oui |
-| Xavier F |  | 11 |  | Oui |
-| Julie |  | 9.5 |  | Oui |
-| Tarik |  | 9.5 | 2 raquettes  | Oui |
-| Mei |  | 10.5 | Pour mercredi | Oui |
-| Jean Pierre |  | 10.5 |  | Oui |
-| Cédric |  | 11 |  | Oui |
-| Philippe |  | 11 |  | Oui |
-| Mei |  | 11 |  | Oui |
-| Roland |  | 11 |  | Oui |
-| Olivier |  | 10.5 | Rembourser 5€ | Oui |
-| Sébastien  |  | 10.5 | 2 raquettes | Oui |
-
-
-
-## Compétition Bad
-
-
-### Mixte 3
-
-#### Compositions
-
-| Journées | Gael | Mélanie P | Apolline | Vasile | Axel 👽 | Sana | Philippe | Dylan | Nael | Félicie | Titouan 👽 | Marie 👽 | Melissa | Pierre | Melanie G 👽 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| jeu 28 jan - Saint ouen | DM | DD |  |  |  |  | SH 1 | SH 3 | DH | DM | DH | SD | DD | SH 2 |  |
-| mar 12 jan - Noisy | SH 3 | SD | DD | SH 2 |  | DM |  | DM | DH |  | SH 1 |  |  | DH | DD |
-| mer 16 déc - Pantin | DM |  |  | SH 2 |  | DD | SH 1 | SH 3 | DH | DD |  | SD |  | DH | DM |
-| jeu 10 déc - Auber | DM | SD | DM | DH | DH |  |  |  | SH 2 | DD | SH 1 |  | DD | SH 3 |  |
-| mer 25 nov - Saint Ouen | DM | DM |  | DH |  |  | SH 1 | DH | SH 2 | DD | SH 3 |  | SD, DD |  |  |
-| jeu 12 nov - Noisy | DH |  | DD | DH | DM | DD | SH 1 | SH 3 |  |  |  |  | SD | SH 2 | DM |
-| jeu 5 nov - Pantin |  |  | DM, SD | SH 2 | DH | DD | SH 1 | DM | DH |  |  | DD |  | SH 3 |  |
-| mar 13 Oct - Auber | SH 3 | SD |  | DH |  | DM | SH 1 | DH | SH 2 |  |  | DD |  | DM | DD |
-
-
-
-
-
-
-### Saison prochaine IC
-
-#### Saison Prochaine
-
-| Nom | IC |
-| --- | --- |
-| Clément Charret | Mixte 2 |
-| Marine | Mixte 1 |
-| Florian Parabiz | Mixte 1 |
-| Laurene | Mixte Vétéran |
-| Félicie | Mixte 3 |
-| Mélanie | Mixte 3 |
-| Camille Hamid | Mixte 1 |
-| Matthieu | Masculine |
-| Yann | Masculine |
-| Marie Koch | Mixte 3 |
-| Mario | Masculine |
-| Axel Vuillet | Mixte 3 |
-| Sajith | Mixte 2 |
-| Aurélien | Masculine |
-| Julie | Mixte Vétéran |
-| Damien | Mixte 2 |
-| Titouan | Mixte 3 |
-| Jérémy | Mixte 2 |
-| Samuel  | Départ Sur |
-| Meg | Mixte Vétéran |
-| Graziella | Mixte 1 |
-| Tarik | Masculine |
-| Apolline | Mixte 3 |
-| Christophe G | Départ Sur |
-| Cyril | Masculine |
-| Isabelle | pas sur ou no ic |
-| Fanny | Mixte Vétéran |
-| Olivier | Masculine |
-| Emmanuel | Mixte Vétéran |
-| Dylan Collot | Départ Sur |
-| Eymris | Départ Sur |
-| Laure | Mixte Vétéran |
-| Zaza | Mixte Vétéran |
-| Xavier F | Mixte Vétéran |
-| Dylan M | Mixte 3 |
-| Melissa | Mixte 3 |
-| Sébastien Dossou | Mixte 3 |
-| Cédric B | Masculine |
-| Chloé | Mixte Vétéran |
-| Sébastien O | Mixte Vétéran |
-| Cédric | pas sur ou no ic |
-| Roland | pas sur ou no ic |
-| Pierre | Mixte 3 |
-| Fabrice SEON | Mixte Vétéran |
-| JP | Masculine |
-| Stéphanie | Mixte 1 |
-| Gael | Mixte 3 |
-| Sébastien Beudot | Masculine |
-| Nael | Mixte 3 |
-| Antoine | pas sur ou no ic |
-| Francois Melin | Mixte Vétéran |
-| Sophie | Mixte 1 |
-| Gregory | Mixte Vétéran |
-| Claire | Mixte 2 |
-| Vasile | Mixte 3 |
-| Mei | Mixte 2 |
-| Christophe M | Départ Sur |
-| Fabrice A | Mixte Vétéran |
-| Ségolène | Mixte 2 |
-| Francesco | Mixte Vétéran |
-| Philippe G | Mixte 3 |
-| Anthony Hemmer | Mixte Vétéran |
-| Anthony Le Rouge | Mixte 2 |
-| Nicolas Caillaud | Mixte 2 |
-| Marko | Mixte 1 |
-| Simon | Mixte 2 |
-| Anatole | Mixte 1 |
-| Lilian | Mixte 1 |
-| Florian | Mixte 1 |
-| Mathilde | Départ Sur |
-| Jordan | Mixte 2 |
-| Kylian | Départ Sur |
-| Mattéo | Départ Sur |
-| Sebastien Rocca | Départ Sur |
-| Alexandra | Départ Sur |
-| JC | Départ Sur |
-| Murielle | Départ Sur |
-| Bastien | Mixte 1 |
-| Baptiste | Mixte 1 |
-| Céline | Départ Sur |
-| Akira | Départ Sur |
-| Théo | Mixte 1 |
-| Eloise | Départ Sur |
-| Nassim | Départ Sur |
-| Laetitia | Départ Sur |
-
-
-
-
-Capitaine
-- S’inscrire comme capitaine sur badnet/ebad
-- Entrer les joueurs de l’équipe
-  - s’assurer que tout le monde est licencié avant la date limite
-- Réceptionner le planning des rencontres
-- Sonder l’équipe 
-  - sur les préférences de tableau
-  - sur les disponibilités sur les rencontres
-- Définir avec le club l’objectif de l’équipe et s’y aligner
-- Rencontre
-  - avant chaque rencontre
-    - effectuer la composition d’équipe aligné avec l’objectif de l’équipe
-    - communiquer la composition d’équipe relativement tôt pour que tout le monde puisse s’organiser
-    - prévoir les déplacements (privilégié le covoiturage, cela permet aussi de souder l’équipe)
-    - se coordonner avec Chloé pour la buvette
-  - pendant la rencontre
-    - faire le lien avec l’équipe adverse
-    - présenter la composition d’équipe au capitaine adverse
-    - définir un ordre dans les matchs à jouer, avec les contraintes de chacun
-    - motiver et soutenir l’équipe
-    - préparer la buvette et accueillir l’équipe adverse à s’y joindre
-  - après la rencontre
-    - saisir les scores de la rencontre si à domicile, si à l’extérieur valider les résultats saisie par le capitaine adverse
-    - faire un débrief par whats app sur la rencontre
-    - préparer la prochaine rencontre
-- Prévoir des moments conviviaux durant la saison pour souder l’équipe.
-
-Speech IC
-- Se soutenir mutuellement
-- Combatif et fair-play
-
-## Formation Parabad
-
-WH1 : mobilité réduite du tronc
-WH2
-SL3
-SL4
-SU5
-SH6
-
-Jordy (wh2) , Antonin (sl4), Carl : déplacement avant arrière
-2 vs 1 : celui qui est seul décide de créer la rupture (phase offensive) 3 min 
-Pas de zone avant
-- 5 points pour gagner (8 min)
-- 
-
-
-
-Bonjour à tous,
-Suite à la formation sur le handicap, que Florian et moi-même avons suivi, j’aimerai monter un projet Parabad au sein de vsbad. L’idée n’est pas forcément d’avoir une section dédié au parabad, mais plutôt d’avoir des créneaux mixte avec des joueurs valide et non valide. 
-
-C’est à vous de décider si on engage le club dans un accueil inclusif. 
-Attention, l’accueil nécessite 
-- des besoins humains (du temps, de l’éducation des adhérents pour être bienveillant), 
-- financiers (achats de fauteuils et matériel pour les entretenir)
-En revanche, cela permet :
-- de vivre une véritable aventure humaine au travers des gens en situation de handicap que l’on va rencontrer
-- de permettre la pratique de sport pour ces personnes, le manque d’accueil est vraiment important
-- d’apporter un plus en terme d’image pour le club
-- d’obtenir potentiellement des subventions supplémentaires
-
-Dans mon idée de mise en place, je me disais : 
-- première année, une ou deux soirée initiation avec des prets de fauteuil de la ligue ou du comité + se renseigner sur les couts d’achat de fauteuil ou de financement
-- deuxième année, inscription au site club inclusif pour accueillir ce nouveau public ([https://club-inclusif.fr/](https://club-inclusif.fr/))
-Sachez aussi que le public, ne concerne pas uniquement les personnes en fauteuil, il peut y avoir :
-- des personnes avec des mobilités réduites des membres inférieurs ou supérieurs
-- des personnes sourds ou malentendants
-- des personnes avec des handicaps mentaux
-
-Je pense qu’il peut être important d’en discuter, et de prendre le temps avant de prendre une décision. Je suis à dispo si vous souhaitez en parler. 
-
-
-## SmashMetrics
-
-
-
-### Analyse détaillé de SmashMetrics
-Le succès de **"SmashMetrics"** (gardons ce nom pour l'instant) reposera sur sa capacité à transformer une vidéo brute (souvent de qualité moyenne, filmée au smartphone) en informations *exploitables* pour un joueur ou un coach.
-Voici une analyse détaillée de cette idée de SaaS.
-**
-🏸 Analyse détaillée : "SmashMetrics" (Idée 2)**
-
-**
-1. Le Concept et la Proposition de Valeur**
-
-• **Le Slogan (interne) :** "Arrêtez de deviner. Voyez, analysez, et gagnez."
-• **La Proposition de Valeur :** "SmashMetrics est la plateforme SaaS qui utilise l'analyse vidéo et une IA simple pour aider les joueurs de badminton à comprendre leurs erreurs et à progresser plus vite. C'est l'assistant numérique du coach, et l'œil analytique du joueur."
-• **La Cible :** L'écosystème compétitif.
-    ◦ **Acheteur principal (B2B) :** Les coachs, les académies, les clubs de performance, les comités départementaux/ligues.
-    ◦ **Utilisateur final (B2C) :** Le joueur compétitif (de "gros" D à National) et les parents de jeunes espoirs.
-**
-2. Les Cibles et Leurs Problématiques**
-
-Pour être rentable, il faut résoudre des problèmes pour lesquels les gens paient.**CibleProblématiques (Points de douleur)Solution "SmashMetrics"Le Joueur Compétitif**"Je stagne, je ne comprends pas pourquoi je perds."
-"Je fais toujours la même faute."
-"Mon coach n'est pas toujours derrière moi en tournoi."**Auto-analyse :** Des statistiques claires (ex: "70% de mes fautes directes sont dans le filet côté revers").
-**Suivi :** Comparer son smash de janvier à celui de juin.**Le Coach / L'Académie**"Je perds un temps fou à gérer des fichiers vidéo sur WhatsApp/Google Drive."
-"Donner un feedback vidéo est chronophage (télécharger, ouvrir un logiciel de montage...)."
-"Comment suivre mes 15 joueurs en même temps ?"**Centralisation :** Un tableau de bord avec tous ses joueurs.
-**Outils pro :** Commenter la vidéo à la seconde près, dessiner sur l'écran, comparer 2 vidéos.
-**Valorisation :** Justifier ses tarifs de coaching avec un suivi "pro".**Le Parent d'un Jeune Espoir**"Comment mesurer les progrès de mon enfant ?"
-"L'investissement (club, stages, matériel) est-il payant ?"**Reporting :** Un résumé des progrès (ex: "+10% de smashes réussis ce trimestre").
-**Partage :** Partager facilement les vidéos avec le coach ou le sélectionneur.
-**
-3. Fonctionnalités Clés (Le Produit)**
-
-Le produit doit être "Mobile-first" (l'upload vient du téléphone) mais avoir une interface Web puissante (l'analyse se fait sur grand écran).
-**
-Module 1 : La Bibliothèque Vidéo (La Base)**
-
-• **Upload facile :** Depuis un mobile (essentiel !) ou un ordinateur.
-• **Organisation :** Par joueur, par type (Match, Entraînement, Séance spécifique).
-• **Tagging :** Possibilité de "taguer" manuellement (ex: "Match vs X", "Bon service", "Faute stupide").
-**
-Module 2 : L'Outil d'Analyse (Le "Coaching")**
-
-C'est le cœur de l'interaction Coach-Joueur.
-• **Lecteur avancé :** Ralenti (0.25x), image par image.
-• **Outils de "Télédessinateur" :** Dessiner sur la vidéo (flèches, cercles, angles) pour surligner un mauvais placement ou une bonne trajectoire.
-• **Commentaires synchronisés :** Laisser un commentaire (texte ou audio) à un instant T précis (ex: à 2m14s : "Regarde ton placement de pied ici").
-• **Comparaison "Side-by-Side" :** Mettre deux vidéos côte à côte (ex: ton service vs le service de Viktor Axelsen, ou ton service de la semaine dernière vs aujourd'hui).
-**
-Module 3 : L'IA "Metrics" (Le Différenciateur)**
-
-C'est là que réside la *magie* technologique et la justification du prix. Il faut commencer simple.
-• **V1 (Facile) : "Heatmap" (Carte de chaleur)**
-    ◦ L'utilisateur clique sur le point de chute du volant à la fin de chaque échange (gagné/perdu).
-    ◦ L'IA génère une carte de chaleur des zones où le joueur gagne/perd des points.
-• **V2 (Moyen) : Détection de coups (Shot Detection)**
-    ◦ L'IA (après entraînement) reconnaît et tague automatiquement : Smash / Amorti / Dégagé / Drive.
-    ◦ **Statistiques :** % de smashes réussis, % d'amortis au filet.
-• **V3 (Difficile) : Suivi de Joueur (Player Tracking)**
-    ◦ L'IA suit le joueur et analyse ses déplacements.
-    ◦ **Statistiques :** Vitesse de retour au centre, zone de couverture du terrain.**Conseil de lancement :** Commencer par les **Modules 1 et 2** (qui apportent déjà une énorme valeur) et la **V1 de l'IA**. La V2 et V3 sont plus complexes et coûteuses à développer.
-**
-4. Modèle Économique et Rentabilité (La Clé)**
-
-Le modèle **Freemium B2B** est le plus adapté. Le "gratuit" attire les joueurs (B2C), qui amènent leurs coachs (B2B), qui paient pour les fonctionnalités "Pro".**PlanCiblePrix (indicatif)Fonctionnalités ClésFree (Appât)**Joueur individuel0 €5 Go de stockage (env. 3 matchs). Upload & partage. Outils de dessin limités.**Player Pro**Joueur compétitif9,99 € / mois100 Go de stockage. Outils d'analyse complets. Comparaison Side-by-Side. **Analyse IA V1 (Heatmap)**.**Coach**Coach indépendant49 € / mois**Tableau de bord multi-joueurs** (jusqu'à 20 joueurs). 1 To de stockage partagé. Outils de feedback groupés. **Analyse IA V2 (Shot Detection)**.**Académie**Clubs, Ligues129 € / mois5 coachs, 100+ joueurs. Marque blanche (logo du club). Support prioritaire. **Toutes les analyses IA**.
-Pourquoi c'est rentable ?
-Le plan "Coach" est la vache à lait. Un coach qui paie 49€/mois gère 20 joueurs. Si seulement 2 de ses joueurs sont prêts à payer 9.99€/mois, le coach voit immédiatement la valeur de centraliser son outil de travail pour un coût fixe. L'outil lui permet de coacher plus de joueurs (coaching à distance), et donc d'augmenter ses propres revenus.
-**
-5. Stratégie d'Acquisition (Go-to-Market)**
-
-Comment obtenir les 100 premiers utilisateurs ?
-1. **L'Approche "Top-Down" (Coachs) :**
-    ◦ Identifier 20 coachs influents (sur les réseaux, en Pôles Espoirs, dans les grands clubs).
-    ◦ Leur offrir le plan "Académie" **gratuit à vie** en échange de feedbacks (Beta-testing) et d'un témoignage.
-    ◦ Ces coachs deviendront vos meilleurs ambassadeurs auprès de leurs joueurs et de leurs collègues.
-2. **Le Contenu (Inbound Marketing) :**
-    ◦ Créer des comptes Instagram / TikTok.
-    ◦ Publier des "Analyses de pro" (ex: "Voici l'analyse du jeu de jambes de Kento Momota avec SmashMetrics").
-    ◦ Publier des "Avant/Après" de joueurs amateurs.
-3. **Partenariats Stratégiques :**
-    ◦ Contacter les sites de vente de matériel (Larde Sports, +deBad...). Proposer un "bundle" (ex: "Raquette achetée, 3 mois de SmashMetrics offerts").
-    ◦ Intervenir dans les formations de coachs des Ligues/Fédérations.
-**
-6. Défis et Facteurs Clés de Succès**
-
-• **Défi Technique (L'IA) :** Analyser le badminton est difficile. C'est rapide, la caméra bouge, les gymnases sont sombres, le volant est petit.
-    ◦ **Solution :** Ne pas survendre l'IA au début. Se concentrer sur les outils de *feedback* (dessin, commentaires) qui sont 100% fiables et apportent déjà 80% de la valeur.
-• **Défi de l'Adoption :** Si l'upload d'une vidéo de 2 Go est lent ou complexe, personne ne l'utilisera.
-    ◦ **Solution :** L'expérience utilisateur (UX) doit être *parfaite*. L'upload doit être simple comme l'envoi d'une photo sur Instagram.
-• **Concurrence :** Des outils génériques existent (Hudl, Coach's Eye).
-    ◦ **Facteur Clé de Succès :** L'hyper-spécialisation. Utiliser le vocabulaire du badminton (CS, Classement, R4/R5), avoir des statistiques propres au badminton (qualité de retour au centre). Les coachs préféreront un outil fait *pour* leur sport.
-**
-Prochaines Étapes Possibles**
-
-Souhaiteriez-vous que nous explorions la pile technologique (comment construire cette IA de reconnaissance de coups) ou préférez-vous que nous rédigions une "landing page" (page de présentation) pour ce produit afin de tester l'intérêt du marché ?
-
-
-### Comment réussir à l’implémenter ? De quoi ai je besoin ?
-
-L'implémentation d'un SaaS comme "SmashMetrics" est un projet complexe, principalement à cause de deux éléments : **la gestion de la vidéo** et **l'intelligence artificielle (IA)**.
-Voici ce dont vous avez besoin, décomposé en un plan d'action réaliste.
-
-### 1. Les Compétences Fondamentales (L'Équipe)
-Vous ne pouvez pas faire cela seul, sauf si vous êtes un développeur "full-stack" expert en IA avec du temps libre. Vous avez besoin de trois pôles de compétences :
-- **Pôle Produit (Le Visionnaire) :**
-  - **Ce que c'est :** C'est *vous*. L'expert en badminton qui comprend le problème du coach et du joueur.
-  - **Rôle :** Définir les fonctionnalités (le "quoi"), tester l'application, parler aux utilisateurs, créer la vision.
-- **Pôle Technique (Le Constructeur) :**
-  - **Ce que c'est :** La partie la plus critique et la plus coûteuse. Vous avez deux choix :
-    1. **Trouver un co-fondateur technique (CTO) :** La meilleure option. Quelqu'un qui croit au projet et le construit avec vous en échange de parts (equity).
-    1. **Externaliser (Agence / Freelances) :** Plus rapide, mais très cher (comptez 30 000 € à 70 000 € pour une première version) et vous dépendez d'eux pour chaque mise à jour.
-- **Pôle Design (L'Ergonome) :**
-  - **Ce que c'est :** Un designer UX/UI (User Experience / User Interface).
-  - **Rôle :** S'assurer que l'application est *simple* à utiliser. Si l'upload d'une vidéo ou l'ajout d'un commentaire est compliqué, personne ne l'utilisera.
-
----
-
-### 2. Le Plan d'Action en 4 Phases (La Feuille de Route)
-Ne construisez pas tout d'un coup. La clé est de valider votre idée à chaque étape pour ne pas dépenser d'argent sur une fonction dont personne ne veut.
-
-### Phase 0 : Validation (1 mois | Coût : 0 € - 100 €)
-Ne pas écrire une seule ligne de code. L'objectif est de **confirmer que des coachs sont prêts à payer**.
-1. **Créez une Maquette (Prototype) :**
-  - Utilisez un outil comme **Figma** (il existe des versions gratuites).
-  - Dessinez l'apparence de l'application : l'écran d'upload, le lecteur vidéo, l'endroit où on clique pour commenter.
-1. **Créez une "Landing Page" (Page de Présentation) :**
-  - Utilisez un service comme **Carrd** ou **Webflow**.
-  - Décrivez le produit comme s'il existait déjà ("Analysez vos matchs", "Recevez des feedbacks de coach").
-  - Mettez un bouton : "Rejoindre la liste d'attente pour la bêta".
-1. **Interviewez des Cibles :**
-  - Contactez 20 coachs et 20 joueurs compétitifs.
-  - Montrez-leur la maquette Figma. Demandez-leur : "Est-ce que cela résout un problème pour vous ?", "Combien paieriez-vous pour ça ?", "Qu'est-ce qui manque ?".
-  - *Vous devez obtenir des "OUI, je veux ça !" avant de continuer.*
-
-### Phase 1 : Le MVP (Minimum Viable Product) (3-6 mois | Coût : 5 000 € - 50 000 €)
-L'objectif est de construire la version la plus *simple* du produit qui apporte *une* valeur.
-**Attention : N'IMPLÉMENTEZ PAS L'IA TOUT DE SUITE !**
-L'IA est incroyablement complexe et coûteuse. La valeur initiale n'est pas dans l'IA, elle est dans le **workflow** : centraliser les vidéos et permettre aux coachs de les commenter facilement.
-Votre MVP doit faire UNIQUEMENT ceci :
-1. **Compte utilisateur** (Joueur / Coach).
-1. **Upload vidéo** (depuis un mobile et un ordinateur).
-1. **Lecteur vidéo** (avec ralenti, pause).
-1. **Outils manuels d'annotation :**
-  - Pouvoir dessiner sur la vidéo (flèches, cercles).
-  - Pouvoir ajouter un commentaire texte à un temps précis (ex: à 1m32s).
-1. **Partage** (un joueur "assigne" une vidéo à son coach).
-
-### Phase 2 : Bêta-Test (2 mois | Coût : Serveurs)
-1. **Recrutez vos Bêta-Testeurs :** Reprenez la liste d'attente de la Phase 0.
-1. **Offrez-leur le produit gratuitement** (les 10 coachs influents dont on a parlé).
-1. **Observez et Parlez :** Regardez comment ils l'utilisent. Appelez-les. Qu'est-ce qui est cassé ? Qu'est-ce qu'ils adorent ?
-1. **Implémentez les Paiements :** Intégrez **Stripe** pour gérer les abonnements.
-
-### Phase 3 : Lancement et Itération (Continu)
-1. Lancez officiellement le produit avec les plans "Player Pro" et "Coach".
-1. Commencez le marketing (Contenu, Partenariats).
-1. **Commencez SEULEMENT MAINTENANT la R&D sur l'IA** (ex: la "Heatmap" manuelle, puis la détection de coups).
-
----
-
-### 3. Les Outils Techniques (La "Stack")
-Voici ce dont votre équipe technique aura besoin. C'est le "jargon", mais il est essentiel pour comprendre les coûts.
-1. **Hébergement Cloud :**
-  - Vous ne pouvez pas héberger des vidéos sur un petit serveur. Il vous faut un fournisseur majeur.
-  - **Exemples :** AWS (Amazon), Google Cloud (GCP), ou Azure (Microsoft).
-1. **Stockage des Vidéos (Le "Disque Dur") :**
-  - Les fichiers vidéo bruts doivent être stockés quelque part.
-  - **Exemples :** Amazon S3 ou Google Cloud Storage.
-1. **Traitement Vidéo (Le Point Clé) :**
-  - Quand un utilisateur envoie une vidéo 4K de 2 Go, vous ne pouvez pas la lire telle quelle. Vous devez la *transcoder* (la compresser et créer plusieurs versions : 1080p, 720p, etc.).
-  - **Ne le construisez pas vous-même.** Utilisez un service pour ça.
-  - **Exemples :** **Mux.com** (le meilleur pour démarrer), AWS Elemental MediaConvert.
-1. **Base de Données :**
-  - Pour stocker les utilisateurs, les commentaires, les liens entre vidéos.
-  - **Exemples :** PostgreSQL ou MongoDB.
-1. **Le Code (L'Application) :**
-  - **Application Web (pour le coach) :** React, Vue.js, ou Angular.
-  - **Application Mobile (pour le joueur) :** React Native ou Flutter (pour créer les versions iOS et Android en même temps) ou natif (Swift/Kotlin).
-1. **L'Intelligence Artificielle (La "Magie") :**
-  - C'est le projet R&D de l'année 2.
-  - **Défi :** Vous avez besoin de *données* (des milliers d'heures de vidéo de badminton *annotées* : "ici c'est un smash", "ici c'est un amorti").
-  - **Outils :** Python, avec des bibliothèques comme **TensorFlow** ou **PyTorch**. Vous aurez probablement besoin d'un spécialiste (Data Scientist) pour cela.
-
-### Résumé de ce dont vous avez besoin :
-- **Pour démarrer (Phase 0) :** Du temps, une bonne connaissance du badminton, et un outil de maquettage (Figma).
-- **Pour construire (Phase 1) :** Un partenaire technique (CTO) OU un budget conséquent (minimum 30k€).
-- **Pour réussir (Phase 2+) :** Les retours de vos 10 premiers "vrais" utilisateurs (coachs) pour construire un produit qu'ils aiment *vraiment*.
-Le piège est de vouloir construire l'IA (la V3 de notre plan initial) en premier. Le succès est de construire les outils de commentaire (la V1) et de les rendre *parfaits*.
-
-
-### Maquette
-Concentrons-nous sur le **Flux Utilisateur Essentiel** à tester (le "cœur" de votre MVP) :
-1. **Le Joueur** télécharge une vidéo de match.
-1. **Le Coach** est notifié et ouvre la vidéo.
-1. **Le Coach** ajoute des commentaires et dessine sur la vidéo.
-1. **Le Joueur** consulte le feedback.
-Voici la maquette de ces 4 écrans clés.
-
----
-
-### 🎨 Maquette "SmashMetrics" (Version Bêta)
-
-### Écran 1 : Tableau de Bord (Vue : Joueur - Mobile)
-
-- **Objectif :** Encourager l'upload, voir les feedbacks récents.
-- **Éléments Visuels :**
-  - **En-tête :** Logo "SmashMetrics", Photo de profil du joueur.
-  - **Bouton Principal (CTA) :** Un gros bouton "+" ou "🎥 Télécharger une Vidéo" qui flotte en bas de l'écran. (C'est l'action n°1).
-  - **Section 1 : "Mes Derniers Feedbacks"**
-    - Une liste de cartes. Chaque carte montre :
-      - Aperçu de la vidéo (miniature).
-      - Titre : "Match vs. Julien (15/10/25)".
-      - Statut : "✅ Feedback Reçu" ou "⏳ En attente de Coach Martin".
-  - **Section 2 : "Mon Coach"**
-    - Une petite icône avec "Coach Martin" (montre que la connexion est active).
-  - **Menu de Navigation (en bas) :** [Tableau de Bord] [Vidéos] [Profil]
-
-
-
-
-### Écran 2 : Écran d'Upload (Vue : Joueur - Mobile)
-- **Objectif :** Rendre l'upload d'une vidéo (souvent lourde) simple et sans friction.
-- **Éléments Visuels :** (S'affiche après avoir cliqué sur le "+")
-  - **Bouton :** "Importer de la Pellicule".
-  - **Bouton (alternatif) :** "Ouvrir la Caméra".
-  - *Une fois la vidéo sélectionnée :*
-  - **Champ de texte :** "Titre du match (ex: Match Interclubs vs. Club X)".
-  - **Champ de texte :** "Adversaire (optionnel)".
-  - **Bouton radio :** "Type : [Match] [Entraînement] [Focus Service]".
-  - **Bouton de partage :** "Partager avec : [Coach Martin] (coché par défaut)".
-  - **Indicateur :** Une barre de progression de l'upload (très important pour rassurer l'utilisateur).
-  - **Bouton :** "Envoyer pour Analyse".
-
-
-
-### Écran 3 : Le Lecteur d'Analyse (Vue : Coach - Web/Tablette)
-- **Objectif :** C'est l'écran le plus important (le "Money-Screen"). Le coach doit pouvoir analyser *efficacement*. (Cette vue est meilleure sur un grand écran).
-- **Éléments Visuels :**
-  - **Zone Principale (70% de l'écran) :**
-    - La vidéo du match.
-  - **Contrôles Vidéo (sous la vidéo) :**
-    - [Play/Pause]
-    - [Avance/Recul image par image] (crucial pour le badminton !)
-    - [Vitesse de lecture : 1x, 0.5x, 0.25x]
-    - [Timeline/Scrubber]
-  - **Palette d'Outils (flottante, à gauche) :**
-    - [Icone Flèche]
-    - [Icone Cercle]
-    - [Icone Crayon (dessin libre)]
-    - [Sélecteur de couleur (Rouge, Vert, Bleu)]
-  - **Zone de Feedback (30% de l'écran, à droite) :**
-    - C'est un *flux* de commentaires.
-    - **Champ de saisie :** "Ajouter un commentaire à..." (le temps se met à jour avec la vidéo).
-    - **Liste des commentaires (en dessous) :**
-      - `[00:45]` "Superbe défense, mais regarde ton replacement ici."
-      - `[01:32]` "Ta tête est trop basse sur ce service." (En cliquant sur ce commentaire, la vidéo saute à 01:32).
-
-
-### Écran 4 : Consultation du Feedback (Vue : Joueur - Mobile/Web)
-- **Objectif :** Le joueur voit le résultat.
-- **Éléments Visuels :**
-  - C'est *presque* le même écran que l'Écran 3, mais en **mode "lecture seule"**.
-  - **Vidéo Principale :** Le joueur lance la vidéo.
-  - **Magie :** Quand la vidéo arrive à `[00:45]`, les dessins du coach (ex: un cercle sur le joueur) apparaissent automatiquement sur la vidéo, et le commentaire "Superbe défense..." se surligne dans le flux de feedback.
-  - **Flux de Feedback (à droite ou en dessous) :** Le joueur peut lire tous les commentaires et cliquer dessus pour naviguer dans la vidéo.
-  - **Bouton :** "Répondre à Coach Martin" (permet de poser une question sur le feedback).
-
-
----
-
-
-### Écran 5 : Tableau de Bord Principal (Vue : Coach - Web/Tablette)
-- **Objectif :** Donner au coach une vue d'ensemble de tous ses joueurs, prioriser les vidéos à analyser et voir l'engagement de ses élèves.
-- **Layout (Structure) :**
-  - **En-tête (Haut) :** Logo, Barre de recherche rapide, Icône de notifications (cloche), Photo de profil du Coach.
-  - **Barre de Navigation (Gauche) :** Une barre verticale fixe avec des icônes pour :
-    - [Tableau de Bord] (l'écran actuel)
-    - [Mes Joueurs] (liste détaillée)
-    - [Bibliothèque Vidéo] (toutes les vidéos)
-    - [Exercices] (une future fonctionnalité)
-    - [Paramètres]
-- **Zone de Contenu Principal (Le Dashboard) :** L'écran est divisé en 3 "widgets" (blocs) principaux.
-
-
-
-### Widget 1 : "À Analyser" (La Priorité Absolue)
-
----
-- **Titre :** ⚡ **Demandes de Feedback en Attente**
-- **Objectif :** La "To-Do List" du coach. C'est la première chose qu'il regarde.
-- **Éléments Visuels :**
-  - Une liste claire et simple de toutes les vidéos qui n'ont pas encore été commentées.
-  - **Chaque ligne de la liste contient :**
-    - Photo du Joueur.
-    - **Nom du Joueur** (ex: "Lucas Martin").
-    - **Titre de la Vidéo** (ex: "Match Interclubs vs. Aulnay").
-    - **Date de l'upload** (ex: "Téléchargé il y a 3h").
-    - **Bouton d'action principal :** `[ ▷ Analyser ]` (Ce bouton mène directement à l'Écran 3 : Le Lecteur d'Analyse).
-  - **État "Vide" :** Si la liste est vide, un message s'affiche : "Bravo, vous êtes à jour ! Aucun feedback en attente." (C'est gratifiant pour le coach).
-
----
-
-
-### Widget 2 : "Mes Joueurs" (Le Management)
-- **Titre :** 👥 **Mon Équipe**
-- **Objectif :** Accéder rapidement au profil de n'importe quel joueur.
-- **Éléments Visuels :**
-  - Une grille de "cartes" de joueur (plus visuel qu'une liste).
-  - **Chaque carte de joueur contient :**
-    - Sa photo de profil.
-    - Son nom (ex: "Juliette Durand").
-    - Une petite statistique (ex: "5 Vidéos ce mois-ci").
-    - Un indicateur de statut (ex: un point rouge `●` si une vidéo est en attente, un point vert `●` si tout est à jour).
-  - *En cliquant sur une carte, le coach accède au profil complet du joueur (sa bibliothèque vidéo personnelle, ses progrès, etc.).*
-  - **Bouton d'action (dans le coin du widget) :** `[ + Inviter un Joueur ]` (Permet au coach d'envoyer un lien d'invitation par e-mail à un nouveau joueur pour qu'il rejoigne son "équipe").
-
----
-
-### Widget 3 : "Activité Récente" (La Preuve de Valeur)
-- **Titre :** 📈 **Flux d'Activité**
-- **Objectif :** Montrer au coach que son travail (le feedback) est *utile* et *vu*. Cela "ferme la boucle" et justifie le prix de l'abonnement.
-- **Éléments Visuels :**
-  - Un "feed" chronologique (comme sur les réseaux sociaux).
-  - **Exemples d'entrées dans le flux :**
-    - `✅` **Lucas Martin** a visionné votre feedback sur "Match Interclubs".
-    - `💬` **Juliette Durand** a répondu à votre commentaire sur "Focus Service".
-    - `🆕` **Tom Petit** a rejoint votre équipe.
-    - `⏳` Votre analyse de "Match vs Aulnay" a été envoyée avec succès.
-
-
----
-
-### Résumé de l'Expérience Coach
-En arrivant sur cet écran, le Coach Martin voit en 3 secondes :
-1. Dans le **Widget 1**, que Lucas et Juliette ont posté 3 nouvelles vidéos à analyser.
-1. Dans le **Widget 2**, que Tom (son nouvel élève) a bien activé son compte.
-1. Dans le **Widget 3**, que Lucas a bien regardé (et donc "consommé") le feedback qu'il lui a fait hier soir.
-Il sait exactement quoi faire : il clique sur `[ ▷ Analyser ]` pour la première vidéo de Lucas.
-
-
-
-
-### Lecteur Vidéo
-C'est un excellent projet. Pour le badminton, la précision des courbes (trajectoires paraboliques du volant) et la fluidité sont essentielles.
-Il n'existe pas de "lecteur vidéo tout-en-un" parfait qui inclut déjà des outils de dessin avancés par défaut. La meilleure approche technique consiste à utiliser une **architecture en couches (Layering)** : un élément vidéo en fond et un élément `HTML5 Canvas` transparent par-dessus pour dessiner.
-Voici les meilleures combinaisons de bibliothèques TypeScript/JavaScript pour réaliser cela :
-
-### 1. La solution la plus flexible (Recommandée) : HTML5 Video + Konva.js
-C'est la combinaison standard pour ce type d'application d'analyse sportive.
-- **Le Lecteur :** Élément natif `<video>` (ou un wrapper léger comme `Plyr` pour de jolis contrôles).
-- **Le Dessin :** **Konva.js** (ou `react-konva` si vous utilisez React).
-- **Pourquoi ?** Konva est extrêmement performant pour gérer des formes vectorielles. Pour le badminton, vous aurez besoin de tracer des courbes de Bézier (pour simuler la gravité sur le volant). Konva gère le "drag and drop", le redimensionnement et les calques (layers) très facilement.
-**Architecture :**
-HTML
-
-```javascript
-<div style="position: relative; width: 800px; height: 450px;">
-  <video id="video-player" src="match.mp4" style="width: 100%; height: 100%; position: absolute; top: 0; left: 0;"></video>
-  
-  <div id="konva-container" style="width: 100%; height: 100%; position: absolute; top: 0; left: 0; pointer-events: none;"></div>
-</div>
-```
-*(Note : **`pointer-events: none`** sur le conteneur permet de cliquer à travers pour lancer la vidéo, mais vous devrez gérer l'état "mode dessin" pour réactiver les événements).*
-
----
-
-### 2. L'alternative puissante : Fabric.js
-Très similaire à Konva, **Fabric.js** est une bibliothèque canvas très mature.
-- **Avantages :** Elle possède un modèle objet très robuste. Vous pouvez dessiner une flèche, puis la sélectionner, la tourner et la modifier comme dans PowerPoint.
-- **Inconvénient :** Un peu plus lourde que Konva, mais excellente si vous voulez permettre à l'utilisateur d'ajouter du texte, des cercles (pour entourer un joueur) ou des images par-dessus la vidéo.
-
----
-
-### 3. Si vous voulez générer une vidéo finale : Remotion
-Si votre but n'est pas seulement d'analyser en direct, mais de **créer une nouvelle vidéo** qui inclut vos dessins (pour l'exporter et l'envoyer à un athlète), regardez **Remotion**.
-- **Concept :** C'est une bibliothèque pour créer des vidéos par code en React.
-- **Usage :** Vous pouvez définir la vidéo du match comme "background" et animer les trajectoires frame par frame avec du SVG ou du Canvas.
-- **Avantage :** Rendu professionnel au pixel près.
-
----
-
-### 4. Le lecteur "tout-terrain" : Video.js + Plugins
-Si vous avez besoin de supporter des flux complexes (HLS, DASH) ou si vous voulez un lecteur très standardisé :
-- utilisez **Video.js**.
-- Il existe des plugins comme `videojs-annotation-comments`, mais ils sont souvent limités.
-- **Mon conseil :** Utilisez Video.js pour gérer la lecture (play, pause, seek), mais gardez l'approche "Canvas par-dessus" (avec Konva ou Fabric) pour le dessin, car les plugins natifs sont souvent trop rigides pour les courbes de badminton.
-
----
-
-### Comparatif rapide
-
-### Fonctionnalités clés à implémenter pour le Badminton
-Pour que votre outil soit utile aux badistes, voici ce que vous devrez coder en TypeScript :
-1. **Synchro Temporelle :** Les dessins doivent apparaître à un `timestamp` précis.
-  - *Logique :* Créer un tableau d'objets `{ type: 'arrow', points: [...], startTime: 12.5, duration: 3 }`. Dans la boucle de rendu (`requestAnimationFrame`), si `video.currentTime` est dans l'intervalle, on affiche le dessin.
-1. **Courbes de Bézier :** Un dégagé ou un lob ne sont pas des lignes droites. Utilisez les courbes quadratiques pour représenter la chute du volant.
-1. **Persistance :** Souhaitez-vous que la trajectoire reste affichée (analyse statique) ou qu'elle suive le volant (tracking) ?
-
-
-## **Souhaitez-vous que je vous génère un exemple de code minimal (boilerplate) avec React et Konva pour montrer comment superposer le dessin à la vidéo ?**
-
-Voici un "boilerplate" (code de démarrage) complet et fonctionnel utilisant **React** et **React-Konva**.
-C'est la solution la plus robuste pour une application web moderne. Elle gère la superposition du Canvas sur la vidéo et le redimensionnement automatique.
-
-### Prérequis
-Vous devrez installer ces paquets dans votre projet React :
-Bash
-`npm install konva react-konva`
-
-### Le Code (TypeScript)
-Créez un composant `BadmintonPlayer.tsx`. J'ai ajouté des commentaires pour expliquer la logique des trajectoires.
-TypeScript
-
-```javascript
-import React, { useRef, useState, useEffect } from 'react';
-import { Stage, Layer, Line } from 'react-konva';
-import Konva from 'konva';
-
-// Définition de la structure d'un trait (trajectoire)
-interface Trajectory {
-  id: string;
-  points: number[]; // Tableau [x1, y1, x2, y2...]
-  color: string;
-  strokeWidth: number;
-}
-
-const BadmintonPlayer: React.FC = () => {
-  // --- États ---
-  const [videoUrl] = useState<string>("https://www.w3schools.com/html/mov_bbb.mp4"); // Remplacez par votre vidéo de badminton
-  const [dimensions, setDimensions] = useState({ width: 800, height: 450 });
-  const [trajectories, setTrajectories] = useState<Trajectory[]>([]);
-  const [currentLine, setCurrentLine] = useState<Trajectory | null>(null);
-  const [isDrawingMode, setIsDrawingMode] = useState(false);
-
-  // --- Refs ---
-  const videoRef = useRef<HTMLVideoElement>(null);
-  const isDrawing = useRef(false);
-
-  // --- Gestion de la taille de la vidéo ---
-  // On ajuste la taille du canvas pour qu'elle colle parfaitement à la vidéo
-  const handleLoadedMetadata = () => {
-    if (videoRef.current) {
-      const width = videoRef.current.videoWidth;
-      const height = videoRef.current.videoHeight;
-      // Ici, on pourrait adapter à la largeur de l'écran, pour l'exemple on garde la taille native
-      setDimensions({ width, height });
-    }
-  };
-
-  // --- Logique de Dessin (Souris / Tactile) ---
-  const handleMouseDown = (e: Konva.KonvaEventObject<MouseEvent | TouchEvent>) => {
-    if (!isDrawingMode) return;
-    
-    isDrawing.current = true;
-    const pos = e.target.getStage()?.getPointerPosition();
-    if (!pos) return;
-
-    // On commence une nouvelle ligne (trajectoire)
-    const newLine: Trajectory = {
-      id: Date.now().toString(),
-      points: [pos.x, pos.y],
-      color: '#df4b26', // Orange vif pour bien voir sur le terrain vert
-      strokeWidth: 4,
-    };
-    setCurrentLine(newLine);
-  };
-
-  const handleMouseMove = (e: Konva.KonvaEventObject<MouseEvent | TouchEvent>) => {
-    if (!isDrawingMode || !isDrawing.current || !currentLine) return;
-
-    const pos = e.target.getStage()?.getPointerPosition();
-    if (!pos) return;
-
-    // On ajoute les points à la ligne en cours
-    const newPoints = currentLine.points.concat([pos.x, pos.y]);
-    setCurrentLine({ ...currentLine, points: newPoints });
-  };
-
-  const handleMouseUp = () => {
-    if (!isDrawingMode || !isDrawing.current || !currentLine) return;
-    
-    isDrawing.current = false;
-    // On sauvegarde la ligne terminée dans l'historique
-    setTrajectories([...trajectories, currentLine]);
-    setCurrentLine(null);
-  };
-
-  // --- Rendu ---
-  return (
-    <div className="flex flex-col items-center gap-4 p-4">
-      {/* Barre d'outils simple */}
-      <div className="controls" style={{ marginBottom: '10px' }}>
-        <button 
-          onClick={() => {
-            setIsDrawingMode(!isDrawingMode);
-            // Si on dessine, on met la vidéo en pause
-            if (!isDrawingMode && videoRef.current) videoRef.current.pause();
-          }}
-          style={{ padding: '10px', background: isDrawingMode ? '#ff4444' : '#4CAF50', color: 'white', border: 'none', borderRadius: '4px', cursor: 'pointer' }}
-        >
-          {isDrawingMode ? "Mode Lecture (Stop Dessin)" : "Mode Dessin (Annoter)"}
-        </button>
-        
-        <button 
-           onClick={() => setTrajectories([])}
-           style={{ marginLeft: '10px', padding: '10px' }}
-        >
-           Effacer tout
-        </button>
-      </div>
-
-      {/* Conteneur principal : superposition Vidéo + Canvas */}
-      <div 
-        style={{ 
-          position: 'relative', 
-          width: dimensions.width, 
-          height: dimensions.height,
-          border: '2px solid #333'
-        }}
-      >
-        {/* COUCHE 1 : La Vidéo */}
-        <video
-          ref={videoRef}
-          src={videoUrl}
-          onLoadedMetadata={handleLoadedMetadata}
-          controls={!isDrawingMode} // On cache les contrôles natifs quand on dessine pour éviter les clics parasites
-          style={{ width: '100%', height: '100%', objectFit: 'contain' }}
-        />
-
-        {/* COUCHE 2 : Le Canvas Konva */}
-        <div 
-            style={{ 
-                position: 'absolute', 
-                top: 0, 
-                left: 0, 
-                // Si on n'est pas en mode dessin, on laisse les clics passer au travers vers la vidéo (pointer-events: none)
-                pointerEvents: isDrawingMode ? 'auto' : 'none' 
-            }}
-        >
-          <Stage
-            width={dimensions.width}
-            height={dimensions.height}
-            onMouseDown={handleMouseDown}
-            onMouseMove={handleMouseMove}
-            onMouseUp={handleMouseUp}
-            onTouchStart={handleMouseDown} // Support mobile
-            onTouchMove={handleMouseMove}
-            onTouchEnd={handleMouseUp}
-          >
-            <Layer>
-              {/* Dessiner les trajectoires enregistrées */}
-              {trajectories.map((line) => (
-                <Line
-                  key={line.id}
-                  points={line.points}
-                  stroke={line.color}
-                  strokeWidth={line.strokeWidth}
-                  tension={0.5} // Lissage de la courbe (essentiel pour le badminton !)
-                  lineCap="round"
-                  lineJoin="round"
-                />
-              ))}
-              
-              {/* Dessiner la ligne en cours de tracé */}
-              {currentLine && (
-                <Line
-                  points={currentLine.points}
-                  stroke={currentLine.color}
-                  strokeWidth={currentLine.strokeWidth}
-                  tension={0.5}
-                  lineCap="round"
-                  lineJoin="round"
-                />
-              )}
-            </Layer>
-          </Stage>
-        </div>
-      </div>
-      
-      <p style={{color: '#666', fontSize: '0.9em'}}>
-        Astuce : La propriété <code>tension=0.5</code> lisse automatiquement vos traits pour créer de belles paraboles de volants.
-      </p>
-    </div>
-  );
-};
-
-export default BadmintonPlayer;
-```
-
-### Les 3 points clés de ce code pour le Badminton :
-1. **La propriété ****`tension={0.5}`**** :** C'est la ligne magique. Si vous dessinez un trait un peu tremblant à la souris, Konva va lisser les points pour créer une courbe fluide. C'est parfait pour imiter la trajectoire parabolique d'un dégagé ou d'un lob.
-1. **Gestion du ****`pointer-events`**** :**
-  - Quand `isDrawingMode` est `false` : Le CSS met `pointer-events: none` sur le canvas. Vous pouvez donc cliquer sur "Play/Pause" de la vidéo à travers le canvas.
-  - Quand `isDrawingMode` est `true` : Le canvas capture la souris, vous pouvez dessiner.
-1. **Responsive (Base) :** La fonction `handleLoadedMetadata` s'assure que la zone de dessin a exactement la même taille (en pixels) que la vidéo source, pour éviter qu'un trait dessiné sur le filet ne se retrouve décalé si la fenêtre change.
-
-### Prochaine étape logique
-Une fois que cela fonctionne, l'étape suivante pour un outil d'analyse est d'ajouter la **temporalité**.
-
-
-## Voulez-vous que je vous explique comment faire pour qu'un dessin s'affiche *seulement* entre la seconde 10 et la seconde 15 de la vidéo (synchronisation temporelle) ?
-C'est la fonctionnalité qui transforme un simple outil de dessin en véritable logiciel d'analyse vidéo (comme Dartfish ou Kinovea).
-Le principe logique est le suivant : **"L'apparition conditionnelle"**.
-Au lieu d'afficher *toutes* les lignes du tableau `trajectories`, nous allons filtrer celles qui correspondent au temps actuel de la vidéo.
-Voici les 3 étapes pour modifier votre code précédent.
-
-### Étape 1 : Mettre à jour la structure de données
-Nous devons ajouter une notion de temps (début et fin) à chaque dessin.
-TypeScript
-
-```javascript
-interface Trajectory {
-  id: string;
-  points: number[];
-  color: string;
-  strokeWidth: number;
-  // Nouveaux champs pour la temporalité
-  startTime: number; // En secondes (ex: 12.5)
-  duration: number;  // Combien de temps le dessin reste affiché (ex: 3 secondes)
-}
-```
-
-### Étape 2 : Écouter le temps de la vidéo
-Il faut synchroniser React avec la vidéo. On utilise l'événement natif `onTimeUpdate` de la balise `<video>` qui se déclenche plusieurs fois par seconde pendant la lecture.
-
-### Étape 3 : Le Code Modifié
-Voici le composant mis à jour avec la gestion du temps. J'ai ajouté des commentaires **`[NOUVEAU]`** là où le code a changé.
-TypeScript
-
-```javascript
-import React, { useRef, useState } from 'react';
-import { Stage, Layer, Line, Text } from 'react-konva';
-
-interface Trajectory {
-  id: string;
-  points: number[];
-  color: string;
-  strokeWidth: number;
-  startTime: number; // [NOUVEAU] Temps d'apparition
-  duration: number;  // [NOUVEAU] Durée d'affichage
-}
-
-const BadmintonVideoAnalyzer: React.FC = () => {
-  const [videoUrl] = useState<string>("https://www.w3schools.com/html/mov_bbb.mp4");
-  const [dimensions, setDimensions] = useState({ width: 800, height: 450 });
-  const [trajectories, setTrajectories] = useState<Trajectory[]>([]);
-  const [currentLine, setCurrentLine] = useState<Trajectory | null>(null);
-  const [isDrawingMode, setIsDrawingMode] = useState(false);
-  
-  // [NOUVEAU] État pour stocker le temps actuel de la vidéo
-  const [currentTime, setCurrentTime] = useState(0);
-
-  const videoRef = useRef<HTMLVideoElement>(null);
-  const isDrawing = useRef(false);
-
-  // [NOUVEAU] Met à jour l'état React à chaque frame de la vidéo
-  const handleTimeUpdate = () => {
-    if (videoRef.current) {
-      setCurrentTime(videoRef.current.currentTime);
-    }
-  };
-
-  const handleMouseDown = (e: any) => {
-    if (!isDrawingMode) return;
-    isDrawing.current = true;
-    const pos = e.target.getStage()?.getPointerPosition();
-    if (!pos || !videoRef.current) return;
-
-    // [NOUVEAU] On capture le temps actuel de la vidéo au moment du clic
-    const videoTimeAtClick = videoRef.current.currentTime;
-
-    const newLine: Trajectory = {
-      id: Date.now().toString(),
-      points: [pos.x, pos.y],
-      color: '#df4b26',
-      strokeWidth: 4,
-      startTime: videoTimeAtClick, // Le dessin est lié à cette seconde précise
-      duration: 3, // Par défaut, le dessin restera 3 secondes
-    };
-    setCurrentLine(newLine);
-  };
-
-  const handleMouseMove = (e: any) => {
-    if (!isDrawingMode || !isDrawing.current || !currentLine) return;
-    const pos = e.target.getStage()?.getPointerPosition();
-    if (!pos) return;
-    
-    // Mise à jour classique des points
-    const newPoints = currentLine.points.concat([pos.x, pos.y]);
-    setCurrentLine({ ...currentLine, points: newPoints });
-  };
-
-  const handleMouseUp = () => {
-    if (!isDrawingMode || !isDrawing.current || !currentLine) return;
-    isDrawing.current = false;
-    setTrajectories([...trajectories, currentLine]);
-    setCurrentLine(null);
-  };
-
-  return (
-    <div className="flex flex-col items-center gap-4 p-4">
-      <div className="controls mb-2">
-        <button 
-          onClick={() => {
-            setIsDrawingMode(!isDrawingMode);
-            if (!isDrawingMode && videoRef.current) videoRef.current.pause();
-          }}
-          style={{ padding: '10px', background: isDrawingMode ? '#ff4444' : '#4CAF50', color: 'white', border: 'none', borderRadius: '4px' }}
-        >
-          {isDrawingMode ? "Terminer le dessin" : "Annoter (Pause & Dessine)"}
-        </button>
-        <span style={{marginLeft: '15px'}}>Temps: {currentTime.toFixed(2)}s</span>
-      </div>
-
-      <div style={{ position: 'relative', width: dimensions.width, height: dimensions.height, border: '2px solid #333' }}>
-        
-        {/* COUCHE VIDÉO */}
-        <video
-          ref={videoRef}
-          src={videoUrl}
-          onLoadedMetadata={(e) => {
-            setDimensions({ width: e.currentTarget.videoWidth, height: e.currentTarget.videoHeight });
-          }}
-          // [NOUVEAU] C'est ici que la magie opère pour la synchro
-          onTimeUpdate={handleTimeUpdate} 
-          controls={!isDrawingMode}
-          style={{ width: '100%', height: '100%' }}
-        />
-
-        {/* COUCHE DESSIN */}
-        <div style={{ position: 'absolute', top: 0, left: 0, pointerEvents: isDrawingMode ? 'auto' : 'none' }}>
-          <Stage
-            width={dimensions.width}
-            height={dimensions.height}
-            onMouseDown={handleMouseDown}
-            onMouseMove={handleMouseMove}
-            onMouseUp={handleMouseUp}
-          >
-            <Layer>
-              {/* [NOUVEAU] LOGIQUE DE FILTRAGE TEMPOREL */}
-              {trajectories
-                .filter((line) => {
-                  // On affiche la ligne SEULEMENT SI :
-                  // Le temps vidéo est après le début du dessin
-                  // ET le temps vidéo est avant la fin du dessin (début + durée)
-                  return currentTime >= line.startTime && currentTime <= (line.startTime + line.duration);
-                })
-                .map((line) => (
-                  <React.Fragment key={line.id}>
-                    <Line
-                      points={line.points}
-                      stroke={line.color}
-                      strokeWidth={line.strokeWidth}
-                      tension={0.5}
-                      lineCap="round"
-                      lineJoin="round"
-                    />
-                    {/* Petit bonus : afficher "SMASH" ou autre texte à côté */}
-                  </React.Fragment>
-              ))}
-
-              {/* La ligne qu'on est en train de tracer s'affiche toujours */}
-              {currentLine && (
-                <Line
-                  points={currentLine.points}
-                  stroke={currentLine.color}
-                  strokeWidth={currentLine.strokeWidth}
-                  tension={0.5}
-                />
-              )}
-            </Layer>
-          </Stage>
-        </div>
-      </div>
-    </div>
-  );
-};
-
-export default BadmintonVideoAnalyzer;
-```
-
-### Comment l'utiliser en situation de coaching
-1. Lancez la vidéo.
-1. Vous voyez un "Smash" intéressant à `00:15`.
-1. Cliquez sur **"Annoter"** (la vidéo se met en pause automatiquement grâce à notre code).
-1. Dessinez la trajectoire du volant.
-1. Reprenez la lecture.
-1. **Résultat :** Quand la vidéo repassera entre `00:15` et `00:18` (durée par défaut de 3s), le trait rouge apparaîtra à l'écran, puis disparaîtra tout seul après.
-
-### Pour aller plus loin (Idées d'amélioration)
-- **Timeline visuelle :** Afficher de petits points colorés sur la barre de progression de la vidéo (`<input type="range">`) pour montrer où se trouvent les annotations.
-- **Édition de durée :** Au moment de dessiner, vous pourriez ouvrir une petite modale demandant : *"Combien de temps afficher ce dessin ?"* ou *"Cocher ici pour que le dessin reste jusqu'à la fin du point"*.
-
-
-
-### Entraînement ia avis copilote 
-[https://copilot.microsoft.com/shares/ZsGn5nA7K4fPQTtchQuBF](https://copilot.microsoft.com/shares/ZsGn5nA7K4fPQTtchQuBF)
-Réponse rapide : Pour obtenir une IA correcte en reconnaissance de trajectoires et fautes directes au badminton, il faut viser des centaines d’heures de vidéo annotées et des dizaines de milliers d’annotations précises. Les premiers modèles peuvent être entraînés avec moins (par ex. 50–100 matchs annotés), mais la performance sera limitée.  
----
-📊 Volumes de données nécessaires
-1. Vidéos- Petite échelle (prototype) : 50–100 matchs complets (~100–200 heures de vidéo).  - Échelle intermédiaire (IA correcte) : 300–500 matchs (~600–1000 heures).  - Échelle avancée (IA robuste) : >1000 matchs (>2000 heures).  
-👉 Plus la diversité est grande (angles de caméra, niveaux de joueurs, types de fautes), plus l’IA sera généralisable.
-2. Annotations- Trajectoires du volant : chaque échange doit être annoté image par image ou via tracking automatique corrigé manuellement.  - Actions des joueurs : déplacements, frappes, positions.  - Fautes directes : marquer explicitement les erreurs (volant dehors, filet, service faux).  
-Un dataset comme VideoBadminton ou FineBadminton propose des annotations multi-niveaux (actions, tactiques, décisions) avec plusieurs dizaines de milliers d’annotations.
----
-📚 Exemples de datasets existants| Dataset | Volume | Type d’annotations | Utilité ||---------|--------|--------------------|---------|| VideoBadminton (2024) | Plusieurs centaines de vidéos | Actions, trajectoires, contextes | Reconnaissance d’actions || FineBadminton (2025) | Large-scale, multi-niveaux | Actions, tactiques, fautes | Analyse fine et fautes directes || BadmintonDB (GitHub) | Matches YouTube annotés | JSON/EAF (actions, fautes) | Bon point de départ |
----
-⚠️ Points critiques- Annotation manuelle coûteuse : prévoir une équipe ou utiliser des outils semi-automatiques (tracking du volant + correction humaine).  - Qualité > quantité : mieux vaut 200 heures bien annotées que 1000 heures avec des annotations approximatives.  - Diversité des données : inclure différents niveaux de jeu (amateur, pro), différents angles de caméra, et plusieurs types de fautes.  - Équilibrage des classes : les fautes directes sont moins fréquentes que les échanges normaux → risque de déséquilibre. Il faudra des techniques comme le sur-échantillonnage ou la pondération des classes.
----
-🚀 Recommandation pratique1. Commencez petit : 50–100 matchs annotés pour tester vos modèles.  2. Utilisez des datasets publics (VideoBadminton, FineBadminton, BadmintonDB) pour compléter vos données.  3. Évoluez progressivement vers 500+ matchs annotés pour atteindre une IA fiable.  4. Automatisez l’annotation avec des outils de vision par ordinateur (tracking du volant, détection des joueurs) pour réduire le coût.  
----
-👉 En résumé : visez au moins 500 heures de vidéo et 20–30k annotations pour une IA correcte, puis augmentez si vous voulez une robustesse proche du niveau professionnel.  
-Souhaitez-vous que je vous propose une méthodologie concrète d’annotation semi-automatique (par ex. combiner tracking du volant avec correction humaine) pour réduire l’effort de labellisation ?
-**Réponse rapide :** Pour obtenir une IA correcte en reconnaissance de trajectoires et fautes directes au badminton, il faut viser **des centaines d’heures de vidéo annotées** et **des dizaines de milliers d’annotations précises**. Les premiers modèles peuvent être entraînés avec moins (par ex. 50–100 matchs annotés), mais la performance sera limitée.
-
-## 📊 Volumes de données nécessaires
-
-### 1. Vidéos
-- **Petite échelle (prototype)** : 50–100 matchs complets (~100–200 heures de vidéo).
-- **Échelle intermédiaire (IA correcte)** : 300–500 matchs (~600–1000 heures).
-- **Échelle avancée (IA robuste)** : >1000 matchs (>2000 heures).
-👉 Plus la diversité est grande (angles de caméra, niveaux de joueurs, types de fautes), plus l’IA sera généralisable.
-
-### 2. Annotations
-- **Trajectoires du volant** : chaque échange doit être annoté image par image ou via tracking automatique corrigé manuellement.
-- **Actions des joueurs** : déplacements, frappes, positions.
-- **Fautes directes** : marquer explicitement les erreurs (volant dehors, filet, service faux).
-Un dataset comme **VideoBadminton** ou **FineBadminton** propose des **annotations multi-niveaux** (actions, tactiques, décisions) avec **plusieurs dizaines de milliers d’annotations**.
-
-## 📚 Exemples de datasets existants
-
-## ⚠️ Points critiques
-- **Annotation manuelle coûteuse** : prévoir une équipe ou utiliser des outils semi-automatiques (tracking du volant + correction humaine).
-- **Qualité > quantité** : mieux vaut 200 heures bien annotées que 1000 heures avec des annotations approximatives.
-- **Diversité des données** : inclure différents niveaux de jeu (amateur, pro), différents angles de caméra, et plusieurs types de fautes.
-- **Équilibrage des classes** : les fautes directes sont moins fréquentes que les échanges normaux → risque de déséquilibre. Il faudra des techniques comme le sur-échantillonnage ou la pondération des classes.
-
-## 🚀 Recommandation pratique
-1. **Commencez petit** : 50–100 matchs annotés pour tester vos modèles.
-1. **Utilisez des datasets publics** (VideoBadminton, FineBadminton, BadmintonDB) pour compléter vos données.
-1. **Évoluez progressivement** vers 500+ matchs annotés pour atteindre une IA fiable.
-1. **Automatisez l’annotation** avec des outils de vision par ordinateur (tracking du volant, détection des joueurs) pour réduire le coût.
-👉 En résumé : **visez au moins 500 heures de vidéo et 20–30k annotations pour une IA correcte**, puis augmentez si vous voulez une robustesse proche du niveau professionnel.
-Souhaitez-vous que je vous propose une **méthodologie concrète d’annotation semi-automatique** (par ex. combiner tracking du volant avec correction humaine) pour réduire l’effort de labellisation ?
-
-
-
----
-[https://copilot.microsoft.com/shares/RYXgje6raz83uNGS5R7K1](https://copilot.microsoft.com/shares/RYXgje6raz83uNGS5R7K1)
-Oui, il existe déjà des modèles et projets pré‑entraînés pour l’analyse vidéo du badminton, mais ils sont encore assez spécialisés et souvent liés à des datasets de recherche.
-
----
-🔑 Modèles et ressources disponibles
-1. FineBadminton (2025)
-- Type : Dataset + modèles de référence.
-- Contenu : annotations multi‑niveaux (trajectoires, actions, fautes, tactiques).
-- Utilisation : permet d’entraîner ou de fine‑tuner des modèles multimodaux (vision + langage) pour la compréhension fine du badminton.
-- Avantage : conçu pour la reconnaissance des fautes directes et l’analyse tactique.
-1. Badminton‑Analysis (GitHub)
-- Type : Projet open‑source basé sur computer vision.
-- Fonctionnalités : détection des joueurs et du volant, tracking basique, classification des coups.
-- Utilisation : point de départ pour développer un modèle personnalisé.
-- Avantage : code disponible, facile à adapter à vos propres vidéos.
-1. AI‑powered Badminton Video Detection (TechRxiv, 2023)
-- Type : Recherche appliquée.
-- Fonctionnalités : analyse des mouvements, sélection de coups, stratégie de jeu.
-- Utilisation : modèles de deep learning appliqués à la détection en temps réel.
-- Avantage : montre la faisabilité d’un système complet d’analyse de performance.
-1. Solutions commerciales ([Tezeract.ai](http://tezeract.ai/), etc.)
-- Type : logiciels sur mesure pour clubs et entraîneurs.
-- Fonctionnalités : tracking du volant, classification des coups (smash, drop, clear), heatmaps tactiques.
-- Utilisation : pas toujours open‑source, mais disponibles en service.
-- Avantage : directement utilisables sans passer par un entraînement lourd.
-
----
-📊 Comparatif synthétique
-
----
-🚀 Recommandation pratique
-- Pour démarrer rapidement : tester Badminton‑Analysis sur GitHub pour le tracking et ajouter vos annotations de fautes.
-- Pour un projet académique : exploiter FineBadminton qui fournit déjà des modèles de référence.
-- Pour un usage professionnel (club/coach) : envisager une solution commerciale comme [Tezeract.ai](http://tezeract.ai/).
-👉 En résumé : il existe des modèles pré‑entraînés, mais la plupart sont académiques ou prototypes. Pour une IA robuste, il faudra fine‑tuner ces modèles avec vos propres vidéos annotées.
-Souhaitez‑vous que je vous propose une pipeline technique concrète (ex. : détection du volant → tracking → classification des fautes) basée sur ces modèles existants ?
-
-
-
-
-## Coach.ia
-
-[https://www.notion.so/my-integrations](https://www.notion.so/my-integrations)
 
 
